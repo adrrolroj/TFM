@@ -15,15 +15,12 @@ from sklearn.preprocessing import MinMaxScaler
 import datetime
 import pandas as pd
 
-
 atribute = 'O3'
 date = '2016-07-19 00:00:00.000000'
-
 
 date_time_obj = datetime.datetime.strptime(date, '%Y-%m-%d %H:%M:%S.%f')
 day = date_time_obj.timetuple().tm_yday
 year = date_time_obj.year
-
 
 max_year = 2021
 min_year = 2010
@@ -60,17 +57,17 @@ year = torch.tensor(scaler_year.transform(np.array(year).reshape(-1, 1)))
 for index, point in points.iterrows():
     input_point = list()
     x = torch.tensor(scaler_x.transform(np.array(point['x']).reshape(-1, 1)))
-    input_point.append(x.float()) # X
+    input_point.append(x.float())  # X
     y = torch.tensor(scaler_y.transform(np.array(point['y']).reshape(-1, 1)))
-    input_point.append(y.float()) # Y
+    input_point.append(y.float())  # Y
 
-    input_point.append(day.float()) # day
-    input_point.append(year.float()) # year
+    input_point.append(day.float())  # day
+    input_point.append(year.float())  # year
 
     denst_n = torch.tensor(scaler_density.transform(np.array(point['density_neigh']).reshape(-1, 1)))
     input_point.append(denst_n.float())  # density neigh
     denst = torch.tensor(scaler_density.transform(np.array(point['density']).reshape(-1, 1)))
-    input_point.append(denst.float()) # density
+    input_point.append(denst.float())  # density
 
     temp = np.array(point['temp']).reshape(-1, 1)
     temp[np.isnan(temp)] = 0.0

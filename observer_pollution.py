@@ -2,6 +2,6 @@ import db_calls as db
 import matplotlib.pyplot as plt
 
 atribute = 'NO2'
-df = db.get_table_analysis('select * from censal_pollution')
+df = db.get_table('select * from censal_pollution', 'Analysis')
 df.plot(column=atribute, legend=True)
 plt.show()

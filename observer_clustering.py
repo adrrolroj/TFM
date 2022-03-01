@@ -7,7 +7,7 @@ from analysis import visualize_cluster_with_images
 # Opciones kmeans, spectral, aglomerative
 method = 'spectral'
 
-df = db.get_table_analysis(f'SELECT * FROM {method}_analysis')
+df = db.get_table(f'SELECT * FROM {method}_analysis', 'Analysis')
 pie_po = mpimg.imread(f'exports/clustering/{method}_poblation_pie_graph.png')
 profiling_po = mpimg.imread(f'exports/clustering/{method}_poblation_profiling_centers.png')
 pie_li = mpimg.imread(f'exports/clustering/{method}_life_condition_pie_graph.png')

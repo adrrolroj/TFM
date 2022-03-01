@@ -1,0 +1,2000 @@
+,ID,Age,Gender,Adress,PostCode,Province,Health_District,CUSEC
+0,33258,27,Mujer,"Av Dr Fedriani 41, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+1,33326,55,Mujer,"Victor Torres 42, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+2,33330,42,Hombre,"Granada 9, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+3,33333,48,Mujer,"Orquidea 0, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+4,33337,46,Mujer,"La Estacada 14, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+5,33338,20,Mujer,"La Matilla 14, 41440",41440,Sevilla,Sevilla Norte,
+6,33357,25,Mujer,"Alba 1, 41200",41200,Sevilla,Sevilla Norte,1_41_5_1_1
+7,33367,45,Hombre,"Miguel Unamuno 13, 41020",41020,Sevilla,Sevilla,1_41_91_9_36
+8,33419,32,Mujer,"Esturion 16, 41015",41015,Sevilla,Sevilla,1_41_91_7_19
+9,33420,22,Hombre,"Sierra de Grazalema 10, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_4
+10,33422,73,Mujer,"Jose fernandez Vega 40, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+11,33550,36,Mujer,"Prof. heliodoro sancho Corbacho 1, 41019",41020,Sevilla,Sevilla,1_41_91_9_17
+12,33551,48,Mujer,"San Amiano 3, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_3
+13,33667,15,Mujer,"Dr. leal Castaño 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+14,33717,59,Mujer,"San Sebastian 56, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_2
+15,34190,22,Mujer,"Tiburon 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_19
+16,34219,54,Mujer,"Silio 31, 41970",41970,Sevilla,Aljarafe,1_41_89_1_1
+17,34222,20,Mujer,"Cinta de La 60, 21005",21005,Huelva,Huelva-Costa,
+18,34246,57,Mujer,"Ancha 49, 41230",41230,Sevilla,Sevilla Norte,
+19,34256,20,Mujer,"De los Toros 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_31
+20,34289,34,Hombre,"Getafe 3, 41019",41020,Sevilla,Sevilla,1_41_91_7_25
+21,34298,38,Mujer,"Acueducto 12, 41008",41008,Sevilla,Sevilla,1_41_91_7_4
+22,34308,61,Mujer,"Hernan Cortes 17, 41200",41200,Sevilla,Sevilla Norte,
+23,34357,38,Mujer,"Beethoven 17, 41860",41860,Sevilla,Aljarafe,1_41_45_2_2
+24,34369,16,Mujer,"Estanquillo (del) 19, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+25,34372,28,Mujer,"Aguditas 12, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_2
+26,34384,41,Mujer,"Lanza 11, 41003",41003,Sevilla,Sevilla,1_41_91_1_49
+27,34398,37,Hombre,"Torre de Albarracin 43, 41016",41016,Sevilla,Sevilla,1_41_91_9_24
+28,34416,50,Mujer,"Peña (la) 18, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+29,34420,22,Mujer,"Emilio Lemos 21, 41020",41020,Sevilla,Aljarafe,1_41_91_9_52
+30,34465,36,Mujer,"San Diego 20, 41015",41015,Sevilla,Sevilla,1_41_91_7_46
+31,34514,41,Hombre,"Camino de los Toros 15, 41015",41015,Sevilla,Sevilla,1_41_91_7_12
+32,34531,35,Hombre,"Anguila 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_19
+33,34548,56,Mujer,"Asociaciones de vecinos (las) 13, 41008",41008,Sevilla,Sevilla,1_41_91_7_1
+34,34549,54,Mujer,"Almadraberos 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_36
+35,34555,51,Mujer,"Maria Auxiliadora 3, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_1
+36,34565,49,Mujer,"Conde de Halcon 20, 41009",41008,Sevilla,Sevilla,1_41_91_2_22
+37,34576,62,Mujer,"Ronda de pio Xii 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_36
+38,34592,47,Mujer,"Rodaballo 27, 41015",41015,Sevilla,Sevilla,1_41_91_7_18
+39,34619,23,Hombre,"Federica Montseny 2, 41230",41230,Sevilla,Sevilla Norte,
+40,34645,24,Mujer,"Santa Ana 4, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_5
+41,34673,69,Mujer,"Blasco Ibañez 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+42,34678,26,Mujer,"Blasco Ibañez 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+43,34679,18,Mujer,"Virgen de Fatima 34, 21100",21100,Huelva,Sevilla Norte,
+44,34713,24,Mujer,"Barrihondillo 62, 41860",41860,Sevilla,Sevilla Norte,1_41_45_1_2
+45,34725,40,Hombre,"Jazmin 2, 41318",41318,Sevilla,Sevilla Norte,
+46,34752,14,Hombre,"Federico garcia Lorca 15, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_6
+47,34758,64,Hombre,"Marathon 10, 41020",41020,Sevilla,Sevilla,1_41_91_9_3
+48,34828,36,Mujer,"Playa de Estepona 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+49,34841,14,Mujer,"Doctor marcelo del Rio 21, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_3
+50,34872,37,Mujer,"Guadajoz 37, 41339",41339,Sevilla,Sevilla Norte,
+51,34884,41,Mujer,"Ronda de pio Xii 19, 41008",41008,Sevilla,Sevilla,1_41_91_2_36
+52,34985,66,Mujer,"Pino Montano 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_26
+53,35009,16,Mujer,"Golondrina-urbanizacion Zarzalejos 9, 41860",41860,Sevilla,Sevilla Norte,
+54,35063,14,Mujer,"Tartessos 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_31
+55,35069,43,Mujer,"Rafael Alberti 7, 41008",41008,Sevilla,Sevilla,1_41_91_8_13
+56,35071,57,Hombre,"Vicente Gallego 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+57,35079,42,Mujer,"Constantina 14, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+58,35099,34,Mujer,"Medina y Galnares 137, 41015",41015,Sevilla,Sevilla,1_41_91_7_13
+59,35110,42,Mujer,"Opalo 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+60,35118,18,Mujer,"Alarifes 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_43
+61,35125,44,Mujer,"Vera Cruz 26, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_2
+62,35151,43,Mujer,"Parque sierra Norte 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_33
+63,35187,50,Hombre,"Guadalquivir 9, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_4
+64,35228,22,Mujer,"Cueva de Menga 3, 41020",41020,Sevilla,Sevilla,1_41_91_9_6
+65,35238,72,Mujer,"Virgen del Robledo 6, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_6
+66,35325,29,Hombre,"Conde del Aguila 7, 41008",41008,Sevilla,Sevilla,1_41_91_8_11
+67,35339,24,Hombre,"Azahar 6, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_7
+68,35379,36,Hombre,"Bordadoras 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_31
+69,35515,69,Mujer,"Doctor Porras 31, 21260",21260,Huelva,Sevilla Norte,
+70,35549,26,Mujer,"Antonio perez Perez 28, 41310",41310,Sevilla,Sevilla Norte,
+71,35574,43,Mujer,"Emilio Lemos 51, 41020",41020,Sevilla,Sevilla,1_41_91_9_44
+72,35579,34,Hombre,"Nuestro padre jesus Cautivo 28, 41980",41989,Sevilla,Sevilla Norte,1_41_7_2_4
+73,35594,32,Mujer,"Carlota Navarrete 40, 29670",29670,Málaga,Costa del Sol,
+74,35644,63,Mujer,"Barcelona 30, 41350",41350,Sevilla,Sevilla Norte,1_41_99_3_1
+75,35663,27,Mujer,"Conductores 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_38
+76,35682,60,Mujer,"Mar Mediterraneo 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_41
+77,35697,49,Mujer,"Carteros 8, 41015",41015,Sevilla,Sevilla,1_41_91_7_28
+78,35704,42,Mujer,"Ciudad de Paterna 2, 41019",41019,Sevilla,Sevilla,1_41_91_9_12
+79,35738,17,Hombre,"Blas Infante 8, 41380",41380,Sevilla,Sevilla Norte,
+80,35742,21,Mujer,"Socorro 11, 41003",41003,Sevilla,Sevilla,1_41_91_1_29
+81,35773,37,Mujer,"Cazon 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_21
+82,35806,34,Mujer,"Italica 3, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+83,35865,49,Mujer,"Victoria Kent 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_27
+84,35889,52,Mujer,"Cueva de la mora b 1º 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_39
+85,35896,63,Mujer,"Gladiolo 7, 41008",41008,Sevilla,Sevilla,1_41_91_2_21
+86,35904,13,Mujer,"Falla 16, 41860",41860,Sevilla,Sevilla Norte,1_41_45_2_2
+87,35909,15,Hombre,"Guadalquivir 10, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_4
+88,35983,29,Mujer,"Valdes Leal 12, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_4
+89,36005,46,Mujer,"Arroyo 70, 41008",41008,Sevilla,Sevilla,1_41_91_8_30
+90,36012,22,Mujer,"Alcores 8, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_5
+91,36024,26,Mujer,"Cervantes 43, 41980",41980,Sevilla,Sevilla Norte,
+92,36025,34,Mujer,"Serrezuela 35, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+93,36089,23,Mujer,"Rio Genil 11, 41200",41200,Sevilla,Sevilla Norte,
+94,36110,45,Hombre,"Primavera 16, 41009",41009,Sevilla,Sevilla,1_41_91_2_55
+95,36122,26,Hombre,"Obradoiro 8, 41019",41019,Sevilla,Sevilla,1_41_91_9_58
+96,36145,37,Mujer,"Juan Rabadan, 33, 41002",41002,Sevilla,Sevilla,1_41_91_1_13
+97,36179,45,Mujer,"Ballena 4, 41006",41006,Sevilla,Sevilla,1_41_91_4_29
+98,36181,37,Mujer,"Ximenez de Enciso 30, 41004",41004,Sevilla,Sevilla,1_41_91_1_47
+99,36186,33,Mujer,"La Cilla 18, 41200",41200,Sevilla,Sevilla Norte,1_41_5_1_1
+100,36217,34,Hombre,"Paz (de la) a ba e , 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_7
+101,36226,51,Mujer,"Venecia 3, 41008",41008,Sevilla,Sevilla,1_41_91_8_29
+102,36233,22,Hombre,"Rojas (de Los) 10, 41019",41019,Sevilla,Sevilla,1_41_91_9_56
+103,36246,14,Hombre,"Hermanos gil Rosado 30, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_7
+104,36262,19,Hombre,"Cueva de la Pileta 2, 41020",41020,Sevilla,Sevilla,1_41_91_9_35
+105,36266,34,Mujer,"Francisco santos Chacon 17, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_1
+106,36385,56,Mujer,"Fuenteovejuna 8, 41018",41018,Sevilla,Sevilla,1_41_91_3_41
+107,36440,32,Mujer,"Cristaleros 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_43
+108,38667,49,Mujer,"Miro 52, 41209",41209,Sevilla,Sevilla Norte,
+109,38671,69,Mujer,"Girasol 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_22
+110,38700,73,Mujer,"De los Barquilleros 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_30
+111,38702,62,Mujer,"Estrella Canopus 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_32
+112,38714,62,Mujer,"Fray diego de Cadiz 19, 41002",41003,Sevilla,Sevilla,1_41_91_1_25
+113,38717,80,Mujer,"San juan Bosco 19, 41008",41008,Sevilla,Sevilla,1_41_91_8_9
+114,38723,34,Mujer,"Parque atlantico a 5º 1, 41008",41008,Sevilla,Sevilla,1_41_91_7_1
+115,38725,68,Mujer,"Abril 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_30
+116,38740,72,Mujer,"Santa Escolastica 13, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+117,38752,79,Mujer,"Duero 6, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_4
+118,36237,41,Mujer,"Juan manuel rodriguez Correa 17, 41009",41009,Sevilla,Sevilla,1_41_91_2_45
+119,38761,53,Mujer,"Ciencias (de Las) 28, 41016",41016,Sevilla,Sevilla,1_41_91_9_1
+120,38764,81,Mujer,"Estrella Canopus 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_33
+121,38776,66,Hombre,"Poleo 7, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_4
+122,38777,47,Hombre,"Camino de Guillena 25, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+123,38782,72,Mujer,"Esparteros 8, 41008",41015,Sevilla,Sevilla,1_41_91_7_44
+124,38790,55,Mujer,"San Isidro 9, 41440",41440,Sevilla,Sevilla Norte,
+125,38792,21,Mujer,"Principes (los) p iv B 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_27
+126,38801,66,Mujer,"Medina y Galnares 161, 41015",41015,Sevilla,Sevilla,1_41_91_7_13
+127,38802,76,Mujer,"Virgen del Rocio 1, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_4
+128,38805,45,Mujer,"Marzo 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_29
+129,37478,75,Mujer,"San juan de la Salle 71, 41008",41008,Sevilla,Sevilla,1_41_91_2_25
+130,37484,77,Hombre,"Jimenez Aranda 19, 41018",41018,Sevilla,Sevilla,1_41_91_3_41
+131,37486,37,Mujer,"Zurraque 7, 41010",41010,Sevilla,Sevilla,1_41_91_6_12
+132,37488,46,Hombre,"Miraflores 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_5
+133,37495,77,Mujer,"Las Flores, 18, 41200",41209,Sevilla,Sevilla Norte,
+134,37497,43,Mujer,"Jose bazan Calvo 15, 41980",41980,Sevilla,Sevilla Norte,
+135,37504,58,Mujer,"Mar tirreno B 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_28
+136,37516,27,Mujer,"Hinojo 32, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+137,37520,78,Mujer,"San Diego 19, 41015",41015,Sevilla,Sevilla,1_41_91_7_46
+138,37533,49,Mujer,"Playa cruz del Mar 19, 41980",41980,Sevilla,Sevilla Norte,
+139,37541,88,Mujer,"Chile 14, 41012",41012,Sevilla,Sevilla,1_41_91_10_16
+140,37542,80,Mujer,"Murillo 62, 41250",41250,Sevilla,Sevilla Norte,1_41_80_2_1
+141,37543,52,Mujer,"Jesus Cautivo 22, 41440",41440,Sevilla,Sevilla Norte,1_41_55_3_3
+142,37545,68,Mujer,"Doctor saiz Espada 10, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_2
+143,37556,83,Mujer,"Andalucia (de) 109, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_4
+144,37564,75,Hombre,"Puerto Rico 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+145,37567,82,Mujer,"Acueducto 6, 41200",41200,Sevilla,,1_41_5_1_1
+146,37568,66,Hombre,"Calle doctor madrazo Osuna 7, 41020",41020,Sevilla,Sevilla,1_41_91_9_50
+147,37583,39,Mujer,"Murillo 5, 41318",41318,Sevilla,Sevilla Norte,
+148,37585,42,Mujer,"Baliza 10, 41020",41020,Sevilla,Sevilla,1_41_91_9_28
+149,37586,44,Mujer,"Perafan de ribera (albergue) 0, 41009",41009,Sevilla,Sevilla,1_41_91_2_1
+150,37588,45,Mujer,"Cafeteria Tena 13, 41450",41450,Sevilla,,1_41_33_1_1
+151,37598,52,Mujer,"Bulerias 26, 41860",41860,Sevilla,Sevilla Norte,1_41_45_2_2
+152,37605,25,Mujer,"San diego d 1º 31, 41015",41015,Sevilla,Sevilla,1_41_91_7_8
+153,37611,53,Mujer,"Perafan de rivera albergu municipal , 41009",41009,Sevilla,Sevilla,1_41_91_2_1
+154,37616,79,Mujer,"Las Flores 6, 41410",41209,Sevilla,Sevilla Norte,
+155,37617,37,Mujer,"Marruecos 15, 41015",41015,Sevilla,Sevilla,1_41_91_7_16
+156,37626,78,Mujer,"Parque sierra Norte 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_12
+157,37627,58,Hombre,"Rafael Laffon 12, 41008",41008,Sevilla,Sevilla,1_41_91_8_32
+158,37633,29,Mujer,"Dolores Ibarruri 26, 41980",41900,Sevilla,Sevilla Norte,1_41_21_1_1
+159,37642,75,Hombre,"Santo Domingo 11, 41210",41008,Sevilla,Sevilla Norte,1_41_91_8_30
+160,37649,80,Mujer,"Peris Mencheta 24, 41002",41002,Sevilla,Sevilla,1_41_91_1_22
+161,37652,89,Mujer,"Velazquez 24, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_4
+162,37668,82,Mujer,"San Vicente 23, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_6
+163,37674,51,Mujer,"Sta Teresa 14, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+164,37676,44,Hombre,"Cruz roja (de La) 14, 41009",41009,Sevilla,Sevilla,1_41_91_2_48
+165,37677,84,Hombre,"Nuestra señora de la Soledad 33, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_3
+166,37678,56,Hombre,"Victoria kent dr bj 2, 41009",41008,Sevilla,Sevilla,1_41_91_2_43
+167,37683,17,Mujer,"Constantina 6, 41009",41008,Sevilla,Sevilla,1_41_91_2_23
+168,37689,42,Hombre,"Dioclesiano 25, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_1
+169,37705,88,Mujer,"Castillo 17, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_1
+170,37707,74,Mujer,"Pedro Lopez 21, 14002",14002,Córdoba,Sevilla,
+171,37724,38,Hombre,"Julio romero de torres 10, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_7
+172,37735,79,Hombre,"Gimnasia 6, 41020",41020,Sevilla,Sevilla,1_41_91_9_3
+173,37737,78,Mujer,"Gonzalez Merchant 6, 41410",41410,Sevilla,Sevilla Norte,1_41_24_1_1
+174,37757,64,Hombre,"Ciudad Verde 45, 41020",41020,Sevilla,Sevilla,1_41_91_9_32
+175,37762,84,Mujer,"Manuel Altolaguirre 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_26
+176,36018,37,Mujer,"Brenes 20, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+177,37792,21,Mujer,"Thailandia 4, 41019",41020,Sevilla,Sevilla,1_41_91_9_44
+178,37799,41,Mujer,"Lamarque de Novoa 6, 41008",41008,Sevilla,Sevilla,1_41_91_2_6
+179,37802,14,Mujer,"Estrella canopus Maz. 1, 41015",41015,Sevilla,,1_41_91_7_33
+180,37817,56,Mujer,"Estrella Aldebaran 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+181,37820,67,Mujer,"Retamares 5, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+182,37823,60,Hombre,"Santo Tomas 19, 41209",41218,Sevilla,Sevilla Norte,
+183,37836,32,Mujer,"Anibal Gonzalez 43, 41309",41309,Sevilla,Sevilla Norte,
+184,37849,66,Mujer,"San juan Bosco 55, 41008",41008,Sevilla,Sevilla,1_41_91_8_5
+185,37850,32,Mujer,"Miguel gutierrez Cruz 41, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_2
+186,37867,70,Mujer,"Azorin 7, 41309",41300,Sevilla,Sevilla Norte,1_41_81_2_8
+187,37868,85,Mujer,"Corral del Moro 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+188,37869,17,Hombre,"Ronda de pio Xii 19, 41008",41008,Sevilla,Sevilla,1_41_91_2_36
+189,37871,19,Mujer,"Jamaica 11, 41012",41012,Sevilla,,1_41_91_10_16
+190,37882,82,Mujer,"Av Dr Fedriani 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_10
+191,37901,43,Mujer,"San Roque 58, 21270",21270,Huelva,Sevilla Norte,
+192,12753,56,Hombre,"Doctor Fleming 4, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+193,37910,77,Mujer,"Medina y Galnares 137, 41015",41015,Sevilla,Sevilla,1_41_91_7_13
+194,37913,82,Mujer,"Mesas de Lora 51, 41440",41440,Sevilla,Sevilla Norte,
+195,37953,79,Mujer,"Nuestro padre Jesus 75, 41440",41440,Sevilla,Sevilla Norte,1_41_55_3_3
+196,37958,35,Mujer,"Av Dr Fedriani 47, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+197,37963,85,Mujer,"Av Dr Fedriani 30, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+198,37983,76,Hombre,"Cañada de la Higuera 27, 41860",41860,Sevilla,Sevilla Norte,
+199,37984,73,Mujer,"Ntra sra de la Salud 7, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+200,37988,58,Mujer,"Avenida de la Constitucion 40, 41370",41370,Sevilla,Sevilla Norte,
+201,37989,41,Mujer,"Estrella Vega 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+202,37993,82,Mujer,"San Fernando 3, 41330",41359,Sevilla,Sevilla Norte,
+203,38006,56,Mujer,"Azahar 13, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_7
+204,38008,85,Mujer,"Nuestra señora del rosario a bj 12, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_2
+205,38009,55,Mujer,"De la Alameda 8, 41218",41218,Sevilla,Sevilla Norte,1_41_49_1_4
+206,38020,84,Mujer,"Becquer 1, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_2
+207,38025,59,Mujer,"Esparteros 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_44
+208,38026,78,Mujer,"Gran Plaza 13, 41005",41005,Sevilla,Sevilla,1_41_91_3_26
+209,38027,41,Mujer,"Entrearroyos Parcela 21, 41410",41410,Sevilla,Sevilla Norte,
+210,38029,81,Mujer,"Pablo Iglesias 10, 41460",41460,Sevilla,Sevilla Norte,
+211,38030,40,Mujer,"Naranjas y Limones 94, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+212,38032,32,Mujer,"Canteras 24, 41860",41860,Sevilla,Sevilla Norte,
+213,38036,70,Mujer,"Jornaleros 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_38
+214,38037,64,Hombre,"Plaza del obradoiro N 7, 41019",41019,Sevilla,Sevilla,1_41_91_9_58
+215,38040,66,Mujer,"Paraiso 6, 41209",41980,Sevilla,Sevilla Norte,1_41_7_2_1
+216,38051,62,Mujer,"San Diego 41, 41008",41015,Sevilla,Sevilla,1_41_91_7_6
+217,38059,70,Mujer,"Vicente Alanis 33, 41008",41008,Sevilla,Sevilla,1_41_91_8_32
+218,38070,77,Hombre,"Corral de la Encarnacion 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+219,38074,35,Mujer,"Victoria Kent 6, 41008",41008,Sevilla,Sevilla,1_41_91_2_27
+220,38083,81,Mujer,"Enladrillada 65, 41003",41003,Sevilla,Sevilla,1_41_91_1_29
+221,38084,62,Hombre,"Teresa Leon 2, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_5
+222,38097,49,Mujer,"Manila 5, 41020",41020,Sevilla,Sevilla,1_41_91_9_59
+223,38100,13,Hombre,"Huerta del Cura 12, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_4
+224,38103,85,Mujer,"De la puerta Real 6, 41002",41002,Sevilla,Sevilla,1_41_91_1_9
+225,38125,68,Mujer,"Primavera 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_55
+226,38127,76,Mujer,"Rey juan carlos I 1, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_3
+227,38131,73,Mujer,"Trujillo 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_59
+228,38147,81,Mujer,"La Malagueta 4, 41020",41020,Sevilla,Sevilla,1_41_91_9_29
+229,38150,46,Mujer,"San Diego 0, 41015",41015,Sevilla,Sevilla,1_41_91_7_27
+230,38154,58,Mujer,"Manzanilla 9, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_6
+231,38158,21,Mujer,"Molino de las Monjas 22, 41560",41560,Sevilla,Sevilla Este,
+232,38160,84,Mujer,"Hoja roja (la) 15, 41300",41300,Sevilla,,1_41_81_2_10
+233,38164,66,Mujer,"Alcalde manuel Ardoy 8, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_17
+234,38174,73,Mujer,"San juan Bautista 56, 41449",41920,Sevilla,Sevilla Norte,1_41_86_2_1
+235,38176,68,Mujer,"Aracena 7, 41010",41010,Sevilla,Sevilla,1_41_91_6_18
+236,12648,41,Mujer,"Puerto de los bueyes 11, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+237,38184,75,Mujer,"Avellana 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_10
+238,38191,71,Hombre,"Gardenia 38, 41008",41008,Sevilla,Sevilla,1_41_91_2_37
+239,38199,75,Hombre,"Tetuan 6, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_2
+240,38214,25,Mujer,"Blas Infante 219, 41350",41350,Sevilla,Sevilla Norte,1_41_99_2_2
+241,38233,24,Mujer,"Parqueflores iii fase B 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+242,38256,87,Mujer,"Alarifes 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_43
+243,38261,79,Mujer,"La Esperanza 63, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_2
+244,38277,50,Mujer,"San Ignacio 77, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_3
+245,38285,64,Mujer,"Cristo del buen Viaje 18, 41001",41003,Sevilla,Sevilla,1_41_91_1_51
+246,38290,54,Mujer,"Antonio Asenjo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+247,38291,59,Mujer,"Romanticismo 15, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+248,38296,69,Mujer,"Menendez Pidal 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+249,38301,48,Mujer,"Pimienta 70, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+250,38310,44,Hombre,"Correduria 21, 41002",41002,Sevilla,Sevilla,1_41_91_1_17
+251,38316,80,Mujer,"Padre Isla 2, 41008",41008,Sevilla,Sevilla,1_41_91_8_26
+252,38319,76,Hombre,"Amador de los Rios 10, 41003",41003,Sevilla,Sevilla,1_41_91_3_4
+253,38321,15,Mujer,"Miguel de Cervantes 22, 41860",41860,Sevilla,Sevilla Norte,
+254,38355,73,Mujer,"Los Carteros 95, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_9
+255,38365,82,Mujer,"Majal 25, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+256,38371,27,Mujer,"Juan del rio Sotomayor 17, 41710",41710,Sevilla,A.G.S. Sur de Sevilla,1_41_95_5_9
+257,38374,53,Mujer,"Estacion iz bj 10, 41320",41320,Sevilla,Sevilla Norte,
+258,38376,30,Hombre,"Teodora Ocaña 5, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_3
+259,38378,41,Mujer,"Sorda 6, 41003",41003,Sevilla,Sevilla,1_41_91_1_8
+260,38379,80,Mujer,"Guadalquivir 15, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_4
+261,38385,25,Mujer,"Cañaveral 33, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+262,38386,58,Hombre,"Cortijo de las casillas a 7º 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+263,38389,67,Mujer,"Hermanos Pinzon 10, 41520",41520,Sevilla,Sevilla Norte,1_41_102_3_1
+264,38392,59,Mujer,"Parque sierra Norte 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_33
+265,38395,56,Mujer,"Manuel diaz Cruz 12, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_1
+266,38400,82,Mujer,"Almazareros 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_37
+267,38404,31,Mujer,"Marruecos 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_15
+268,38406,62,Mujer,"Sierra norte Parcela 22, 41230",41230,Sevilla,Sevilla Norte,
+269,38411,48,Hombre,"Sor francisca Dorotea 9, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+270,38428,17,Hombre,"Niña de la Alfalfa 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_54
+271,38446,14,Mujer,"La luisiana - bda Begoña 6, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+272,38447,70,Hombre,"Pastora Pavon 3, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_5
+273,38457,65,Mujer,"Bahia de Cadiz 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+274,38461,62,Hombre,"Real de la jara (el) 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_41
+275,38472,43,Mujer,"Clara campo Amor 9, 41860",41860,Sevilla,Sevilla Norte,
+276,38473,86,Hombre,"Rubi 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+277,38487,74,Mujer,"Manuel garcia baquero manolo Revertito 37, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+278,33352,66,Mujer,"Jimenez Fernandez 38, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_6
+279,38509,79,Mujer,"Regimiento Soria 6, 41008",41008,Sevilla,Sevilla,1_41_91_2_56
+280,38512,37,Mujer,"Juan de la Cierva 1, 41300",41300,Sevilla,Sevilla Norte,
+281,38514,79,Mujer,"Blas Infante 5, 41860",41860,Sevilla,Sevilla Norte,
+282,38517,81,Mujer,"Bustos Tavera 12, 41004",41003,Sevilla,Sevilla,1_41_91_1_4
+283,38524,52,Mujer,"Arequipa 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_59
+284,38525,78,Mujer,"Santa maria del Campo 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_65
+285,38526,69,Mujer,"Mayor Parroquia 2, 41370",41370,Sevilla,Sevilla Norte,1_41_32_1_1
+286,38529,84,Mujer,"Manuel Villalobos 37, 41009",41009,Sevilla,Sevilla,1_41_91_2_32
+287,38531,15,Hombre,"De Extremadura 55, 21280",21280,Huelva,Sevilla Norte,
+288,38543,30,Mujer,"Primavera 18, 41009",41009,Sevilla,Sevilla,1_41_91_2_55
+289,38561,77,Mujer,"Danubio 49, 14710",14710,Córdoba,Córdoba,
+290,38562,65,Mujer,"Fco. de Rioja 3, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_2
+291,38563,33,Mujer,"Guardabosques 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_37
+292,38581,75,Mujer,"Mayor d 2º 5, 41019",41019,Sevilla,Sevilla,1_41_91_9_13
+293,38598,79,Hombre,"Deleite 18, 41020",41020,Sevilla,Sevilla,1_41_91_9_37
+294,38601,80,Mujer,"Parque Atlantico 3, 41008",41008,Sevilla,Sevilla,1_41_91_7_1
+295,38612,72,Mujer,"Corredera 19, 41520",41520,Sevilla,Sevilla Norte,1_41_102_1_2
+296,38624,88,Mujer,"Malaysia 1, 41020",41020,Sevilla,Aljarafe,1_41_91_9_59
+297,38630,40,Hombre,"Corral del Acabose 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+298,38634,28,Mujer,"El vacie , 41015",41015,Sevilla,Sevilla,1_41_91_7_9
+299,38638,79,Mujer,"Virgen de la Candelaria 10, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_2
+300,38652,49,Hombre,"Blas Infante 13, 41860",41860,Sevilla,Sevilla Norte,
+301,38659,79,Mujer,"De la Caridad 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+302,38814,60,Mujer,"Ildefonso marañon Lavin 11, 41019",41019,Sevilla,Sevilla,1_41_91_9_41
+303,38825,83,Mujer,"Granillos 37, 41390",41390,Sevilla,Sevilla Norte,
+304,38828,77,Mujer,"Ocho de Marzo 41, 41006",41006,Sevilla,Sevilla,1_41_91_4_19
+305,38830,40,Mujer,"San Vicente 18, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_3
+306,38837,55,Mujer,"Miguel de Unamuno 32, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_4
+307,38846,55,Mujer,"Pablo Iglesias 1, 41450",41450,Sevilla,Sevilla Norte,1_41_33_3_2
+308,38852,24,Mujer,"Feliz rodriguez de la Fuente 97, 41210",41210,Sevilla,Sevilla Norte,
+309,38866,49,Mujer,"Valdepeña 7, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_6
+310,38870,84,Mujer,"Los Moreros 15, 41220",41220,Sevilla,Sevilla Norte,
+311,38872,44,Hombre,"Las Naciones 39, 41008",41008,Sevilla,Sevilla,1_41_91_7_3
+312,38880,48,Mujer,"Mosto 15, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_6
+313,38884,85,Mujer,"Gerion 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_33
+314,38889,85,Mujer,"Miguel Maestre 2, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_2
+315,38894,25,Mujer,"Argantonio D 12, 41008",41008,Sevilla,Sevilla,1_41_91_8_31
+316,38902,40,Mujer,"Fernanda calado Rosales 5, 41020",41020,Sevilla,Sevilla,1_41_91_9_51
+317,38908,52,Mujer,"Luis Cernuda 11, 41015",41008,Sevilla,Sevilla,1_41_91_2_26
+318,38923,13,Mujer,"Mar Mediterraneo 11, 41015",41015,Sevilla,Sevilla,1_41_91_7_41
+319,38933,77,Mujer,"Luis de Rueda 12, 41410",41410,Sevilla,Sevilla Norte,1_41_24_2_1
+320,38936,34,Hombre,"Pozuelo 9, 41450",41450,Sevilla,Sevilla Norte,1_41_33_3_2
+321,38937,45,Mujer,"Ciruelo 1, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_5
+322,38959,20,Mujer,"India 6, 41007",41020,Sevilla,Sevilla,1_41_91_9_16
+323,38972,38,Mujer,"Opalo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+324,38987,86,Mujer,"Conductores 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_38
+325,38993,64,Mujer,"Sevilla 8, 41880",41880,Sevilla,,
+326,39017,28,Hombre,"Hermano Pablo 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+327,39020,60,Mujer,"Candelabro 3, 41006",41006,Sevilla,Sevilla,1_41_91_4_8
+328,39031,81,Mujer,"Jupiter 27, 41003",41003,Sevilla,Sevilla,1_41_91_3_4
+329,39040,41,Mujer,"Lanza 16, 41003",41003,Sevilla,Sevilla,1_41_91_1_50
+330,39041,82,Mujer,"Alcalde manuel del Valle 49, 41008",41008,Sevilla,Sevilla,1_41_91_2_25
+331,39043,71,Mujer,"Huelva 18, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+332,39044,34,Mujer,"De las Ciencias 10, 41020",41020,Sevilla,Sevilla,1_41_91_9_33
+333,39054,50,Mujer,"Perafan de rivera. c. miguel de mañara , 41009",41009,Sevilla,Sevilla,1_41_91_2_1
+334,39059,75,Mujer,"Descalzas 4, 41410",41410,Sevilla,Sevilla Norte,1_41_24_1_1
+335,39069,63,Mujer,"Guardabosques 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_37
+336,39078,82,Hombre,"Real 2, 41250",41250,Sevilla,Sevilla Norte,1_41_80_2_1
+337,39080,64,Mujer,"La Estacada 13, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+338,39085,77,Mujer,"Cruz de la legua, Bq. 4, 41440",41440,Sevilla,,1_41_55_3_3
+339,39092,32,Mujer,"Av Dr Fedriani 47, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+340,39098,38,Mujer,"Estrella Deneb 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+341,39099,85,Mujer,"Cortijo de las Casillas 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+342,39103,69,Hombre,"Cueva de la Mora 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_39
+343,39108,44,Mujer,"Aguamarina 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+344,39122,21,Mujer,"Corea 30, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+345,39123,14,Mujer,"Juan Xxiii 7, 14800",14800,Córdoba,A.G.S. Sur de Córdoba,
+346,39129,69,Mujer,"Cervantes 16, 41250",41250,Sevilla,Sevilla Norte,1_41_80_2_1
+347,39133,51,Hombre,"Virgen de escardiel-poligono N 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+348,39134,86,Mujer,"Manzana 1, 41009",41009,Sevilla,,1_41_91_2_10
+349,39141,29,Mujer,"Saliente 6, 41200",41209,Sevilla,Sevilla Norte,
+350,39144,83,Mujer,"Jose Diaz 51, 41310",41310,Sevilla,,1_41_18_1_7
+351,39147,84,Mujer,"Real 116, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_1
+352,39148,34,Mujer,"Anjoli (de) 1, 41011",41009,Sevilla,Sevilla,1_41_91_2_62
+353,39153,52,Hombre,"Hermano pablo B 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+354,39159,82,Mujer,"Teodosio 95, 41002",41002,Sevilla,Sevilla,1_41_91_1_15
+355,39163,89,Hombre,"Madre Purisima 2, 41013",41013,Sevilla,Sevilla,1_41_91_5_35
+356,20539,60,Mujer,"Cazorla (de) 16, 41200",41200,Sevilla,Sevilla Norte,
+357,39167,63,Mujer,"La Caldera 31, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+358,39168,76,Mujer,"Parque flores, 5º fase d 1º 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+359,39179,84,Mujer,"Ciudad de Paterna 2, 41019",41019,Sevilla,Sevilla,1_41_91_9_12
+360,39184,66,Hombre,"Hesperides 19, 41008",41008,Sevilla,Sevilla,1_41_91_8_15
+361,39187,68,Mujer,"Victoria Kent 29, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_1
+362,39191,23,Mujer,"Bangkok 1, 41020",41020,Sevilla,Sevilla,1_41_91_9_16
+363,39192,61,Mujer,"Veintiocho de Febrero 11, 41007",41007,Sevilla,Sevilla,1_41_91_8_25
+364,39197,63,Mujer,"Veintiocho de febrero (del) 31, 41007",41007,Sevilla,,1_41_91_8_16
+365,39200,21,Mujer,"Antonio Mairena 18, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+366,39201,43,Hombre,"Hermita. resid alboran Casa 1, 11205",11205,Cádiz,A. G. S. Campo de Gibraltar,
+367,39206,84,Mujer,"Rodriguez de la Fuente 9, 18260",18260,Granada,Metropolitano de Granada,
+368,39207,66,Hombre,"Ciudad de Alberique 15, 41019",41019,Sevilla,Sevilla,1_41_91_9_55
+369,39214,40,Mujer,"Corral de la Encarnacion 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+370,39216,58,Mujer,"Rafael Laffon 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_32
+371,39219,33,Mujer,"Leñadores bl-1 C 3, 41006",41015,Sevilla,Sevilla,1_41_91_7_38
+372,39222,42,Mujer,"Trabajo 41, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_7
+373,39234,39,Mujer,"Hierro 19, 41380",41380,Sevilla,Sevilla Norte,
+374,39236,44,Mujer,"Cortijo de las Casillas 8, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+375,39239,37,Mujer,"Papachina 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_16
+376,39240,91,Mujer,"Virgen de las Candelarias 12, 41001",41006,Sevilla,Sevilla,1_41_91_4_38
+377,39253,31,Mujer,"Gerena 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+378,39254,44,Mujer,"Siete Revueltas 13, 41004",41004,Sevilla,Sevilla,1_41_91_1_45
+379,39260,56,Mujer,"Perafan de Rivera 12, 41009",41009,Sevilla,Sevilla,1_41_91_2_1
+380,12108,48,Hombre,"Cazalla de la Sierra 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+381,39270,52,Hombre,"Francisco Pizarro 27, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_13
+382,39280,14,Mujer,"Mariana de pineda izquierda a 2º 12, 41309",41300,Sevilla,Sevilla Norte,1_41_81_2_9
+383,39285,31,Mujer,"Hermanos Machado 17, 41460",41460,Sevilla,Sevilla Norte,
+384,39288,13,Hombre,"Hermanos Quintero 20, 21260",21260,Huelva,Sevilla Norte,
+385,39298,82,Mujer,"Albaida 8, 41008",41008,Sevilla,Sevilla,1_41_91_2_7
+386,39302,17,Mujer,"Parque flores 3º Fase 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+387,39305,75,Mujer,"Cruz del Soldado 2, 41860",41860,Sevilla,Sevilla Norte,
+388,39323,19,Hombre,"Purisima Concepcion 48, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_4
+389,39324,46,Mujer,"Alcala del Rio 8, 41015",41015,Sevilla,Sevilla,1_41_91_7_48
+390,39325,47,Mujer,"Era Alta 9, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+391,39328,77,Mujer,"Comunidad Valenciana 11, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+392,39331,81,Hombre,"Arbotante 5, 41008",41008,Sevilla,Sevilla,1_41_91_7_5
+393,39343,64,Hombre,"Alberto Lista 20, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_8
+394,39346,31,Mujer,"Foro de Ermua 0, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_17
+395,39348,30,Mujer,"Jaen 5, 41380",41380,Sevilla,Sevilla Norte,1_41_2_1_2
+396,39355,71,Mujer,"C/ parque Doñana 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_11
+397,39364,52,Mujer,"Duero 7, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_4
+398,39369,74,Mujer,"Corea 73, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+399,39373,53,Hombre,"San Isidoro 20, 41004",41004,Sevilla,Sevilla,1_41_91_1_46
+400,39382,50,Hombre,"Coral 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+401,39396,68,Mujer,"Llanes (de) 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_24
+402,39401,37,Hombre,"San Matias 0, 41008",41008,Sevilla,,1_41_91_7_2
+403,39404,48,Mujer,"Macarena tres huertas Bloque 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_20
+404,39405,70,Mujer,"Estrella Altair 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+405,39407,17,Mujer,"Virgilio Mattoni 2, 41006",41006,Sevilla,Sevilla,1_41_91_4_24
+406,39412,56,Hombre,"Hesperides 17, 41008",41008,Sevilla,Sevilla,1_41_91_8_15
+407,1604,55,Mujer,"Av dr fedriani (antaris) s/n , 41009",41009,Sevilla,Sevilla,1_41_91_7_13
+408,39416,78,Mujer,"San Sebastian 44, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_2
+409,39433,73,Mujer,"Ruiseñor 14, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+410,39434,71,Mujer,"Riopiedra 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_15
+411,39443,23,Mujer,"Domingo Badia 2, 14010",14010,Córdoba,Córdoba,
+412,39454,41,Mujer,"Guadalcanal 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+413,39456,39,Mujer,"Plaza del Bailio 3, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_2
+414,39486,69,Mujer,"Diego de Almagro 12, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+415,39489,79,Mujer,"Ronda Norte 11, 41209",41218,Sevilla,Sevilla Norte,1_41_49_1_4
+416,37082,44,Mujer,"Gladiolo 11, 41008",41008,Sevilla,Sevilla,1_41_91_2_21
+417,39500,85,Mujer,"Fernando de Mata 20, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+418,39504,36,Mujer,"Conde de Halcon 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_22
+419,39506,29,Mujer,"Diego martinez Barrio 32, 41980",41980,Sevilla,Sevilla Norte,
+420,39508,74,Hombre,"Rio Guadiato 2, 41200",41200,Sevilla,Sevilla Norte,
+421,39514,77,Mujer,"Doctor nieto Barrera 3, 41020",41020,Sevilla,Sevilla,1_41_91_9_60
+422,39519,56,Mujer,"Oriente 5, 41019",41019,Sevilla,Sevilla,1_41_91_9_41
+423,39525,72,Mujer,"Gallos A 1, 41003",41003,Sevilla,Sevilla,1_41_91_1_1
+424,39532,27,Mujer,"Armilla 14, 41019",41020,Sevilla,Sevilla,1_41_91_7_25
+425,39536,86,Mujer,"Amargura 32, 41860",41860,Sevilla,Sevilla Norte,
+426,39541,51,Mujer,"Rayo de luna A 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+427,39542,75,Mujer,"Pilar Garcia 3, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_3
+428,39548,71,Mujer,"Ciudad verde Casa 287, 41020",41020,Sevilla,Sevilla,1_41_91_9_32
+429,39555,72,Mujer,"Aceitunas (de Las) 30, 41110",41110,Sevilla,Sevilla,1_41_16_1_2
+430,39559,44,Hombre,"Doctor antonio herrera Carmona 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_54
+431,39564,51,Hombre,"Corral de los Olmos 14, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+432,39565,78,Mujer,"Ciudad de Cullera 1, 41019",41019,Sevilla,Sevilla,1_41_91_9_40
+433,39575,43,Hombre,"Antonio Asenjo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+434,39582,69,Mujer,"Juan Bueno 1, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_4
+435,39600,75,Mujer,"Andalucia 86, 21270",21270,Huelva,Sevilla Norte,
+436,39606,71,Mujer,"Verano 1, 41009",41009,Sevilla,,1_41_91_2_2
+437,39612,91,Hombre,"Bartolome Gomez 28, 41890",41890,Sevilla,Sevilla Norte,
+438,39613,40,Hombre,"Rafael Alberti 31, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_2
+439,39616,24,Mujer,"Madrid 90, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+440,39617,44,Mujer,"Avellana 15, 41009",41009,Sevilla,Sevilla,1_41_91_2_10
+441,39620,56,Mujer,"Retamores 3, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+442,39621,42,Mujer,"Nufro Sanchez 3, 41008",41008,Sevilla,Sevilla,1_41_91_8_11
+443,39627,35,Mujer,"Rosalia de Castro 45, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_11
+444,39628,25,Mujer,"Osa Mayor 5, 41006",41006,Sevilla,Sevilla,1_41_91_4_6
+445,39634,13,Mujer,"Jaen 37, 41449",41449,Sevilla,Sevilla Norte,1_41_6_1_1
+446,39642,62,Mujer,"Guadalquivir 29, 41320",41320,Sevilla,,1_41_23_1_3
+447,13004,51,Hombre,"Hueznar 21, 41350",41350,Sevilla,Sevilla Norte,1_41_99_2_1
+448,39663,64,Mujer,"Salamanca 2, 41200",41200,Sevilla,Sevilla Norte,1_41_5_1_1
+449,39671,87,Hombre,"San Isidro 23, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_2
+450,39679,45,Mujer,"Isadora duncan.edf pizarro b 3º 2, 41006",41006,Sevilla,Sevilla,1_41_91_4_55
+451,39681,72,Hombre,"Marzo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_29
+452,39690,32,Mujer,"Riopiedra 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_15
+453,39716,55,Mujer,"Maria vazquez Ponce 44, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+454,39727,74,Mujer,"Alonso fernandez Coronel 24, 41008",41008,Sevilla,Sevilla,1_41_91_8_14
+455,39730,22,Mujer,"Emilio Lemos 51, 41020",41020,Sevilla,Sevilla,1_41_91_9_44
+456,39746,86,Mujer,"Nardo 25, 41318",41318,Sevilla,Sevilla Norte,
+457,39750,87,Mujer,"Bolsena 7, 41089",41089,Sevilla,Sevilla,1_41_38_5_4
+458,39759,71,Mujer,"La estacada C 2, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+459,39786,71,Mujer,"Gaspar de Alvear 14, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+460,39789,57,Mujer,"Andalucia De 48, 41200",41200,Sevilla,Sevilla Norte,1_41_33_1_1
+461,39797,68,Mujer,"Jose de la Cruz 7, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_18
+462,39798,83,Mujer,"Autonomia La 10, 41449",41449,Sevilla,Sevilla Norte,
+463,39809,66,Mujer,"Estrella Antares 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_32
+464,39818,39,Hombre,"Lopez de Gomara 41, 41010",41010,Sevilla,Sevilla,1_41_91_6_5
+465,39827,29,Mujer,"Crisantemo 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_22
+466,39841,78,Mujer,"Juan de Rivera 2, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+467,39853,52,Mujer,"Felix rodriguez de la Fuente 25, 41210",41210,Sevilla,Sevilla Norte,1_41_13_2_2
+468,39855,51,Mujer,"Amadeus Vives 17, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_3
+469,39864,76,Mujer,"Doctor leal Castaños 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+470,39869,32,Hombre,"Zurbaran 2, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_7
+471,39877,80,Hombre,"Alfonso Fraile 31, 41320",41320,Sevilla,Sevilla Norte,1_41_60_3_2
+472,39887,85,Mujer,"Begoña c/ Vadelarco 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_26
+473,39890,58,Mujer,"Calamar 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+474,39893,66,Hombre,"Hernan Cortes 26, 41210",41210,Sevilla,Sevilla Norte,
+475,39903,14,Mujer,"Polvero 1, 41006",41006,Sevilla,,1_41_91_4_42
+476,39905,24,Mujer,"Ancha 27, 14550",14550,Córdoba,Sevilla Norte,
+477,39908,85,Mujer,"Antonio Machado 15, 41390",41390,Sevilla,Sevilla Norte,1_41_48_2_1
+478,39912,63,Mujer,"Navarra 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_14
+479,39913,58,Mujer,"Fandango 14, 41410",41410,Sevilla,Sevilla Norte,1_41_87_2_2
+480,39923,69,Mujer,"Llana 5, 41479",41479,Sevilla,Sevilla Norte,1_41_78_1_1
+481,39930,33,Hombre,"Farruca 1, 41007",41007,Sevilla,Sevilla,1_41_91_8_24
+482,39931,35,Mujer,"Llanes (de) 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_19
+483,39948,46,Mujer,"Mejillon 104, 41015",41015,Sevilla,Sevilla,1_41_91_7_21
+484,39958,81,Mujer,"Jose torres Pepillo 6, 41210",41210,Sevilla,Sevilla Norte,
+485,39960,39,Mujer,"Fernando Martin 46, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_2
+486,39975,75,Hombre,"Ciudad de Chiva 3, 41019",41019,Sevilla,Sevilla,1_41_91_9_39
+487,39988,28,Mujer,"Lituania 3, 41309",41309,Sevilla,Sevilla Norte,
+488,39993,72,Mujer,"Corinto 3, 41003",41003,Sevilla,Sevilla,1_41_91_1_30
+489,39994,64,Mujer,"Santa maria de los Reyes 9, 41008",41008,Sevilla,Sevilla,1_41_91_2_66
+490,40000,66,Mujer,"Pimienta 72, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+491,40001,16,Hombre,"Cardenal Spinola 29, 41002",41002,Sevilla,Sevilla,1_41_91_1_12
+492,40003,51,Hombre,"Sancho Davila 3, 41008",41008,Sevilla,,1_41_27_2_1
+493,40016,65,Mujer,"Velazquez 26, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_4
+494,40020,85,Mujer,"Albareda 5, 41460",41460,Sevilla,Sevilla Norte,
+495,40034,25,Hombre,"La Estacada 1, 41309",41309,Sevilla,Sevilla Norte,1_41_93_1_12
+496,40049,46,Mujer,"San diego d 7º 47, 41008",41008,Sevilla,Sevilla,
+497,40050,85,Mujer,"Santa Ana 1, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_5
+498,40059,75,Mujer,"Cabo Maqueda 16, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+499,40071,70,Hombre,"Feria 135, 41002",41002,Sevilla,Sevilla,1_41_91_1_20
+500,40072,87,Mujer,"Pablo Picasso 26, 41250",41250,Sevilla,Sevilla Norte,
+501,40075,85,Mujer,"Manuel moreno Geniz 2, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_3
+502,40076,56,Hombre,"Hospitalet 23, 41550",41550,Barcelona,,
+503,40082,68,Mujer,"Amador de los Rios 3, 41003",41003,Sevilla,Sevilla,1_41_91_3_1
+504,40083,75,Mujer,"Sor francisca Dorotea 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_11
+505,40088,69,Mujer,"Aldaya 5, 41019",41019,Sevilla,Sevilla,1_41_91_9_57
+506,2316,38,Hombre,"San Sebastian 28, 41320",41320,Sevilla,,1_41_21_4_2
+507,40097,83,Hombre,"De la Era 15, 41220",41220,Sevilla,Sevilla Norte,1_41_93_1_7
+508,40111,74,Hombre,"Castaño 4, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+509,40115,50,Mujer,"Guadajoz . calle bogota 2, 41410",41410,Sevilla,Sevilla Norte,
+510,40123,39,Mujer,"Padre Isla 1, 41008",41008,Sevilla,Sevilla,1_41_91_8_26
+511,40139,85,Mujer,"Cl.lope de Rueda, 31, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_2
+512,40159,62,Mujer,"Mimbre 19, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_2
+513,40161,85,Mujer,"San Luis 76, 41003",41003,Sevilla,Sevilla,1_41_91_1_28
+514,40165,60,Hombre,"Republica de China 28, 41019",41019,Sevilla,Sevilla,1_41_91_9_59
+515,40168,37,Hombre,"Estrella Vega 14, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+516,40196,77,Mujer,"Flor de Pascua 4, 41020",41020,Sevilla,Sevilla,1_41_91_9_47
+517,40200,72,Mujer,"Mar Rojo 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_38
+518,40204,72,Mujer,"Palma 42, 41429",41429,Sevilla,Sevilla Norte,1_41_22_1_2
+519,40219,26,Mujer,"Leon Xiii 36, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_2
+520,40220,44,Mujer,"Enebro 76, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+521,40222,65,Mujer,"Aeronautica (de La) 14, 41020",41020,Sevilla,Sevilla,1_41_91_9_3
+522,40226,65,Mujer,"Universidad de Salamanca 9, 41930",41930,Sevilla,Aljarafe,1_41_17_1_10
+523,40232,36,Mujer,"Jorge de Montemayor 22, 41009",41009,Sevilla,Sevilla,1_41_91_2_32
+524,40239,54,Hombre,"Pastora Pavon 3, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_1
+525,40263,25,Hombre,"Gregorio Xiii 15, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_6
+526,40265,53,Hombre,"Sevilla 17, 41449",41449,Sevilla,Sevilla Norte,1_41_59_1_1
+527,40268,43,Mujer,"Pino 2, 21270",21270,Huelva,Sevilla Norte,
+528,40275,19,Mujer,"Doctor antonio Gonzalez 7, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_3
+529,40276,77,Mujer,"Ramon y Cajal 26, 41479",41479,Sevilla,Sevilla Norte,
+530,40279,87,Mujer,"29, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_3
+531,40284,33,Mujer,"Pimienta 88, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+532,40290,60,Hombre,"Enfermeras 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_43
+533,40308,79,Mujer,"La jarilla Apdo 12, 41300",41300,Sevilla,Sevilla Norte,
+534,40315,57,Mujer,"Cadiz 17, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_5
+535,40322,70,Mujer,"Alcantara 7, 41003",41003,Sevilla,Sevilla,1_41_91_1_8
+536,40341,89,Mujer,"Asociaciones de Vecinos 9, 41008",41008,Sevilla,Sevilla,1_41_91_7_1
+537,40351,26,Mujer,"Luis ortega Bru 4, 41008",41008,Sevilla,Sevilla,1_41_91_8_32
+538,40363,31,Mujer,"Estrella Sirio 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_32
+539,40366,25,Mujer,"Parqueflores vi fase A 8, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+540,40371,79,Mujer,"Vieja 62, 41410",41410,Sevilla,Sevilla Norte,
+541,40378,61,Mujer,"Estrella altair, bloque 7, Portal 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+542,40381,66,Hombre,"Rayo de Luna 9, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+543,40387,64,Mujer,"Almaden de la Plata 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_5
+544,40397,44,Mujer,"Era Alta 24, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+545,40398,78,Mujer,"Sanchez Pizjuan 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+546,2664,43,Mujer,"Nuestra señora del Rosario 12, 41320",41320,Sevilla,Sevilla Norte,1_41_17_1_3
+547,40408,34,Mujer,"Mar Menor 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_28
+548,40429,74,Mujer,"Nicaragua 61, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_5
+549,40442,44,Mujer,"Trujillo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_59
+550,40449,54,Mujer,"Antioquia 1, 41007",41007,Sevilla,Sevilla,1_41_91_8_36
+551,40457,47,Mujer,"Fuenfria 8, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_5
+552,40460,84,Mujer,"Hombre de Piedra 12, 41002",41002,Sevilla,Sevilla,1_41_91_1_16
+553,40471,67,Mujer,"Finca san Jose 0, 41209",41209,Sevilla,Sevilla Norte,
+554,40473,64,Hombre,"Blas Infantes 49, 41310",41310,Sevilla,Sevilla Norte,1_41_28_1_1
+555,40479,36,Mujer,"Blasco Ibañez 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+556,40484,39,Mujer,"Tartessos 9, 41008",41008,Sevilla,Sevilla,1_41_91_8_31
+557,40488,42,Mujer,"Extremadura 21, 41429",41429,Sevilla,Sevilla Norte,1_41_22_2_2
+558,40493,65,Mujer,"Guadajoz 207, 41339",41339,Sevilla,Sevilla Norte,
+559,40503,69,Mujer,"Ntro padre Jesus 15, 41440",41440,Sevilla,Sevilla Norte,1_41_55_3_3
+560,40512,62,Hombre,"Andalucia 127, 41880",41880,Sevilla,Sevilla Norte,
+561,40513,69,Mujer,"Libro del buen amor El 12, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+562,40519,62,Mujer,"Amador de los Rios 11, 41003",41003,Sevilla,Sevilla,1_41_91_3_39
+563,40521,57,Mujer,"Hasekura Sunenaga 18, 41100",41100,Sevilla,Aljarafe,1_41_34_1_10
+564,40524,25,Mujer,"Gregorio Marañon 10, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_6
+565,40532,53,Hombre,"Natividad morales Muñoz 57, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+566,40542,56,Hombre,"Parque de sierra Nevada 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_10
+567,40543,35,Mujer,"Tamboril 1, 41009",41009,Sevilla,,1_41_91_2_11
+568,40544,61,Mujer,"Rosa de Pasion 2, 41015",41015,Sevilla,Sevilla,1_41_91_2_39
+569,40549,34,Hombre,"Pedroso (el) A 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+570,40552,70,Mujer,"De Guillena 23, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+571,40564,32,Mujer,"Estrella Betelgeuse 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_47
+572,40570,62,Mujer,"Eusebio torres Carranza 3, 41980",41980,Sevilla,Sevilla Norte,
+573,41175,49,Mujer,"Teodoro Ocaña 9, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_3
+574,41176,34,Hombre,"Gaspar de Alvear 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+575,41177,34,Hombre,"Juan de la Cierva 12, 41110",41110,Sevilla,Aljarafe,1_41_16_2_1
+576,41181,65,Mujer,"Baltasar de Alcazar 2, 41008",41008,Sevilla,,1_41_91_8_15
+577,41184,51,Mujer,"Ajustadores 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_45
+578,41185,65,Mujer,"Martinez Montañes 1, 41230",41230,Sevilla,,1_41_89_2_3
+579,41187,57,Hombre,"Fedra 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_20
+580,41189,66,Mujer,"Placido fernandez Viagas 45, 41950",41950,Sevilla,Aljarafe,1_41_75_1_6
+581,41190,30,Mujer,"Hinojo 3, 41429",41429,Sevilla,,1_41_22_2_2
+582,41193,58,Mujer,"San Roque 23, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+583,41195,55,Hombre,"La viña C 2, 41020",41020,Sevilla,Sevilla,1_41_91_9_4
+584,41196,25,Mujer,"Baltasar de Alcazar 13, 41309",41309,Sevilla,Sevilla Norte,1_41_91_8_15
+585,41197,52,Hombre,"Pablo de Rojas 21, 41008",41008,Sevilla,Sevilla,1_41_91_8_11
+586,41198,43,Hombre,"28, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_4
+587,41200,66,Mujer,"Santa Teresa 4, 41320",41320,Sevilla,Sevilla Norte,1_41_15_2_2
+588,41201,89,Mujer,"Antonio Merchan 5, 41370",41370,Sevilla,Sevilla Norte,1_41_32_1_1
+589,41207,70,Mujer,"Corral del Acabose 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_30
+590,41208,37,Mujer,"Santa maria del Reposo 4, 41008",41008,Sevilla,Aljarafe,1_41_91_2_65
+591,41209,70,Mujer,"Av Dr Fedriani 48, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+592,41210,53,Mujer,"San Vicente 50, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_6
+593,41211,63,Mujer,"Mar Menor 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_28
+594,41220,54,Hombre,"Simpecado 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+595,41224,26,Mujer,"Santa justa y rufina a bj 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_50
+596,41228,26,Mujer,"Naranjas y Limones 92, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+597,41229,55,Mujer,"Rafael Castaño 23, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_2_5
+598,41230,39,Mujer,"Playa de Matalascañas 2, 41009",41009,Sevilla,,1_41_91_2_15
+599,41231,52,Hombre,"Palmilla (la) 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+600,41232,36,Mujer,"Plaza de la Papachina 0, 41015",41015,Sevilla,Sevilla,1_41_91_7_16
+601,41233,21,Mujer,"Niña de la Alfalfa 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_54
+602,41234,33,Mujer,"Formentor 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_14
+603,41241,25,Mujer,"Ildefonso marañon Lavin 13, 41019",41019,Sevilla,Sevilla,1_41_91_9_41
+604,41242,23,Mujer,"Avda de la Barzola 22, 41009",41009,Sevilla,Sevilla,1_41_91_2_18
+605,41243,52,Hombre,"Playa de Chipiona 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+606,41244,31,Hombre,"La Estacada 4, 41309",41309,Sevilla,Sevilla Norte,1_41_93_1_12
+607,41245,61,Mujer,"Estrella Deneb 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+608,41246,20,Mujer,"Comunidad extremeña d 4º 11, 41008",41008,Sevilla,Sevilla,1_41_91_2_41
+609,41247,42,Hombre,"Flor de Azalea 9, 41020",41020,Sevilla,Sevilla,1_41_91_9_45
+610,41248,19,Mujer,"Alemania 6, 41012",41012,Sevilla,Sevilla,1_41_91_10_21
+611,41249,53,Mujer,"Cuba 2, 41011",41011,Sevilla,Sevilla,1_41_91_6_1
+612,41254,18,Hombre,"Almenas (las) c 2º 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_40
+613,41255,30,Mujer,"Sierra (la) (esparragal (el)) , 14816",14816,Córdoba,A.G.S. Sur de Córdoba,
+614,41256,42,Mujer,"Playa de Conil 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+615,41257,28,Hombre,"Escultor diego de Siloe 18, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_4_25
+616,41262,46,Hombre,"Cerrillo 42, 41429",41429,Sevilla,Sevilla Norte,1_41_22_1_2
+617,41263,58,Hombre,"Tiburon 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+618,41265,70,Mujer,"Ciudad de Montilla 3, 41008",41008,Sevilla,Sevilla,1_41_91_8_32
+619,41271,13,Mujer,"Parque de Cazorla 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_10
+620,41276,28,Mujer,"Sanchez Pizjuan 13, 41009",41009,Sevilla,Sevilla,1_41_91_2_17
+621,41277,74,Hombre,"Castellar 1, 41003",41003,Sevilla,Sevilla,1_41_91_1_17
+622,41280,26,Hombre,"De Grazalema 5, 41008",41008,Sevilla,Sevilla,1_41_91_7_10
+623,41281,27,Mujer,"Trabajadores Inmigrantes 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+624,41282,46,Mujer,"Abogado rafael Medina 1, 41009",41009,Sevilla,Sevilla,1_41_91_1_7
+625,41284,20,Hombre,"Estrella Betelgeuse 11, 41015",41015,Sevilla,Sevilla,1_41_91_7_47
+626,41285,70,Mujer,"Ciudad de Buñol 1, 41019",41019,Sevilla,Sevilla,1_41_91_9_39
+627,41286,32,Hombre,"Geminis 19, 4740",4740,Almería,Poniente de Almería,
+628,41287,41,Mujer,"Antonio Guzman 6, 41007",41007,Sevilla,Sevilla,1_41_91_8_35
+629,41288,22,Hombre,"Fernando corral Corachan 5, 41019",41019,Sevilla,Sevilla,1_41_91_9_42
+630,41289,87,Mujer,"Santa maria de Ordas 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_24
+631,41291,59,Mujer,"Alonso Cano 37, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+632,41294,25,Mujer,"Constantina 8, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+633,41295,24,Hombre,"Virgenes 9, 41004",41004,Sevilla,Sevilla,
+634,41300,54,Hombre,"Romanticismo (del) 13, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+635,41301,82,Mujer,"Sevilla 71, 41210",41210,Sevilla,,
+636,41305,39,Hombre,"Matallana parcela 51, 41410",41410,Sevilla,Sevilla Norte,
+637,41306,21,Mujer,"Gaspar de Alvear 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+638,41307,36,Mujer,"Navarra 64, 41015",41015,Sevilla,,1_41_91_7_18
+639,41308,79,Mujer,"Azafran 11, 41410",41410,Sevilla,,1_41_24_5_4
+640,41311,48,Mujer,"Jara 14, 41440",41440,Sevilla,Sevilla Norte,1_41_59_1_4
+641,41312,36,Mujer,"Mar Tirreno 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_42
+642,41313,49,Hombre,"Almonazar 168, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_1
+643,41314,35,Mujer,"Santiago 64, 41850",41850,Sevilla,Aljarafe,
+644,41317,58,Mujer,"San Francisco 13, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_6
+645,41321,63,Mujer,"Saeta 3, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_3
+646,41322,22,Mujer,"Eras 4, 23292",23292,Jaén,Jaen Nordeste,
+647,41324,23,Hombre,"Ronda Este 20, 41319",41319,Sevilla,Sevilla Norte,
+648,41325,59,Hombre,"Andalucia (de) 48, 41006",41006,Sevilla,Sevilla,1_41_33_1_1
+649,41326,22,Mujer,"San Diego 52, 41008",41008,Sevilla,Sevilla,1_41_91_7_6
+650,41327,33,Mujer,"Lopez de Azme 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_48
+651,41335,39,Mujer,"Cantillana 50, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+652,41336,43,Mujer,"San Diego 31, 41015",41015,Sevilla,Sevilla,1_41_91_7_7
+653,41337,79,Hombre,"Caldereros 46, 41370",41370,Sevilla,Sevilla Norte,1_41_91_10_8
+654,41339,68,Mujer,"Corral de la Caridad 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+655,41341,16,Mujer,"Faustino Alvarez 32, 41002",41002,Sevilla,Sevilla,1_41_91_1_20
+656,41348,62,Hombre,"Ctra Carmona 51, 41008",41008,Sevilla,Sevilla,1_41_91_2_64
+657,41349,61,Mujer,"Diego de Almagro 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+658,41350,72,Mujer,"Ciencias 36, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+659,41351,29,Mujer,"Greco 13, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_7
+660,41352,54,Mujer,"Parqueflores vi Fase 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+661,41353,20,Mujer,"Alboran. camino de la ermita a 4º 2, 11205",11205,Cádiz,A. G. S. Campo de Gibraltar,
+662,41354,83,Mujer,"Leon Xiii 39, 41009",41009,Sevilla,Sevilla,1_41_91_2_60
+663,41359,46,Mujer,"Constantina 13, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+664,41365,32,Mujer,"Emilio Lemos 40, 41020",41020,Sevilla,Sevilla,1_41_91_9_17
+665,41366,44,Mujer,"Jose luis de Casso 28, 41005",41005,Sevilla,Sevilla,1_41_91_3_33
+666,41367,17,Mujer,"Doctor Seras 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+667,41368,28,Mujer,"Estrella Aldebaran 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+668,41372,21,Hombre,"Orfebre cayetano Gonzalez 1, 41013",41013,Sevilla,Sevilla,1_41_91_2_50
+669,41373,36,Mujer,"Dolores Fernandez 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_32
+670,41374,13,Hombre,"Don Fadrique 63, 41009",41009,Sevilla,Aljarafe,1_41_91_2_44
+671,41375,15,Hombre,"Hermano Pablo 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+672,41376,19,Hombre,"Valdelarco 12, 41008",41008,Sevilla,,1_41_91_2_23
+673,41385,36,Hombre,"Leon Xiii 17, 41009",41009,Sevilla,Sevilla,1_41_91_2_46
+674,41386,79,Mujer,"Cervantes 12, 41200",41200,Sevilla,Sevilla Norte,
+675,41387,43,Hombre,"Lope de Vega 28, 41440",41440,Sevilla,Sevilla Norte,1_41_87_1_5
+676,41388,68,Mujer,"Sierra Norte 11, 41230",41230,Sevilla,Sevilla Norte,
+677,41389,27,Hombre,"Blas Infante 2, 41310",41310,Sevilla,Sevilla Norte,
+678,41392,46,Mujer,"Garcia Alvarez 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+679,41394,16,Hombre,"Corral de los Olmos 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_10
+680,41395,56,Hombre,"Real 20, 41800",41800,Sevilla,Aljarafe,1_41_87_1_3
+681,41396,26,Hombre,"Altamira 29, 41020",41020,Sevilla,Sevilla,1_41_91_9_34
+682,41397,61,Mujer,"Valencia 24, 41015",41015,Sevilla,Sevilla,1_41_91_7_14
+683,41399,68,Mujer,"San diego b 1º 20, 41015",41015,Sevilla,Sevilla,1_41_91_7_46
+684,41400,62,Mujer,"San Benito 107, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+685,41401,40,Hombre,"Enfermeras 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_43
+686,41405,13,Mujer,"Pedro de Mena 3, 41008",41008,Sevilla,Sevilla,1_41_89_2_2
+687,41406,20,Hombre,"Concepcion 46, 41390",41390,Sevilla,Sevilla Norte,1_41_48_3_1
+688,41417,49,Hombre,"Servilia 7, 41410",41410,Sevilla,,1_41_24_5_3
+689,41418,23,Hombre,"Esperanza de la Trinidad 5, 41003",41003,Sevilla,Sevilla,1_41_91_8_5
+690,41419,19,Mujer,"Paseo de san Anton 27, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_3
+691,41426,33,Mujer,"Esporlas 40, 41900",41900,Sevilla,Aljarafe,1_41_21_1_6
+692,41427,22,Hombre,"Faustino Alvarez 29, 41002",41002,Sevilla,,1_41_91_1_19
+693,41428,46,Hombre,"Alcala del Rio 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_48
+694,41429,50,Hombre,"Coral 11, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+695,41430,17,Hombre,"Jose Alvarez 32, 41800",41800,Sevilla,Aljarafe,1_41_87_1_2
+696,41431,69,Mujer,"Zumaque 42, 41020",41020,Sevilla,Sevilla,1_41_91_9_10
+697,41434,19,Hombre,"Cortijo las Casillas 14, 41015",41015,Sevilla,,1_41_23_1_1
+698,41435,78,Mujer,"Andalucia 49, 41350",41350,Sevilla,Sevilla Norte,
+699,41436,33,Mujer,"Poniente 29, 41209",41209,Sevilla,Sevilla Norte,
+700,41441,68,Mujer,"Ciudad Verde 62, 41020",41020,Sevilla,Sevilla,1_41_91_9_32
+701,41442,34,Hombre,"Martirio de san Andres 9, 41007",41007,Sevilla,Sevilla,1_41_91_8_25
+702,41448,77,Mujer,"Antonio Machado 6, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_3
+703,41449,16,Hombre,"Padre jeronimo de Cordoba 3, 41003",41003,Sevilla,,1_41_91_1_48
+704,41450,59,Hombre,"Laertes 16, 41020",41020,Sevilla,Sevilla,1_41_91_9_30
+705,41453,32,Hombre,"Feria 149, 41002",41002,Sevilla,Sevilla,1_41_91_1_20
+706,41454,25,Hombre,"San Luis 78, 41003",41003,Sevilla,Sevilla,1_41_91_1_28
+707,41455,37,Mujer,"Fontanilla 11, 21120",21120,Huelva,Huelva-Costa,
+708,41462,57,Mujer,"Fernando de Yllesca 1, 41008",41008,Sevilla,Sevilla,1_41_91_8_14
+709,3727,43,Hombre,"Doctor fedriani. Antaris. 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+710,41463,68,Mujer,"Factores 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_48
+711,41464,58,Mujer,"Av dr fedriani ( Antaris) 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+712,41465,59,Mujer,"Murillo 29, 41420",41420,Sevilla,Sevilla Este,
+713,41466,70,Mujer,"Jilguero 8, 41318",41318,Sevilla,Sevilla Norte,
+714,41467,47,Hombre,"Ingeniero la Cierva 3, 41006",41006,Sevilla,Sevilla,1_41_91_4_37
+715,41473,47,Mujer,"Comunidad canaria d 3º 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+716,41475,27,Mujer,"Anibal gonzalez,bq.43-pta.15-2ºplanta , 41309",41309,Sevilla,Sevilla Norte,
+717,41476,29,Hombre,"Enladrillada 65, 41003",41003,Sevilla,Sevilla,1_41_91_1_29
+718,41477,43,Hombre,"Mar de Alboran 14, 41015",41015,Sevilla,Sevilla,1_41_91_7_42
+719,41481,19,Hombre,"Emilio Lemos 13, 41020",41020,Sevilla,Sevilla,1_41_91_9_52
+720,41486,32,Mujer,"Av Dr Fedriani 52, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+721,41488,29,Hombre,"Castillo 30, 41440",41440,Sevilla,Sevilla Norte,1_41_55_3_1
+722,41489,41,Mujer,"Palmilla (la) 9, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+723,41490,59,Mujer,"Cabo de Gata 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+724,41492,38,Hombre,"Virgen de Valvanera 16, 41018",41018,Sevilla,Sevilla,1_41_91_3_6
+725,41493,21,Hombre,"Maestra doña Carmen 11, 41210",41210,Sevilla,Sevilla Norte,
+726,41494,68,Mujer,"Doctor leal Castaño 9, 41009",41009,Sevilla,,1_41_91_2_12
+727,41495,45,Mujer,"Sanchez Reciente 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_3
+728,41496,18,Mujer,"Portugalete 9, 41210",41210,Sevilla,Sevilla Norte,
+729,41498,28,Mujer,"Mejillon 39, 41015",41015,Sevilla,Sevilla,1_41_91_7_19
+730,41499,26,Hombre,"Constitucion La 15, 41880",41880,Sevilla,Sevilla Norte,1_41_91_1_37
+731,41504,70,Hombre,"Jose nieto Carballo 6, 41359",41359,Sevilla,Sevilla Norte,
+732,41506,63,Mujer,"Carretera de Guadajoz 10, 41410",41410,Sevilla,Sevilla Norte,
+733,41507,42,Mujer,"Playa de Matalascañas 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+734,41508,34,Mujer,"Nra sra del Carmen 11, 41100",41100,Sevilla,Aljarafe,1_41_34_1_4
+735,41509,42,Mujer,"Jose hernandez Gan 2, 41007",41007,Sevilla,Sevilla,1_41_91_8_37
+736,41514,58,Hombre,"Goya 4, 41230",41230,Sevilla,Sevilla Norte,1_41_27_2_1
+737,41521,28,Mujer,"Carteros 6, 41008",41008,Sevilla,Sevilla,1_41_91_7_46
+738,41525,19,Mujer,"De Cazorla 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_11
+739,41526,51,Mujer,"Coral 9, 41008",41008,Sevilla,Sevilla,1_41_91_2_16
+740,41527,42,Mujer,"Gaspar de Alvear 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+741,41528,25,Hombre,"Pizarro 7, 41002",41002,Sevilla,Sevilla,1_41_91_1_14
+742,41529,17,Hombre,"Pinzones 15, 41008",41008,Sevilla,Sevilla,1_41_91_8_9
+743,41536,32,Mujer,"Santo Domingo 5, 41400",41400,Sevilla,Sevilla Este,1_41_39_5_1
+744,41538,18,Hombre,"Alhondiga 68, 41003",41003,Sevilla,Sevilla,1_41_91_1_46
+745,35776,28,Mujer,"Virgen de los Reyes 25, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_3
+746,41545,24,Mujer,"Refugios 16, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_4
+747,41546,13,Mujer,"Jose Bermejo 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+748,41547,55,Hombre,"Parque sierra Magina 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_33
+749,41548,37,Mujer,"Picos de Aroche 94, 41110",41110,Sevilla,Aljarafe,1_41_16_1_2
+750,41549,53,Mujer,"Cristo del soberano Poder 20, 41010",41010,Sevilla,Sevilla,1_41_91_6_13
+751,41550,44,Hombre,"Valdelarco 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_30
+752,41551,13,Hombre,"Cristo de la resurreccion A 2, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+753,41555,48,Mujer,"Juan diaz de Solis 40, 41010",41010,Sevilla,Sevilla,1_41_91_6_40
+754,41557,17,Hombre,"Estrella Espiga 13, 41015",41015,Sevilla,Sevilla,1_41_91_7_32
+755,41558,35,Mujer,"San Esteban 7, 41003",41003,Sevilla,Sevilla,1_41_91_1_50
+756,41559,65,Mujer,"Rafael Alberti 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_13
+757,41560,49,Mujer,"Corral de los Olmos 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+758,41561,59,Mujer,"Av Dr Fedriani 29, 41009",41009,Sevilla,Sevilla,1_41_91_2_63
+759,41562,21,Mujer,"Cortijo de las Casillas 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_26
+760,41563,59,Mujer,"Fuentezuela 7, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_2
+761,41564,85,Mujer,"Arroyo 86, 41008",41008,Sevilla,Sevilla,1_41_91_8_31
+762,41567,23,Mujer,"Principes (los) p iv B 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_27
+763,41569,56,Mujer,"Ramon y Cajal 1, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_3
+764,41574,41,Mujer,"Sombra 18, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_4
+765,41580,51,Mujer,"Ildefonso marañon Lavin 8, 41019",41019,Sevilla,Sevilla,1_41_91_9_14
+766,41581,51,Mujer,"Cruz Verde 8, 41003",41003,Sevilla,Sevilla,1_41_91_1_22
+767,41582,68,Hombre,"Playa de Estepona 1, 41003",41003,Sevilla,Sevilla,1_41_91_2_12
+768,41583,64,Hombre,"Sanchez Perrier 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_3
+769,41584,13,Hombre,"Duque Cornejo 49, 41003",41003,Sevilla,Sevilla,1_41_91_1_28
+770,41585,51,Mujer,"Leon Xiii 64, 41009",41009,Sevilla,Sevilla,1_41_91_2_32
+771,41595,25,Hombre,"Mejillon 19, 41015",41015,Sevilla,Sevilla,1_41_91_7_17
+772,41598,54,Mujer,"Alcalde manuel del Valle 5, 41008",41008,Sevilla,Sevilla,1_41_91_8_15
+773,41601,33,Mujer,"Anjoli (de) 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+774,41602,35,Hombre,"Aguamarina 12, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+775,41603,43,Mujer,"Escultor gabriel Cuadrado 6, 41808",41808,Sevilla,Aljarafe,1_41_98_1_2
+776,41604,37,Mujer,"Procurador 5, 41010",41010,Sevilla,,1_41_91_6_26
+777,41605,18,Mujer,"Guadalcanal 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+778,41606,44,Mujer,"Abril 9, 41009",41009,Sevilla,Sevilla,1_41_91_2_29
+779,41607,43,Hombre,"Sanchez Reciente 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_3
+780,41608,32,Mujer,"Fundidores 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_39
+781,41611,24,Hombre,"Cortijo de las Casillas 1, 41015",41015,Sevilla,Sevilla,
+782,41612,60,Hombre,"El Recreo 20, 41940",41940,Sevilla,Aljarafe,1_41_93_1_3
+783,41613,15,Mujer,"J gcia ruiz Cabal 48, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+784,41614,30,Mujer,"Mar Adriatico 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_41
+785,41615,16,Hombre,"Gonzalo nuñez de Sepulveda 13, 41009",41009,Sevilla,,1_41_91_2_9
+786,41616,47,Mujer,"Diego de Almagro 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+787,41617,20,Mujer,"Cultura 9, 41980",41980,Sevilla,Sevilla Norte,1_41_81_2_11
+788,41618,30,Hombre,"Almadraberos 8, 41015",41015,Sevilla,Sevilla,1_41_91_7_36
+789,41619,32,Mujer,"Teruel 2, 41350",41350,Sevilla,Sevilla Norte,1_41_99_3_1
+790,41621,17,Hombre,"Antonio Gala 10, 41008",41008,Sevilla,Sevilla,1_41_91_8_12
+791,41625,65,Mujer,"Leon X 20, 41009",41009,Sevilla,Sevilla,1_41_91_2_48
+792,41627,14,Mujer,"Infanta Cristina 1, 41930",41930,Sevilla,Aljarafe,1_41_17_1_3
+793,41629,45,Mujer,"Luis Cernuda 14, 41008",41008,Sevilla,Sevilla,1_41_91_2_26
+794,41630,61,Mujer,"Tendillas (de Las) 1, 41019",41019,Sevilla,Sevilla,1_41_91_9_58
+795,41631,91,Mujer,"Navarra a 4º 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_14
+796,41632,45,Mujer,"Rafael Laffon 23, 41008",41008,Sevilla,Sevilla,1_41_91_8_11
+797,41633,47,Hombre,"Mar Adriatico 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_41
+798,41635,84,Mujer,"Estrella Canopus 18, 41015",41015,Sevilla,,1_41_91_7_47
+799,41636,69,Mujer,"Marzo 16, 41009",41009,Sevilla,Sevilla,1_41_91_2_29
+800,41639,53,Mujer,"Francisco Pizarro 47, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_13
+801,41640,33,Mujer,"Mar Egeo 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_41
+802,41641,21,Mujer,"Miguel Hernandez, 26, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_4
+803,41644,42,Mujer,"Orfebre dominguez Vazquez 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_41
+804,41647,27,Mujer,"Limoneros (de Los) 3, 4006",4006,Almería,Almería,
+805,41648,35,Mujer,"Pozo 7, 41003",41003,Sevilla,Sevilla,1_41_91_1_24
+806,41649,65,Hombre,"Garrotin 2, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_3
+807,41650,23,Hombre,"Miraflores 86, 41008",41008,Sevilla,Sevilla,1_41_91_2_24
+808,41653,16,Mujer,"Carlos Arniches 2, 41009",41009,Sevilla,,1_41_91_2_42
+809,41656,61,Mujer,"Mallorca 71, 41120",41120,Sevilla,Aljarafe,1_41_44_1_4
+810,41657,35,Mujer,"Santa Lucia 101, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_5
+811,41658,29,Hombre,"Diego ortiz de Melgarejo 2, 41008",41008,Sevilla,Sevilla,1_41_91_8_14
+812,41659,19,Mujer,"Cerezo 23, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_5
+813,41660,44,Mujer,"Azahar 8, 41008",41008,Sevilla,Sevilla,1_41_91_2_21
+814,41661,33,Mujer,"Jesus 6, 41540",41540,Sevilla,Sevilla,1_41_77_3_1
+815,41664,16,Hombre,"Vicente Alanis 66, 41008",41008,Sevilla,Sevilla,1_41_91_8_10
+816,41670,26,Mujer,"8, 41006",41006,Sevilla,Sevilla,1_41_91_4_56
+817,41671,16,Hombre,"Luis Braille 33, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_4
+818,1640,56,Mujer,"Fray isidoro de Sevilla 29, 41009",41009,Sevilla,Sevilla,1_41_91_2_32
+819,41674,42,Mujer,"Carteros 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_46
+820,41676,40,Mujer,"Espingarda 9, 41015",41015,Sevilla,,1_41_91_7_13
+821,41677,36,Mujer,"Formentor 35, 41900",41900,Sevilla,Aljarafe,1_41_21_1_6
+822,41679,40,Mujer,"Guadalcanal 6, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+823,41682,17,Hombre,"Libertad 21, 41980",41980,Sevilla,,
+824,41683,31,Mujer,"Cabo de Gata 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+825,41691,69,Mujer,"Violeta 17, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_1
+826,41692,62,Mujer,"Pio Xii 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_36
+827,41693,27,Hombre,"Rafael cansino Assens 11, 41008",41008,Sevilla,Sevilla,1_41_91_2_56
+828,41694,34,Mujer,"Monasterio de Veruela 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+829,41695,63,Mujer,"San Pedro 8, 29640",29640,Málaga,Costa del Sol,
+830,41696,46,Hombre,"Doctores gonzalez y Meneses 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+831,41706,39,Mujer,"Rafael Alberti 13, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_4
+832,41707,27,Mujer,"Andres molina Moles 24, 41980",41980,Sevilla,Sevilla Norte,
+833,41708,35,Mujer,"Picapedreros 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_45
+834,36873,57,Mujer,"Cabo de Gata 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+835,41726,26,Hombre,"Cuarzo 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+836,41728,28,Hombre,"Thailandia 5, 41020",41020,Sevilla,Aljarafe,1_41_91_9_16
+837,41730,40,Hombre,"Cristo de la Resurreccion 13, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+838,41732,76,Mujer,"Gonzalez Cuadrado 22, 41003",41003,Sevilla,,1_41_91_1_22
+839,41733,37,Hombre,"Playa de Rota 9, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+840,41734,20,Hombre,"Humilladero 57, 21520",21520,Huelva,Huelva-Costa,
+841,41735,31,Hombre,"Esturion 14, 41015",41015,Sevilla,Sevilla,1_41_91_7_17
+842,41736,50,Mujer,"Esturion 43, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+843,41737,42,Hombre,"Anjoli (de) 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+844,41738,56,Mujer,"Blas Infante 44, 41870",41870,Sevilla,Aljarafe,1_41_13_2_1
+845,41739,28,Mujer,"Las Moreras 16, 41980",41980,Sevilla,Sevilla Norte,1_41_70_1_1
+846,41747,44,Mujer,"Jara 9, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_7
+847,41749,36,Hombre,"Cristo Rey 7, 23740",23740,Jaén,Jaén Norte,
+848,41750,30,Hombre,"Marques de Contadero 4, 41001",41001,Sevilla,Sevilla,1_41_91_1_35
+849,41751,17,Hombre,"Cristo de la vera Cruz 8, 41860",41860,Sevilla,,1_41_92_1_2
+850,41752,80,Mujer,"Campo de los Martires 3, 41008",41008,Sevilla,Sevilla,1_41_91_3_7
+851,41759,49,Mujer,"Alameda 10, 21720",21720,Huelva,Condado-Campiña,
+852,7698,47,Mujer,"Comunidad Valenciana 1, 41008",41008,Sevilla,,1_41_91_2_49
+853,41760,39,Mujer,"Salvia 23, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+854,41761,80,Mujer,"Martinez Sierra 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_42
+855,41764,73,Mujer,"Luis Cadarso 16, 41003",41003,Sevilla,Sevilla,1_41_91_3_4
+856,41765,19,Mujer,"Rafael Garcia 10, 11540",11540,Cádiz,Jerez-Costa Noroeste,
+857,41768,30,Hombre,"Fausto 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_17
+858,41769,36,Mujer,"Enmedio 11, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_1
+859,41770,50,Hombre,"Vela 2, 41020",41020,Sevilla,Sevilla,1_41_91_9_3
+860,41771,45,Hombre,"Calderon de la Barca 3, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_4_12
+861,41778,70,Mujer,"Barzola (de La) 22, 41008",41008,Sevilla,Sevilla,1_41_91_2_18
+862,41779,18,Mujer,"Zapateros a 2º 6, 21600",21600,Huelva,A.G.S. Norte de Huelva,
+863,41780,53,Mujer,"Gran Capitan 17, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_2
+864,41781,46,Mujer,"Flor de Pascua 6, 41020",41020,Sevilla,Sevilla,1_41_91_9_47
+865,41782,54,Hombre,"Perafan de rivera s/n , 41009",41009,Sevilla,Sevilla,1_41_91_2_44
+866,41784,89,Mujer,"Bangkok 5, 41020",41020,Sevilla,Sevilla,1_41_91_9_16
+867,41787,77,Mujer,"Obispo jesus Dominguez 13, 41840",41840,Sevilla,Aljarafe,1_41_75_1_1
+868,41788,78,Mujer,"Mar Mediterraneo 7, 41015",41015,Sevilla,,1_41_91_7_41
+869,41789,39,Mujer,"De la Ermita 2, 41309",41309,Sevilla,Sevilla Norte,1_41_19_1_2
+870,41790,27,Mujer,"Berrocal , 41370",41370,Sevilla,Sevilla Norte,
+871,41795,67,Hombre,"Orion 8, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_4
+872,41805,88,Mujer,"San gabriel (de) 3, 41009",41009,Sevilla,,1_41_91_2_10
+873,41806,26,Hombre,"San Ignacio 4, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+874,41807,73,Mujer,"Parque atlantico a 6º 2, 41008",41008,Sevilla,Sevilla,1_41_91_7_1
+875,41808,86,Mujer,"Juan de Austria 1, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_4
+876,41813,28,Hombre,"Maestro Arrieta 21, 41702",41702,Sevilla,A.G.S. Sur de Sevilla,1_41_38_4_6
+877,41814,20,Hombre,"Gordillo (el) C/penta 8, 41019",41019,Sevilla,,1_41_91_7_22
+878,41815,45,Hombre,"Ntra sra del Rosario 19, 41320",41320,Sevilla,Sevilla Norte,1_41_42_2_2
+879,41816,21,Mujer,"Flor de Tomillo 8, 41020",41020,Sevilla,Huelva-Costa,1_41_91_9_48
+880,41820,76,Mujer,"Doctor Fleming 20, 41250",41250,Sevilla,,
+881,41821,19,Hombre,"Relator 77, 41003",41003,Sevilla,Sevilla,1_41_91_1_24
+882,41822,29,Mujer,"Octavio 6, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_3
+883,41824,17,Mujer,"Centro de menores Rociera 5, 11500",11500,Cádiz,Bahía de Cádiz-La Janda,
+884,41831,82,Mujer,"Caballero de la Legion 11, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+885,41833,14,Mujer,"Espronceda 31, 41900",41900,Sevilla,Aljarafe,1_41_21_1_5
+886,41835,45,Mujer,"Gaspar de Alvear 12, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+887,41836,25,Mujer,"Tejedoras 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_35
+888,41837,18,Mujer,"Murillo 6, 11550",11550,Cádiz,Jerez-Costa Noroeste,
+889,41847,41,Hombre,"Velez de Guevara 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+890,41850,14,Hombre,"Juan de la Cueva 18, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_7
+891,41851,38,Hombre,"Comunidad castilla Leon 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+892,41852,60,Mujer,"Abogado rafael medina d 2º 7, 41009",41009,Sevilla,Sevilla,1_41_91_1_7
+893,41853,38,Mujer,"Argote de Molina 8, 41001",41001,Sevilla,,1_41_69_3_6
+894,41854,19,Hombre,"Vela 2, 41020",41020,Sevilla,,1_41_91_9_3
+895,41855,59,Mujer,"Santa justa y Rufina 8, 41008",41008,Sevilla,Sevilla,1_41_91_2_50
+896,41856,20,Hombre,"Nueva 13, 41860",41860,Sevilla,Sevilla Norte,
+897,41857,36,Mujer,"Barzola (la) 38, 41008",41008,Sevilla,Sevilla,1_41_91_2_18
+898,41858,18,Mujer,"Santa angela de la Cruz 16, 41350",41350,Sevilla,Sevilla Norte,
+899,41860,32,Mujer,"Baños 57, 41002",41002,Sevilla,Sevilla,1_41_33_1_1
+900,41861,36,Hombre,"Brillante 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_63
+901,41862,25,Mujer,"Comunidad Canaria 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+902,41863,64,Mujer,"Carteros (los) 71, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_9
+903,41864,19,Mujer,"Parque 2, 41209",41209,Sevilla,Sevilla Norte,
+904,41867,36,Mujer,"Jazmin 23, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_3
+905,41870,49,Mujer,"Paz(dela) 75, 41013",41013,Sevilla,Sevilla,1_41_91_10_17
+906,41871,36,Mujer,"Cabo de Gata 13, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+907,41873,45,Mujer,"Ciudad de buñol 2, 41019",41019,Sevilla,Sevilla,1_41_91_9_39
+908,41875,31,Hombre,"Medina y Galnares 105, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+909,41876,50,Hombre,"Prevision 17, 41008",41008,Sevilla,Sevilla,1_41_91_2_7
+910,41881,35,Hombre,"Evangelista 69, 41010",41010,Sevilla,Sevilla,1_41_91_6_25
+911,41882,32,Mujer,"Toruño 26, 11500",11500,Cádiz,Bahía de Cádiz-La Janda,
+912,41883,77,Hombre,"Leon Xiii 70, 41009",41009,Sevilla,Sevilla,1_41_91_2_32
+913,41886,58,Hombre,"San Diego 17, 41015",41015,Sevilla,Sevilla,1_41_91_7_46
+914,41888,23,Mujer,"Virgen de Belen 17, 41460",41460,Sevilla,Sevilla Norte,1_41_68_4_2
+915,41893,26,Hombre,"Coruña 2, 41359",41359,Sevilla,,
+916,41894,54,Hombre,"Jardineros 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_38
+917,41895,28,Mujer,"Miguel Unamuno 14, 41020",41020,Sevilla,Sevilla,1_41_91_9_36
+918,41899,22,Mujer,"Guerra 16, 41400",41400,Sevilla,Sevilla Este,1_41_39_2_2
+919,41902,31,Mujer,"Andres Segovia 10, 41008",41008,Sevilla,Sevilla,1_41_91_8_11
+920,41903,30,Hombre,"Candido Palacios 15, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_2
+921,41909,51,Mujer,"Gladiolo 6, 41008",41008,Sevilla,Sevilla,1_41_91_2_21
+922,42933,50,Mujer,"12, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_3
+923,41911,61,Mujer,"Cisneo Alto 7, 41008",41008,Sevilla,Sevilla,1_41_91_2_57
+924,41917,83,Mujer,"Carmen Diaz 2, 41009",41009,Sevilla,,1_41_91_2_58
+925,41918,42,Mujer,"De Capuchinos 4, 41003",41003,Sevilla,Sevilla,1_41_91_1_30
+926,41919,17,Mujer,"Casa del Sueño 2, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+927,41925,27,Mujer,"Mendizabal 9, 41440",41440,Sevilla,Sevilla Norte,1_41_55_3_1
+928,41928,64,Mujer,"Dr. antonio herrera Carmona 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_54
+929,41930,66,Mujer,"Estrella Sirio 10, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+930,41931,23,Hombre,"Madrid 90, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+931,41932,40,Hombre,"Paco de Lucia 4, 41900",41900,Sevilla,Aljarafe,1_41_15_2_3
+932,41933,27,Hombre,"P. mendez Casariego 6, 41003",41003,Sevilla,Sevilla,1_41_91_3_4
+933,41937,45,Mujer,"Las Palmas 28, 41350",41350,Sevilla,Sevilla Norte,1_41_99_3_1
+934,41942,67,Mujer,"Manolo Brenes 5, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_6
+935,41943,76,Mujer,"La Plaza 11, 41860",41860,Sevilla,Sevilla Norte,
+936,41944,35,Mujer,"Luisa la Roldana 11, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_4
+937,41945,33,Hombre,"Libro del buen Amor 1, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+938,41949,37,Hombre,"Cereza 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_10
+939,41950,18,Hombre,"Rey Melchor 33, 41015",41015,Sevilla,Sevilla,1_41_91_7_9
+940,41951,71,Mujer,"Cadiz 14, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_5
+941,41955,21,Mujer,"Jose Bermejo 14, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+942,41959,50,Hombre,"Guadalquivir 17, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_4
+943,41960,57,Hombre,"Torrelobaton 1, 41016",41016,Sevilla,Sevilla,1_41_91_9_18
+944,41961,18,Hombre,"Sevilla s/n , 41250",41250,Sevilla,Sevilla Norte,
+945,41972,71,Mujer,"Monjas (de Las) 13, 41019",41019,Sevilla,Sevilla,
+946,41976,62,Mujer,"Estrella de Albaran 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_31
+947,41977,47,Mujer,"Playa de Matalascañas 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+948,41979,24,Hombre,"El Alcazar 28, 4006",4006,Almería,Almería,
+949,41981,32,Hombre,"Lepanto 7, 41003",41003,Sevilla,Sevilla,1_41_91_1_6
+950,41982,45,Hombre,"Nueva 28, 41860",41860,Sevilla,Sevilla Norte,
+951,41983,41,Hombre,"Doctor marañon 2, 41009",41009,Sevilla,Sevilla,
+952,41986,28,Mujer,"Rubi 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+953,41987,38,Hombre,"Natividad morales Muñoz 46, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+954,41988,19,Mujer,"Greco (el) 28, 41740",41740,Sevilla,A.G.S. Sur de Sevilla,1_41_95_1_8
+955,41989,54,Mujer,"Azahin 14, 41019",41019,Sevilla,Sevilla,1_41_91_9_43
+956,41990,45,Mujer,"Sanchez pizjuan (de) 18, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+957,41991,36,Mujer,"San lazaro (de) 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+958,41997,39,Mujer,"Corvina 28, 41015",41015,Sevilla,Sevilla,1_41_91_7_19
+959,42001,45,Mujer,"Esturion 45, 41015",41015,Sevilla,Sevilla,1_41_91_7_21
+960,42007,63,Hombre,"Miguel Hernandez 7, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_3
+961,42008,14,Mujer,"Corral del Agua 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_29
+962,42010,19,Hombre,"Virgen de Guadalupe 10, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+963,42011,54,Mujer,"Coquina 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_19
+964,42015,22,Hombre,"Campo de los Martires 13, 41018",41018,Sevilla,Sevilla,1_41_91_3_7
+965,42017,53,Mujer,"Jardin de las Delicias 32, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+966,42023,74,Mujer,"Amargura 13, 41860",41860,Sevilla,Sevilla Norte,
+967,42025,33,Hombre,"Pueblo Palestino 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_59
+968,42026,18,Hombre,"Principe de asturias, aptdo. Correos 47, 21260",21260,Huelva,Sevilla Norte,
+969,42027,72,Mujer,"Luna (la) 6, 41200",41200,Sevilla,Sevilla Norte,
+970,42031,68,Mujer,"Vicente Alanis 66, 41008",41008,Sevilla,Sevilla,1_41_91_8_10
+971,42033,21,Mujer,"Ciudad de Picasent 6, 41019",41019,Sevilla,Sevilla,1_41_91_9_13
+972,42037,75,Mujer,"Sagunto 16, 41002",41002,Sevilla,Sevilla,1_41_91_1_24
+973,42039,16,Mujer,"San Juan 12, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_5
+974,42040,20,Hombre,"El socorro calle Pensamiento 119, 41410",41410,Sevilla,Sevilla Norte,
+975,42044,43,Mujer,"Chaparro 4, 41019",41019,Sevilla,Sevilla,1_41_91_9_37
+976,42045,55,Mujer,"Zapillo 8, 41020",41020,Sevilla,Sevilla,1_41_91_9_4
+977,42046,30,Mujer,"Europa 2, 29640",29640,Málaga,Costa del Sol,
+978,42058,56,Mujer,"Virgen del Valle 28, 41011",41011,Sevilla,Sevilla,1_41_91_11_19
+979,42059,50,Mujer,"Cazorla 15, 41200",41200,Sevilla,Sevilla Norte,
+980,42061,49,Hombre,"Cañada Real 17, 41220",41220,Sevilla,Sevilla Norte,
+981,42063,38,Mujer,"Antonio Aparicio 8, 41370",41370,Sevilla,Sevilla Norte,
+982,42064,75,Mujer,"Mayo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_30
+983,42065,46,Mujer,"Murillo 43, 41250",41250,Sevilla,Sevilla Norte,
+984,42070,63,Hombre,"Moguer 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+985,42077,54,Mujer,"Almeria 45, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_3
+986,42083,19,Mujer,"San Agustin 44, 21700",21700,Huelva,Condado-Campiña,
+987,42084,38,Mujer,"Real de la jara (el) B 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+988,42085,52,Hombre,"Ingeniero la Cierva 83, 41006",41006,Sevilla,Sevilla,1_41_91_4_18
+989,42086,17,Mujer,"Japon 9, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+990,42087,19,Mujer,"Carmen (del) 11, 14920",14920,Córdoba,A.G.S. Sur de Córdoba,
+991,42088,22,Mujer,"Augusta 8, 23650",23650,Jaén,Jaén Sur,
+992,42089,13,Mujer,"Sembradores 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_38
+993,42090,77,Mujer,"Francisco javier Ortega 47, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_2
+994,42091,68,Hombre,"Jimenez Aranda 5, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_4
+995,42093,44,Hombre,"Alcazaba 21, 41200",41200,Sevilla,Sevilla Norte,1_41_5_1_2
+996,42094,24,Mujer,"Baja 77, 21410",21410,Huelva,Huelva-Costa,
+997,42104,60,Mujer,"Piropo 26, 41020",41020,Sevilla,Sevilla,1_41_91_9_33
+998,42105,33,Hombre,"Batea 3, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+999,42106,50,Mujer,"Moreros (los) 10, 41220",41220,Sevilla,Sevilla Norte,
+1000,42108,37,Mujer,"Virgen del Monte 11, 41011",41011,Sevilla,Sevilla,1_41_91_11_5
+1001,42109,38,Hombre,"Estrella Altair 10, 41015",41015,Sevilla,Sevilla,1_41_17_1_3
+1002,42110,28,Mujer,"Blasco Ibañez 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+1003,42111,61,Mujer,"Matahacas 43, 41003",41003,Sevilla,Sevilla,1_41_91_1_1
+1004,42112,81,Mujer,"Blas Infante 22, 41230",41230,Sevilla,Sevilla Norte,
+1005,42113,32,Mujer,"Benidorm 3, 41001",41001,Sevilla,Sevilla,1_41_91_1_26
+1006,42114,38,Mujer,"Abril 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_30
+1007,42115,14,Mujer,"Encofradores 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_39
+1008,42117,26,Mujer,"Playa de Chipiona 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1009,42118,28,Mujer,"Joaquin Ramos 2, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_4_1
+1010,42121,55,Mujer,"Esturion 74, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+1011,42122,23,Hombre,"Marismas (las) 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1012,42123,55,Mujer,"Leon Xiii 6, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_2
+1013,42124,40,Mujer,"Alejo Fernandez 11, 41003",41003,Sevilla,Sevilla,1_41_91_3_2
+1014,42125,24,Hombre,"San Felipe 8, 41410",41410,Sevilla,,1_41_24_1_1
+1015,42127,64,Mujer,"Valdelarco 3, 41008",41008,Sevilla,,1_41_91_2_30
+1016,42128,40,Hombre,"Comercio 23, 23700",23700,Jaén,,
+1017,42129,67,Mujer,"Blas de Otero 1, 41980",41980,Sevilla,Sevilla Norte,1_41_65_2_4
+1018,42135,25,Mujer,"Sebastian Elcano 38, 41011",41011,Sevilla,,1_41_91_11_11
+1019,42138,52,Mujer,"Blas Infante 98, 41350",41350,Sevilla,Sevilla Norte,1_41_99_2_2
+1020,42139,82,Mujer,"Jacinto Benavente 6, 41410",41410,Sevilla,,1_41_24_4_4
+1021,42140,19,Mujer,"Federico mayo Gayarre 27, 41006",41006,Sevilla,Sevilla,1_41_91_4_38
+1022,42141,23,Hombre,"Manuel Villalobos 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+1023,42142,19,Mujer,"Sol 2, 41209",41209,Sevilla,,
+1024,42143,16,Hombre,"Butron 1, 41004",41004,Sevilla,Sevilla,1_41_91_1_32
+1025,42145,22,Mujer,"Baltasar de Alcazar 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_15
+1026,42149,26,Mujer,"Alvaro de Luna 7, 41010",41010,Sevilla,Sevilla,1_41_91_6_42
+1027,42150,35,Mujer,"Emilia Barral 28, 41019",41019,Sevilla,Sevilla,1_41_91_9_15
+1028,42162,84,Hombre,"Almazareros 1, 41015",41015,Sevilla,,1_41_91_7_37
+1029,42164,41,Mujer,"Matahacas 5, 41003",41003,Sevilla,Sevilla,1_41_91_1_1
+1030,42165,17,Hombre,"Aguamarina 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+1031,42168,59,Mujer,"Estrella Betelgeuse 2, 41015",41015,Sevilla,,1_41_91_7_47
+1032,42169,76,Mujer,"Lazaro Rivas 52, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+1033,42170,18,Mujer,"Alvar nuñez cabeza de Vaca 26, 41020",41020,Sevilla,Sevilla,1_41_91_8_36
+1034,42171,23,Hombre,"Cristobal Colon 7, 21002",21002,Huelva,Huelva-Costa,
+1035,42172,65,Mujer,"Playa de Rota 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+1036,42173,61,Hombre,"Alondra 1, 41800",41800,Sevilla,Aljarafe,
+1037,42174,22,Hombre,"Boya 10, 21100",21100,Huelva,Huelva-Costa,
+1038,42175,40,Hombre,"El Pedroso 1, 41008",41008,Sevilla,Sevilla,
+1039,42176,41,Hombre,"Regimiento de Soria 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_56
+1040,42177,29,Hombre,"Becquer 12, 41390",41390,Sevilla,Sevilla Norte,
+1041,42178,44,Mujer,"Lentisco 7, 41009",41009,Sevilla,Sevilla,1_41_12_1_1
+1042,42181,38,Mujer,"De san anton 6, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_6
+1043,42182,41,Mujer,"Cuarzo 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+1044,42183,18,Mujer,"Santa justa d bj 10, 41008",41008,Sevilla,Sevilla,1_41_91_8_27
+1045,42184,44,Mujer,"Margarita 7, 41008",41008,Sevilla,Sevilla,1_41_91_2_21
+1046,16692,57,Mujer,"Benitez Parodi 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_33
+1047,42188,40,Hombre,"Ciudad de Carcagente 4, 41019",41019,Sevilla,Sevilla,1_41_91_9_55
+1048,42191,38,Mujer,"Llanes (de) 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_24
+1049,42192,51,Hombre,"San isidro Labrador 6, 41440",41440,Sevilla,Sevilla Norte,
+1050,42194,36,Hombre,"Cantillana 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_15
+1051,42195,38,Hombre,"Juan cervera Sanchis 1, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_1
+1052,42196,46,Mujer,"Octavio 5, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_3
+1053,42202,59,Mujer,"Diego ortiz de Melgarejo 2, 41008",41008,Sevilla,,1_41_91_8_14
+1054,42208,37,Mujer,"Marbella 16, 41900",41900,Sevilla,Aljarafe,1_41_21_1_4
+1055,42209,58,Mujer,"Tapiceros 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_45
+1056,42211,29,Mujer,"El Balcon 36, 41940",41940,Sevilla,Aljarafe,1_41_93_1_3
+1057,42212,13,Mujer,"Lavanda 26, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+1058,42214,18,Mujer,"Real 82, 41210",41210,Sevilla,Sevilla Norte,
+1059,42215,72,Mujer,"Coral 11, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+1060,42216,61,Mujer,"Enladrillada 50, 41003",41003,Sevilla,Sevilla,1_41_91_1_29
+1061,42224,15,Hombre,"Milagrosa 17, 41310",41310,Sevilla,Sevilla Norte,1_41_91_2_48
+1062,42225,33,Mujer,"Peteneras 9, 41860",41860,Sevilla,Sevilla Norte,1_41_87_2_2
+1063,42226,36,Hombre,"Casa Grande 26, 41909",41909,Sevilla,Aljarafe,1_41_85_1_2
+1064,42228,27,Mujer,"Arroyo 49, 41001",41001,Sevilla,,1_41_91_8_8
+1065,42231,58,Mujer,"Francisco carrion Mejias 10, 41410",41410,Sevilla,Sevilla Norte,1_41_91_1_49
+1066,42240,20,Hombre,"Llanes (de) 7, 41008",41008,Sevilla,Sevilla,1_41_91_2_19
+1067,42241,61,Mujer,"Luna 1, 41218",41218,Sevilla,Sevilla Norte,1_41_46_1_1
+1068,42243,47,Mujer,"Afrodita 10, 41014",41014,Sevilla,Sevilla,1_41_91_10_26
+1069,42244,22,Mujer,"Aguadulce 5, 41640",41640,Sevilla,Sevilla Este,1_41_68_3_2
+1070,42245,73,Mujer,"Pepita Caballero 1, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_1
+1071,42248,20,Mujer,"Mejillon 30, 41015",41015,Sevilla,Sevilla,1_41_91_7_18
+1072,42249,59,Hombre,"Hita del Castillo 5, 41003",41003,Sevilla,Sevilla,1_41_91_1_3
+1073,42255,19,Hombre,"Cervantes 25, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_3
+1074,42256,71,Mujer,"San Cristobal 42, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+1075,42257,78,Mujer,"Gaspar de Alvear 16, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+1076,42258,44,Mujer,"Miraflores (de) 81, 41008",41008,Sevilla,Sevilla,1_41_91_2_22
+1077,42261,16,Mujer,"Alcalde pepe Iglesias 12, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_15
+1078,42263,44,Mujer,"Guadalupe 3, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_4
+1079,42270,76,Mujer,"Madreselva 14, 41008",41008,Sevilla,Sevilla,1_41_91_2_37
+1080,42271,55,Mujer,"Blas de Otero 2, 41980",41980,Sevilla,Sevilla Norte,1_41_65_2_4
+1081,42275,46,Mujer,"Faisan 25, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+1082,42276,69,Mujer,"Nuestra señora del Consuelo 6, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_2
+1083,42277,40,Mujer,"Alba 1, 41200",41200,Sevilla,Sevilla Norte,1_41_5_1_1
+1084,42278,47,Mujer,"Perafan de ribera (albergue) , 41009",41009,Sevilla,Sevilla,1_41_91_2_1
+1085,42279,23,Mujer,"Lara 6, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_2
+1086,42286,25,Mujer,"La Paz 92, 41310",41310,Sevilla,Sevilla Norte,1_41_34_1_5
+1087,42287,36,Hombre,"Mojarra 18, 11550",11550,Cádiz,Jerez-Costa Noroeste,
+1088,42294,45,Mujer,"Parras 34, 41003",41003,Sevilla,Sevilla,1_41_91_1_24
+1089,42303,83,Mujer,"Gonzalo nuñez de Sepulveda 16, 41009",41009,Sevilla,,1_41_91_2_9
+1090,42305,47,Mujer,"Av Dr Fedriani 50, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+1091,42306,27,Mujer,"Av Dr Fedriani 44, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+1092,42307,38,Hombre,"Pablo Picasso 6, 41888",41888,Sevilla,Sevilla Norte,
+1093,42309,27,Mujer,"Puerto Rico 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+1094,42311,28,Hombre,"Candelaria 78, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_2
+1095,42312,25,Hombre,"Estrella 4, 41450",41450,Sevilla,Sevilla Norte,
+1096,42313,66,Mujer,"Cañaveral 68, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+1097,42314,86,Mujer,"Miraflores (de) 83, 41008",41008,Sevilla,Sevilla,1_41_91_2_22
+1098,42315,24,Hombre,"Doña maria Coronel 26, 41003",41003,Sevilla,Sevilla,1_41_91_1_43
+1099,42318,43,Mujer,"Velez de Guevara 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+1100,42320,67,Mujer,"Luis de gongora Bl 7, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_8
+1101,42321,20,Mujer,"Verano 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_2
+1102,42328,58,Mujer,"Mare de deu de la Llum 6, 30200",30200,Barcelona,,
+1103,42329,25,Mujer,"De las Tendillas 7, 41019",41019,Sevilla,Sevilla,1_41_91_9_58
+1104,42330,63,Mujer,"Jacinto Benavente 7, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_4
+1105,42332,82,Mujer,"Ciudad de Gandia 2, 41019",41019,Sevilla,Sevilla,1_41_91_9_38
+1106,42333,35,Mujer,"Bardana 6, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+1107,42336,46,Mujer,"Madre san Marcelo 14, 41008",41008,Sevilla,Sevilla,1_41_91_2_9
+1108,42340,29,Mujer,"Severo Ochoa 55, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_13
+1109,42342,26,Hombre,"Arbotante 7, 41008",41008,Sevilla,Sevilla,1_41_91_7_5
+1110,42343,55,Mujer,"Mar Mediterraneo 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_28
+1111,42344,28,Hombre,"Leon X 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_48
+1112,42345,55,Mujer,"Parque sierra de Aroche 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_12
+1113,42349,27,Mujer,"Jose Payan 28, 41900",41900,Sevilla,Aljarafe,1_41_21_1_1
+1114,42353,25,Mujer,"Federica Montseny 22, 41230",41230,Sevilla,Sevilla Norte,
+1115,42354,49,Mujer,"Birmania 9, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+1116,42355,20,Mujer,"Playa de Marbella 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1117,42358,14,Mujer,"Electra 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_17
+1118,42360,53,Hombre,"Barberan y Collar 4, 41001",41001,Sevilla,Sevilla Norte,1_41_91_11_1
+1119,42363,45,Hombre,"Torres quevedo Izq 1, 41300",41300,Sevilla,Sevilla Norte,
+1120,42364,17,Mujer,"Flor de Pascua 2, 41020",41020,Sevilla,,1_41_91_9_47
+1121,42365,32,Mujer,"Andalucia (de) 32, 41006",41006,Sevilla,Sevilla,1_41_15_2_2
+1122,42371,45,Mujer,"Pitas 40, 41660",41660,Sevilla,Sevilla Este,1_41_100_1_1
+1123,42372,46,Mujer,"Republica de China 32, 41020",41020,Sevilla,Sevilla,1_41_91_9_16
+1124,42374,49,Mujer,"San Marcos 1, 41002",41002,Sevilla,Sevilla,1_41_95_1_8
+1125,42379,29,Mujer,"La estacada a 2º 16, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+1126,42381,48,Hombre,"Olmo 13, 41218",41218,Sevilla,Sevilla Norte,1_41_49_1_4
+1127,42387,14,Mujer,"Santander d 4º 4, 41900",41900,Sevilla,Aljarafe,
+1128,42390,38,Mujer,"Guadiana 3, 41980",41980,Sevilla,Sevilla Norte,
+1129,42399,21,Mujer,"Ajimez 11, 41008",41008,Sevilla,Sevilla,1_41_91_7_4
+1130,42403,27,Mujer,"Principes (los) p v d 1º 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_33
+1131,42404,73,Mujer,"Antonio Gala 9, 41008",41008,Sevilla,Sevilla,1_41_91_8_12
+1132,42405,61,Hombre,"Luceros (los) 7, 41019",41019,Sevilla,Sevilla,1_41_91_9_56
+1133,42406,52,Mujer,"Miguel hernandez C 2, 41510",41510,Sevilla,Sevilla Norte,1_41_58_2_3
+1134,42407,28,Mujer,"Hermano Pablo 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+1135,42409,58,Mujer,"Rosa de Pasion 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_39
+1136,42410,50,Mujer,"Margarita 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_21
+1137,42411,34,Hombre,"Romeros (los) D 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1138,42416,27,Mujer,"Sextante 2, 41006",41006,Sevilla,Sevilla,1_41_91_4_6
+1139,42417,31,Mujer,"Tetuan 27, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_1
+1140,42418,35,Hombre,"Pino Montano 124, 41008",41008,Sevilla,Sevilla,1_41_91_2_40
+1141,42419,56,Mujer,"Puerto de la Reina 10, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_7
+1142,42421,24,Mujer,"Poeta garci Fernandez 4, 41860",41860,Sevilla,Sevilla Norte,
+1143,42422,83,Mujer,"Amador de los Rios 23, 41003",41003,Sevilla,Sevilla,1_41_91_3_1
+1144,42423,43,Hombre,"Romero Ressendi 20, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_4
+1145,42425,45,Mujer,"Martinez Montañes 13, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_3
+1146,42426,23,Mujer,"Parque Atlantico 4, 41008",41008,Sevilla,Sevilla,1_41_91_7_1
+1147,42427,27,Mujer,"Mejillon 90, 41015",41015,Sevilla,Sevilla,1_41_91_7_21
+1148,42430,36,Hombre,"Andalucia (de) 2, 41005",41005,Sevilla,Sevilla,1_41_65_3_2
+1149,42434,52,Mujer,"Jose de la Cruz 2, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_18
+1150,42435,15,Mujer,"Ermita del Rocio 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_11
+1151,42437,37,Mujer,"Sagasta 1, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_4_23
+1152,42438,45,Hombre,"Manzanilla 11, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_6
+1153,42439,17,Mujer,"Madrid 28, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_5
+1154,42440,32,Mujer,"Vacie el , 41015",41015,Sevilla,Sevilla,1_41_91_7_9
+1155,42441,18,Mujer,"Pino (del) 5, 4002",4002,Almería,Almería,
+1156,42444,20,Mujer,"Campo de los Martires 3, 41018",41018,Sevilla,Sevilla,1_41_91_3_7
+1157,42445,20,Mujer,"Azucena 20, 29400",29400,Málaga,A. G. S. Serranía de Málaga,
+1158,42447,52,Mujer,"Valle 5, 41003",41003,Sevilla,Sevilla,1_41_91_1_32
+1159,42448,84,Mujer,"Alberto Durero 1, 41018",41018,Sevilla,,1_41_91_3_7
+1160,42449,28,Hombre,"Huerta del Aguila 17, 41006",41006,Sevilla,Sevilla,1_41_91_4_61
+1161,42456,40,Hombre,"Jirafa 4, 41019",41019,Sevilla,,1_41_91_7_23
+1162,42463,63,Mujer,"Raimundo de la fuente Romo 12, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_3
+1163,42464,19,Mujer,"Pilon 8, 41860",41860,Sevilla,Sevilla Norte,
+1164,42476,39,Mujer,"Via Latina 3, 41016",41016,Sevilla,Sevilla,1_41_91_9_2
+1165,42477,69,Mujer,"Axati 9, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_4
+1166,42478,52,Mujer,"Jardin de las Delicias 34, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+1167,42491,39,Hombre,"Virgen de Escardiel 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+1168,42493,30,Mujer,"Andalucia 26, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_5
+1169,42497,32,Hombre,"Comunidad Asturiana 7, 41008",41008,Sevilla,Sevilla,1_41_91_2_41
+1170,42498,50,Hombre,"Canal 45, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+1171,42499,23,Hombre,"Puerto Rico 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+1172,42501,28,Mujer,"Isaac Albeniz 11, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_3
+1173,42502,30,Hombre,"Estrella Altair 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+1174,42503,21,Mujer,"Areneros 30, 41200",41200,Sevilla,Sevilla Norte,
+1175,42506,39,Mujer,"Federico garcia Lorca 19, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_6
+1176,42511,45,Mujer,"Guadalquivir 3, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_5
+1177,42517,36,Mujer,"Sagasta 38, 11001",11001,Cádiz,Bahía de Cádiz-La Janda,
+1178,42521,14,Hombre,"Ronda de Alcala 50, 41209",41209,Sevilla,Sevilla Norte,
+1179,42522,36,Mujer,"Cespedes 20, 41004",41004,Sevilla,,1_41_91_1_47
+1180,42526,29,Mujer,"Titanes 2, 11009",11009,Cádiz,Bahía de Cádiz-La Janda,
+1181,42528,77,Mujer,"Real 29, 41908",41908,Sevilla,,1_41_28_1_1
+1182,42534,35,Hombre,"Juan de Zoyas 14, 41018",41018,Sevilla,Sevilla,1_41_91_3_31
+1183,42535,20,Mujer,"De la cruz Roja 1, 41310",41310,Sevilla,Sevilla Norte,
+1184,42536,71,Mujer,"Constitucion 1, 41350",41350,Sevilla,Sevilla Norte,
+1185,42537,43,Hombre,"Madrid 96, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+1186,42539,78,Hombre,"Sindicatos 4, 41020",41020,Sevilla,Sevilla,1_41_91_7_24
+1187,42543,40,Mujer,"Alfaqueque 18, 41002",41002,Sevilla,Sevilla,1_41_91_1_9
+1188,42544,35,Hombre,"Nuestra señora del Rosario 58, 41310",41310,Sevilla,Sevilla Norte,1_41_17_1_3
+1189,42545,15,Mujer,"Esturion 45, 41015",41015,Sevilla,Sevilla,1_41_91_7_21
+1190,42551,53,Mujer,"Pinos (los) 8, 41089",41089,Sevilla,Sevilla,1_41_38_5_13
+1191,42553,42,Mujer,"Mar Jonico 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_42
+1192,42554,67,Mujer,"Navarra 23, 41015",41015,Sevilla,Sevilla,1_41_91_7_15
+1193,42558,53,Hombre,"Manises 3, 41019",41019,Sevilla,Sevilla,1_41_91_9_38
+1194,42559,82,Mujer,"Almendro 16, 41440",41440,Sevilla,,1_41_55_2_5
+1195,42561,22,Mujer,"Miguel Maestre 9, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_2
+1196,42562,49,Mujer,"Urbano Orad 5, 41020",41020,Sevilla,Sevilla,1_41_91_9_33
+1197,42563,46,Mujer,"Resd. las Almenas 14, 41008",41008,Sevilla,Sevilla,1_41_91_7_40
+1198,42564,60,Mujer,"Pimienta 16, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+1199,42565,34,Hombre,"Salvador Dali 2, 41008",41008,Sevilla,,1_41_91_7_25
+1200,42571,35,Mujer,"Sanchez Reciente 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_3
+1201,42573,34,Hombre,"Mare Nostrum 1, 11406",11406,Cádiz,Jerez-Costa Noroeste,
+1202,42574,39,Mujer,"Pozo 11, 41003",41003,Sevilla,Sevilla,1_41_91_1_24
+1203,42582,22,Mujer,"Alcalde manuel del Valle 47, 41008",41008,Sevilla,Sevilla,1_41_91_2_25
+1204,42583,72,Mujer,"Sanchez pizjuan (de) 11, 41009",41009,Sevilla,Sevilla,1_41_91_2_17
+1205,42584,17,Mujer,"Mirlo 25, 41006",41006,Sevilla,Sevilla,1_41_91_4_4
+1206,42585,81,Mujer,"Mementos 6, 41300",41300,Sevilla,Sevilla Norte,
+1207,42591,28,Hombre,"Arroyo 51, 41003",41003,Sevilla,Sevilla,1_41_91_8_8
+1208,42596,40,Mujer,"Abogado rafael Medina 1, 41009",41009,Sevilla,Sevilla,1_41_91_1_7
+1209,42597,53,Mujer,"De las Ciencias 26, 41020",41020,Sevilla,Sevilla,1_41_91_9_33
+1210,42598,47,Mujer,"Mazueco 17, 41440",41440,Sevilla,Sevilla Norte,
+1211,42601,36,Mujer,"Camino de los toros b 2º 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_31
+1212,42603,21,Mujer,"Estrella Aldebaran 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+1213,42604,33,Mujer,"Virgen de Lujan 50, 41011",41011,Sevilla,Sevilla,1_41_91_11_4
+1214,42606,34,Mujer,"Abogado rafael medina D 3, 41009",41009,Sevilla,Sevilla,1_41_91_1_7
+1215,42607,16,Mujer,"Constantina d bj 14, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+1216,42609,72,Mujer,"Rosa Nº 243, 41300",41300,Sevilla,Sevilla,
+1217,42610,22,Mujer,"Leon X 18, 41009",41009,Sevilla,Sevilla,1_41_91_2_48
+1218,42611,37,Mujer,"Simpecado C 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1219,42613,25,Mujer,"Quevedo 13, 41520",41520,Sevilla,Sevilla Norte,1_41_102_1_3
+1220,42614,30,Mujer,"Roda de la Mancha 61, 41510",41510,Sevilla,Sevilla Norte,1_41_58_3_6
+1221,42615,44,Mujer,"Carpa 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_17
+1222,42616,35,Hombre,"Doctor dominguez Rodiño 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+1223,42623,69,Mujer,"Santa maria de Ordas 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_24
+1224,42628,59,Mujer,"Alarifes 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_43
+1225,42629,27,Hombre,"Perlita (la) 15, 11203",11203,Cádiz,A. G. S. Campo de Gibraltar,
+1226,42630,55,Mujer,"Apostol santiago B 2, 41840",41840,Sevilla,Aljarafe,1_41_75_1_2
+1227,42633,66,Mujer,"San Oceano 19, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_3
+1228,42634,59,Mujer,"Manuel Quesada 13, 41359",41359,Sevilla,Sevilla Norte,
+1229,42635,27,Mujer,"De las Ciencias 30, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+1230,42637,38,Mujer,"Bernardino Alvarez 1, 41009",41009,Sevilla,Sevilla,1_41_95_1_3
+1231,42638,37,Mujer,"Leonardo de Rueda 1, 41008",41008,Sevilla,Sevilla,1_41_91_8_14
+1232,42640,41,Hombre,"Culebrina 13, 41015",41015,Sevilla,Sevilla,1_41_91_7_13
+1233,42644,67,Mujer,"Licenciado Caldera 31, 41008",41008,Sevilla,Sevilla,1_41_91_8_14
+1234,42645,71,Mujer,"Velazquez 21, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_4
+1235,42646,29,Mujer,"Seguiriyas 18, 41860",41860,Sevilla,Sevilla Norte,1_41_34_1_3
+1236,42647,55,Hombre,"Torero jose garcia Rodriguez 3, 41007",41007,Sevilla,Sevilla,1_41_91_1_43
+1237,42652,17,Mujer,"Encina del rey 4, 41019",41019,Sevilla,Sevilla,1_41_91_9_42
+1238,42653,85,Mujer,"Juan manuel rodriguez Correa 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_45
+1239,42654,26,Mujer,"Gaspar de Alvear 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+1240,42655,52,Mujer,"San lazaro (de) 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1241,42656,26,Hombre,"Rodriguez Zapata 27, 41380",41380,Sevilla,Sevilla Norte,
+1242,42666,72,Mujer,"Ntra. sra. del Amparo 13, 41009",41009,Sevilla,Sevilla,1_41_91_2_60
+1243,42668,72,Mujer,"Cristobal Colon 23, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_4_9
+1244,42671,32,Mujer,"Guadiamar 1, 41890",41890,Sevilla,Sevilla Norte,
+1245,42672,38,Mujer,"Quemadero de san Francisco 30, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_4
+1246,42673,23,Mujer,"San Cayetano 1, 14440",14440,Córdoba,Córdoba Norte,
+1247,42675,62,Mujer,"Trajano 12, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+1248,42694,30,Mujer,"Bordador rodriguez Ojeda 7, 41003",41003,Sevilla,Sevilla,1_41_91_1_28
+1249,42695,39,Mujer,"Primavera 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_2
+1250,42696,45,Hombre,"Otoño 3, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+1251,42697,51,Hombre,"San Juan 2, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_5
+1252,42699,61,Mujer,"Juan de Mesa 9, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+1253,42701,77,Mujer,"Jerico 6, 41007",41007,Sevilla,Sevilla,1_41_91_8_38
+1254,42702,28,Mujer,"Atanasio Barron 11, 41003",41003,Sevilla,Sevilla,1_41_91_3_37
+1255,42703,26,Hombre,"Gabriela Mistral 10, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_5
+1256,42704,31,Hombre,"El villazgo C/carpintero 5, 21600",21600,Huelva,A.G.S. Norte de Huelva,
+1257,42705,26,Mujer,"Ajimez 9, 41008",41008,Sevilla,Sevilla,1_41_91_7_4
+1258,42706,44,Mujer,"Virgen de la Fuensanta 10, 41011",41011,Sevilla,Sevilla,1_41_91_11_8
+1259,42707,32,Hombre,"Gran Plaza 10, 41005",41005,Sevilla,Sevilla,1_41_91_3_26
+1260,42709,28,Mujer,"La Fuente 36, 14430",14430,Córdoba,Guadalquivir,
+1261,42710,22,Mujer,"Ciudad de Chiva 25, 41019",41019,Sevilla,Sevilla,1_41_91_9_41
+1262,42718,54,Mujer,"Clara de jesus Montero 28, 41010",41010,Sevilla,Sevilla,1_41_91_6_20
+1263,42719,50,Mujer,"Leon Xiii 73, 41009",41009,Sevilla,Sevilla,1_41_4_2_1
+1264,42720,71,Mujer,"Cristo de la Sed 15, 41005",41005,Sevilla,Sevilla,1_41_91_3_33
+1265,42725,26,Hombre,"Alberto Lista 28, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_8
+1266,42729,19,Hombre,"Madre san Marcelo 14, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+1267,42730,23,Hombre,"Adelfa 3, 41429",41429,Sevilla,Sevilla Norte,1_41_22_2_2
+1268,42733,27,Mujer,"Mayor 2, 41210",41210,Sevilla,,1_41_75_1_2
+1269,42734,28,Mujer,"Malva Torre 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_25
+1270,42741,24,Hombre,"Medina y Galnares 125, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+1271,42742,50,Mujer,"Carteros 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_46
+1272,42748,29,Hombre,"Fray diego de Cadiz 31, 41003",41003,Sevilla,,1_41_91_1_25
+1273,42749,41,Mujer,"Hermanas de la Cruz 24, 41008",41008,Sevilla,Sevilla,
+1274,42750,38,Mujer,"Andalucia 9, 41479",41479,Sevilla,Sevilla Norte,1_41_78_2_1
+1275,42753,21,Mujer,"Gregorio Marañon 6, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_6
+1276,42755,44,Mujer,"Real 38, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_2
+1277,42756,48,Mujer,"Virgen de Guadalupe 13, 41980",41980,Sevilla,,1_41_81_1_3
+1278,42757,34,Hombre,"Juan de Mesa 42, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_3
+1279,42758,56,Mujer,"Acueducto 6, 41008",41008,Sevilla,Sevilla,1_41_91_7_5
+1280,42760,44,Mujer,"Huesca 42, 41006",41006,Sevilla,Sevilla,1_41_91_4_47
+1281,42761,25,Hombre,"Juan de Ledesma 35, 41006",41006,Sevilla,Sevilla,1_41_91_4_32
+1282,42762,26,Mujer,"Mercedes de Velilla 30, 41900",41900,Sevilla,Aljarafe,1_41_21_1_3
+1283,42767,69,Mujer,"Jose manuel caballero Bonald 7, 41013",41013,Sevilla,Sevilla,
+1284,42768,87,Mujer,"Santa angela de la Cruz 12, 41350",41350,Sevilla,,
+1285,42769,47,Mujer,"Estrella Sirio 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_47
+1286,42770,32,Mujer,"Clavel 6, 41310",41310,Sevilla,Sevilla Norte,
+1287,42771,38,Hombre,"Arjona 6, 41001",41001,Sevilla,,1_41_91_1_34
+1288,42772,50,Hombre,"Parque de Grazalema 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_10
+1289,42775,19,Mujer,"Parque de Grazalema 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_10
+1290,42778,28,Mujer,"Parroco antonio Rosendo 28, 41250",41250,Sevilla,Sevilla Norte,1_41_80_2_1
+1291,42779,68,Mujer,"Polvillo 24, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_1
+1292,42780,63,Mujer,"Socorro, 14, 21720",21720,Huelva,Condado-Campiña,
+1293,42781,22,Mujer,"San Antonio 25, 11201",11201,Cádiz,A. G. S. Campo de Gibraltar,
+1294,42782,34,Hombre,"Salvador Dali 8, 41008",41008,Sevilla,Sevilla,1_41_91_7_25
+1295,42788,50,Mujer,"Dali. 10, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_7
+1296,42789,33,Mujer,"Virgen de Escardiel 37, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+1297,42790,54,Mujer,"Corea, urbanizacion nueva Heli 77, 41020",41020,Sevilla,Aljarafe,1_41_91_6_30
+1298,42791,35,Hombre,"Kentia 17, 41300",41300,Sevilla,Sevilla Norte,1_41_91_7_22
+1299,42793,50,Mujer,"Joaquin Turina 6, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_2
+1300,42794,70,Mujer,"Marruecos 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_14
+1301,42813,41,Mujer,"Jose rodriguez Rodri 3, 41980",41980,Sevilla,Sevilla Norte,
+1302,42814,69,Mujer,"Girasol 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_37
+1303,42815,16,Mujer,"Bahia de Cadiz 15, 41008",41008,Sevilla,,1_41_91_2_43
+1304,42816,47,Hombre,"Santa maria Magdalena 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_24
+1305,42817,50,Mujer,"Castaño (el) 11, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_3
+1306,42818,25,Hombre,"Moguer 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+1307,42819,19,Hombre,"Virgen del Carmen 8, 41440",41440,Sevilla,,1_41_55_2_2
+1308,42820,36,Hombre,"Mar negro b 3º 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_38
+1309,42825,36,Hombre,"Huelva 40, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+1310,42826,60,Mujer,"Alcores 1, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_5
+1311,42827,44,Mujer,"Concejal alberto Jimenez-becerril 23, 41009",41009,Sevilla,Sevilla,1_41_93_1_13
+1312,42832,85,Hombre,"Prim 89, 41440",41440,Sevilla,,1_41_55_2_3
+1313,42833,28,Mujer,"Pompeyo 3, 41900",41900,Sevilla,Aljarafe,1_41_21_2_3
+1314,42834,24,Hombre,"Cerro Muriano 9, 41013",41013,Sevilla,Sevilla,1_41_91_5_10
+1315,42836,36,Hombre,"Kentia 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_22
+1316,42837,23,Hombre,"Comunidad Andaluza 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_41
+1317,42850,48,Mujer,"Vicente Alanis 66, 41008",41008,Sevilla,Sevilla,1_41_91_8_10
+1318,42851,37,Mujer,"Mar de Alboran 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_30
+1319,42852,27,Mujer,"Juan de Astorga 9, 41700",41700,Sevilla,A.G.S. Sur de Sevilla,1_41_38_4_9
+1320,42854,64,Hombre,"Santa maria del Reposo 14, 41008",41008,Sevilla,Sevilla,1_41_91_2_65
+1321,42855,42,Hombre,"Playa de Estepona 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1322,42862,34,Hombre,"San Diego 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_27
+1323,42864,16,Mujer,"Camas 7, 41940",41940,Sevilla,Aljarafe,1_41_93_1_3
+1324,42865,64,Mujer,"Ruben Dario 32, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+1325,42866,32,Mujer,"San juan de la Salle 65, 41008",41008,Sevilla,Sevilla,1_41_91_2_25
+1326,42872,43,Mujer,"Andalucia 2, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_5
+1327,42873,34,Mujer,"Juan ramon Jimenez 49, 41350",41350,Sevilla,Sevilla Norte,1_41_28_1_1
+1328,42874,23,Hombre,"Estrella Altair 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+1329,42875,19,Mujer,"Caballero rodrigo de Narvaez 2, 41807",41807,Sevilla,Aljarafe,1_41_40_1_3
+1330,42877,47,Hombre,"Madroño (el) 60, 41318",41318,Sevilla,Sevilla Norte,
+1331,42883,36,Mujer,"Taf 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_44
+1332,42884,56,Mujer,"Pintor Murillo 31, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_3
+1333,42890,19,Hombre,"Ruiz de Alarcon 4, 41930",41930,Sevilla,Aljarafe,1_41_17_1_4
+1334,42891,29,Hombre,"Juan Segovia 9, 41440",41440,Sevilla,Sevilla Norte,1_41_55_3_1
+1335,42892,79,Mujer,"Alheli 3, 41008",41008,Sevilla,Sevilla,1_41_59_1_10
+1336,42893,72,Mujer,"Verano 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_2
+1337,42894,51,Mujer,"Avellana 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_10
+1338,42899,48,Mujer,"Jardin de las Delicias 8, 41300",41300,Sevilla,Sevilla Norte,
+1339,42907,41,Hombre,"Lloret de Mar 13, 8820",8820,Barcelona,,
+1340,42910,32,Mujer,"Malaga 8, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_2
+1341,42911,37,Mujer,"Hispalis c 4, 41930",41930,Sevilla,Aljarafe,1_41_34_1_10
+1342,42912,46,Mujer,"Av Dr Fedriani 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_1
+1343,42913,31,Mujer,"Feria 14, 41209",41209,Sevilla,Sevilla Norte,1_41_102_1_2
+1344,42914,38,Mujer,"Playa de Chipiona 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1345,42915,42,Hombre,"Playa de Chipiona 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1346,42916,42,Mujer,"Playa de Marbella 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1347,42917,40,Hombre,"Las Naciones 23, 41008",41008,Sevilla,Sevilla,1_41_91_7_3
+1348,42918,32,Hombre,"Pizarro 32, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_13
+1349,42923,46,Hombre,"Martin Rey 22, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_2
+1350,42924,31,Hombre,"Rayo de Luna 13, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+1351,42925,71,Mujer,"Cristo de la resurreccion B 1, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+1352,42927,48,Mujer,"Doctores gonzalez Meneses 12, 41008",41008,Sevilla,Sevilla,1_41_91_2_13
+1353,42928,61,Mujer,"Mar Tirreno 12, 41015",41015,Sevilla,Sevilla,1_41_91_7_41
+1354,42929,48,Mujer,"Las minas golf, calle Huelva. 31, 41849",41849,Sevilla,Aljarafe,1_41_5_2_5
+1355,42930,64,Mujer,"Patricio Saenz 5, 41003",41003,Sevilla,Sevilla,1_41_91_1_25
+1356,42931,51,Hombre,"Jorgue Guillen 13, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_4
+1357,42934,28,Mujer,"Mallen 11, 41018",41018,Sevilla,Sevilla,1_41_91_3_30
+1358,42936,38,Mujer,"Santa maria del Campo 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_65
+1359,42937,20,Mujer,"Constantina 27, 41440",41440,Sevilla,Sevilla Norte,1_41_78_2_1
+1360,42942,26,Hombre,"Manzanilla 5, 41013",41013,Sevilla,Sevilla,1_41_10_1_3
+1361,42943,56,Mujer,"Honduras 7, 14700",14700,Córdoba,Guadalquivir,
+1362,42944,32,Hombre,"Diana 2, 41100",41100,Sevilla,Aljarafe,
+1363,42950,39,Mujer,"Recaredo 34, 41003",41003,Sevilla,Sevilla,1_41_91_3_39
+1364,42951,29,Mujer,"Sevilla 10, 29009",29009,Málaga,Málaga,
+1365,42952,43,Hombre,"Juan Xxiii 1, 41210",41210,Sevilla,Sevilla Norte,
+1366,42953,32,Hombre,"Boqueron 21, 41009",41009,Sevilla,,1_41_91_7_18
+1367,42954,56,Mujer,"Cuarzo 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+1368,42959,41,Mujer,"Alcazar 1, 41200",41200,Sevilla,Sevilla Norte,1_41_5_1_2
+1369,42960,50,Mujer,"Clavel 3, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_1
+1370,42962,25,Mujer,"Carretera Betica 85, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_5
+1371,42963,56,Mujer,"Navarra 63, 41015",41015,Sevilla,Sevilla,1_41_91_7_15
+1372,42964,48,Hombre,"Amor de Dios 10, 41002",41002,Sevilla,Sevilla,1_41_91_1_6
+1373,42969,73,Mujer,"Casa bernalda Alba 37, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+1374,42970,91,Mujer,"Romero 47, 41220",41220,Sevilla,,1_41_19_1_2
+1375,42971,26,Mujer,"Fuente Nueva 28, 41450",41450,Sevilla,Sevilla Norte,
+1376,42972,17,Hombre,"Nuestro padre Jesus 53, 41440",41440,Sevilla,Sevilla Norte,1_41_55_3_3
+1377,42973,79,Mujer,"De pio Xii 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_26
+1378,42974,56,Mujer,"San Blas 1, 41003",41003,Sevilla,Sevilla,1_41_91_1_23
+1379,42975,53,Hombre,"Av Dr Fedriani 12, 41003",41003,Sevilla,Sevilla,1_41_91_2_10
+1380,42980,17,Hombre,"Virgen del Rosario 4, 41220",41220,Sevilla,,
+1381,42988,48,Mujer,"Moguer 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_47
+1382,42989,80,Mujer,"Barrio Nuevo 5, 41479",41479,Sevilla,Sevilla Norte,
+1383,42996,47,Mujer,"Serrezuela 31, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+1384,42998,37,Mujer,"Bangkok 3, 41019",41019,Sevilla,Sevilla,1_41_91_9_16
+1385,43000,19,Hombre,"Zeharmendieta 24, 48200",48200,Vizcaya,,
+1386,43001,29,Hombre,"Teide 3, 41002",41002,Sevilla,Sevilla,1_41_91_1_20
+1387,43002,50,Mujer,"Las Palmillas 24, 41800",41800,Sevilla,Aljarafe,
+1388,43003,37,Mujer,"Llanos 3, 41020",41020,Sevilla,Sevilla,1_41_86_1_1
+1389,43019,27,Mujer,"Bahia de Cadiz 11, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+1390,43020,33,Mujer,"Encina del Rey 14, 41019",41019,Sevilla,Sevilla,1_41_91_9_42
+1391,43022,52,Hombre,"Flor de Azalea 7, 41020",41020,Sevilla,Sevilla,1_41_91_9_45
+1392,43023,36,Mujer,"Maimonides 9, 41009",41009,Sevilla,Sevilla,1_41_81_1_1
+1393,43024,51,Mujer,"Corral del Conde 19, 41860",41860,Sevilla,Sevilla Norte,
+1394,43025,41,Hombre,"Av Dr Fedriani 26, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1395,43026,40,Mujer,"Hiniesta 25, 41003",41003,Sevilla,Sevilla,1_41_91_1_33
+1396,43027,42,Mujer,"Los Alamos 21, 41909",41909,Sevilla,Aljarafe,1_41_17_1_8
+1397,43028,28,Mujer,"Castellar 51, 41003",41003,Sevilla,Sevilla,1_41_91_1_2
+1398,43029,37,Hombre,"Bahia de Cadiz 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+1399,43030,37,Mujer,"Virgen de Lujan 39, 41011",41011,Sevilla,Sevilla,1_41_91_11_16
+1400,43031,32,Mujer,"Avellana 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_10
+1401,43032,54,Hombre,"Av Dr Fedriani 39, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+1402,43033,44,Mujer,"Playa de Estepona 5, 41009",41009,Sevilla,Sevilla Norte,1_41_91_2_12
+1403,43034,30,Mujer,"Anden 4, 41006",41006,Sevilla,Sevilla,1_41_91_7_14
+1404,43035,84,Hombre,"Honderos 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_46
+1405,43036,34,Hombre,"Santiago 16, 41003",41003,Sevilla,Sevilla,1_41_91_1_49
+1406,43037,33,Mujer,"Doctor leal Castaños 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1407,43038,35,Mujer,"Romeros (los) 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1408,43039,28,Mujer,"Marcos Gonzalez 17, 14540",14540,Córdoba,A.G.S. Sur de Córdoba,
+1409,43040,16,Mujer,"La Fuensanta 8, 41020",41020,Sevilla,Sevilla,1_41_39_3_3
+1410,43042,25,Mujer,"Carteros 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_9
+1411,43043,16,Mujer,"Costanilla del Paseo 5, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_2
+1412,43044,26,Mujer,"Niño de Marchena 1, 41620",41620,Sevilla,Sevilla Este,1_41_60_2_2
+1413,43045,23,Mujer,"Simpecado 28, 41009",41009,Sevilla,Sevilla,
+1414,43046,56,Mujer,"Blas Infante 159, 41350",41350,Sevilla,Sevilla Norte,1_41_99_2_2
+1415,43050,23,Mujer,"Luis Cernuda 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_26
+1416,43052,17,Mujer,"Huelva 21, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_5
+1417,43053,38,Hombre,"Don juan Macho 2, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_18
+1418,43054,20,Mujer,"De la debla 2º 5, 41007",41007,Sevilla,Sevilla,1_41_91_8_24
+1419,43055,62,Mujer,"Arroyo 86, 41008",41008,Sevilla,Sevilla,1_41_91_8_31
+1420,43056,47,Mujer,"Marquez de Esquivel 7, 41002",41002,Sevilla,Sevilla,1_41_91_1_31
+1421,43057,48,Mujer,"Alameda 29, 41320",41320,Sevilla,Sevilla Norte,1_41_60_1_3
+1422,43060,45,Mujer,"Huerta Andana 13, 41806",41806,Sevilla,Aljarafe,1_41_94_2_2
+1423,43061,56,Hombre,"Sanchez Perrier 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_3
+1424,43066,34,Mujer,"Dali 12, 41220",41220,Sevilla,A.G.S. Sur de Sevilla,1_41_19_1_3
+1425,43067,50,Mujer,"Benito perez Galdos 14, 41980",41980,Sevilla,Sevilla Norte,
+1426,43068,54,Mujer,"Cañada del Hornillo 1, 41860",41860,Sevilla,Sevilla Norte,
+1427,43069,17,Hombre,"Trabajadores Inmigrantes 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_42
+1428,43071,48,Mujer,"Comunidad castilla Leon 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+1429,43072,35,Mujer,"Azucena 1, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_3
+1430,43074,78,Mujer,"Fermin Molpeceres 18, 41410",41410,Sevilla,Sevilla Norte,1_41_24_2_1
+1431,43076,75,Mujer,"Corazon de Jesus 24, 41860",41860,Sevilla,Sevilla Norte,1_41_60_3_5
+1432,43080,61,Mujer,"Las Carreteras 30, 41440",41440,Sevilla,Sevilla Norte,
+1433,43081,68,Mujer,"Iglesia 7, 41230",41230,Sevilla,Sevilla Norte,1_41_50_2_2
+1434,43082,19,Mujer,"Estrella Canopus 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_33
+1435,43085,36,Mujer,"San Diego 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_27
+1436,43087,34,Mujer,"Joaquin Costa 6, 41002",41002,Sevilla,Sevilla,1_41_91_1_17
+1437,43092,32,Hombre,"Diego Mendez 9, 14002",14002,Córdoba,Córdoba,
+1438,43093,29,Hombre,"Altozano 3, 11401",11401,Cádiz,Jerez-Costa Noroeste,
+1439,43095,70,Mujer,"Don quijote de la Mancha 14, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_1
+1440,43096,70,Mujer,"Mayorales 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_36
+1441,43103,16,Mujer,"Baltasar de Alcazar 9, 41008",41008,Sevilla,Sevilla,1_41_91_8_14
+1442,43104,29,Mujer,"Estrella Vega 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+1443,43105,33,Mujer,"Peral 7, 41002",41002,Sevilla,Sevilla,1_41_91_1_19
+1444,43106,52,Mujer,"Ojiva 2, 41008",41008,Sevilla,Sevilla,1_41_91_7_5
+1445,43108,43,Hombre,"Huerta san Luis 59, 41200",41200,Sevilla,Sevilla Norte,
+1446,43109,55,Hombre,"Ramon de Cala 8, 11401",11401,Cádiz,Jerez-Costa Noroeste,
+1447,43110,29,Hombre,"Azahin 14, 41019",41019,Sevilla,Sevilla,1_41_91_9_43
+1448,43112,43,Hombre,"De las Tendillas 9, 41019",41019,Sevilla,Sevilla,1_41_91_9_58
+1449,43121,57,Hombre,"Doctora navarro rodriguez 3, 41020",41020,Sevilla,Sevilla,1_41_91_9_50
+1450,43122,45,Mujer,"Rubens 2, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_3
+1451,43123,23,Hombre,"Agricultores 4, 41015",41015,Sevilla,,1_41_91_7_31
+1452,43124,31,Mujer,"Fernando Iv 16, 41011",41011,Sevilla,Sevilla,1_41_91_11_19
+1453,43125,38,Mujer,"Marzo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_29
+1454,43126,25,Mujer,"Mar Tirreno 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_42
+1455,43127,50,Mujer,"Hermandades 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_11
+1456,43128,30,Mujer,"Doña Elvira 26, 41220",41220,Sevilla,Sevilla,1_41_19_1_3
+1457,43129,50,Mujer,"Alcalde manuel del Valle 43, 41008",41008,Sevilla,Sevilla,1_41_91_2_25
+1458,43130,44,Mujer,"Puente del Ajoli 6, 41920",41920,Sevilla,Aljarafe,
+1459,43131,27,Mujer,"San Vicente 131, 41002",41002,Sevilla,Sevilla,1_41_91_1_14
+1460,43132,28,Hombre,"Diego de Almagro 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_28
+1461,43133,77,Mujer,"Comandante morales Leon 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_57
+1462,43134,78,Mujer,"Nucleo res. santa Justa 14, 41008",41008,Sevilla,Sevilla,1_41_91_8_27
+1463,43135,29,Hombre,"Ermita del Rocio 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_11
+1464,43136,34,Mujer,"Carretera Betica 63, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_5
+1465,43137,31,Mujer,"Sueños 9, 41020",41020,Sevilla,Aljarafe,1_41_91_9_61
+1466,43138,49,Mujer,"Primavera 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_2
+1467,43139,37,Mujer,"Mar Negro 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_38
+1468,43140,49,Hombre,"Jilguero 28, 41006",41006,Sevilla,Sevilla,1_41_91_4_2
+1469,43141,38,Mujer,"Guadalcanal 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+1470,43142,18,Hombre,"Guanahani a 5º 3, 41008",41008,Sevilla,,1_41_91_8_26
+1471,43143,42,Hombre,"Playa de Rota 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+1472,43144,15,Hombre,"Alfonso Xii 48, 41001",41001,Sevilla,,1_41_91_1_21
+1473,43145,36,Mujer,"Hijuela de la Canaleja 9, 11406",11406,Cádiz,Jerez-Costa Noroeste,
+1474,43146,33,Hombre,"Villegas 32, 41008",41008,Sevilla,Sevilla,1_41_91_2_31
+1475,43147,43,Hombre,"28, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_5
+1476,43149,30,Mujer,"Real 46, 41210",41210,Sevilla,,
+1477,43150,30,Mujer,"Luisiana (la) 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+1478,43154,84,Hombre,"Melendez Valdes 4, 41009",41009,Sevilla,,1_41_91_2_58
+1479,43155,23,Hombre,"Carretera de Brenes 14, 41019",41019,Sevilla,Sevilla,1_41_91_7_22
+1480,43156,27,Hombre,"Teodora Ocaña 3, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_3
+1481,43157,49,Hombre,"Pino 2, 21270",21270,Huelva,Sevilla Norte,
+1482,43158,35,Hombre,"Doñana 39, 41120",41120,Sevilla,Aljarafe,1_41_44_1_2
+1483,43159,45,Hombre,"Flor de Retama 6, 41020",41020,Sevilla,,1_41_91_9_48
+1484,43162,26,Mujer,"Hermenegildo 29, 41100",41100,Sevilla,Aljarafe,1_41_34_1_10
+1485,43163,49,Mujer,"Jose luis Vila 1, 41003",41003,Sevilla,Sevilla,1_41_91_1_23
+1486,43164,40,Mujer,"Arroyo Herrero 2, 41209",41209,Sevilla,Sevilla Norte,1_41_23_1_1
+1487,43166,85,Mujer,"Del Puente 30, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+1488,43170,38,Mujer,"Granate 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+1489,43171,90,Mujer,"Rayo de Luna 1, 41009",41009,Sevilla,,1_41_91_2_51
+1490,43173,80,Mujer,"Polvillo 4, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_1
+1491,43175,19,Mujer,"Rafael Alberti 23, 41805",41805,Sevilla,Aljarafe,
+1492,43176,72,Mujer,"Corral del Moro 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_30
+1493,43177,80,Hombre,"Jesus del gran Poder 75, 41002",41002,Sevilla,Sevilla,1_41_91_1_15
+1494,43182,30,Mujer,"Noria 5, 21450",21450,Huelva,Huelva-Costa,
+1495,43183,48,Mujer,"Cantillana 11, 41015",41015,Sevilla,Sevilla,1_41_91_7_15
+1496,43184,49,Hombre,"Santa marta 5, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_3
+1497,43185,25,Mujer,"Barranquillo 18, 41370",41370,Sevilla,Sevilla Norte,1_41_32_2_1
+1498,43190,62,Mujer,"Peral 57, 41002",41002,Sevilla,Sevilla,1_41_91_1_19
+1499,43195,78,Mujer,"Areneros 30, 41200",41200,Sevilla,Sevilla Norte,
+1500,43203,20,Mujer,"Golf Guadiana 84, 6009",6009,Badajoz,,
+1501,43204,59,Hombre,"Ronda de pio Xii 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_36
+1502,279,44,Hombre,"Martirio de san Andres 3, 41007",41007,Sevilla,Sevilla,1_41_91_8_25
+1503,43211,30,Hombre,"Brenes 9, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+1504,43212,34,Mujer,"Mar negro b 4º 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_38
+1505,43215,56,Mujer,"Primero de Mayo 46, 46017",46017,Valencia,,
+1506,43217,19,Hombre,"Leon Xiii 16, 41009",41009,Sevilla,Sevilla,1_41_91_2_48
+1507,43229,32,Hombre,"Gonzalez Cuadrado 2, 41003",41003,Sevilla,Sevilla,1_41_91_1_22
+1508,43230,16,Hombre,"Birmania 9, 41020",41020,Sevilla,Aljarafe,1_41_91_9_53
+1509,43232,26,Hombre,"Rodaballo 37, 41015",41015,Sevilla,Sevilla,1_41_91_7_18
+1510,43233,41,Hombre,"Ortiz de Zuñiga 17, 41001",41001,Sevilla,,1_41_91_1_45
+1511,43234,42,Hombre,"Fray i. de sevilla (v de los R 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_60
+1512,43236,23,Hombre,"Coral 11, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+1513,43237,45,Mujer,"Fray tomas de Berlanga 5, 41010",41010,Sevilla,Sevilla,1_41_91_6_24
+1514,43238,36,Hombre,"Florencia 7, 41003",41003,Sevilla,Sevilla,1_41_91_8_28
+1515,43239,35,Hombre,"Atarazana 15, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_2
+1516,43240,48,Mujer,"Honderos 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_46
+1517,43241,71,Hombre,"Imaginero luis alvarez Duarte 3, 41008",41008,Sevilla,Sevilla,1_41_91_8_26
+1518,43242,31,Hombre,"Arcangel san Miguel 2, 41010",41010,Sevilla,Sevilla,1_41_91_6_33
+1519,43243,16,Hombre,"Rafael alberti. num. 2-a. 1º. Pta. 25, 41310",41310,Sevilla,Sevilla Norte,
+1520,43244,20,Hombre,"Alcalde jose de la Bandera 5, 41003",41003,Sevilla,,1_41_91_3_37
+1521,43246,49,Mujer,"Bahia, edf. cuatro vientos, Local 1, 29670",29670,Málaga,Costa del Sol,
+1522,43247,40,Mujer,"Puerto Rico 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+1523,43248,65,Hombre,"Romero 1, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_5
+1524,43249,22,Mujer,"Nicaragua 10, 4110",4110,Almería,Almería,
+1525,43250,19,Mujer,"Doctor Castroviejo 4, 41720",41720,Sevilla,A.G.S. Sur de Sevilla,1_41_69_3_5
+1526,43251,48,Mujer,"Camaron (del) 46, 41200",41200,Sevilla,Sevilla Norte,
+1527,43252,16,Mujer,"Las Almenas 13, 41015",41015,Sevilla,Sevilla,1_41_91_7_40
+1528,43258,30,Hombre,"Pablo Picasso 19, 21890",21890,Huelva,Condado-Campiña,
+1529,43260,27,Mujer,"Corral del Agua 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_12
+1530,43261,51,Hombre,"Flor de Adelfa 2, 41020",41020,Sevilla,Sevilla,1_41_91_9_48
+1531,43262,67,Mujer,"San Vicente 22, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_3
+1532,43267,44,Mujer,"Zapillo 9, 41001",41001,Sevilla,Sevilla,1_41_91_9_4
+1533,43268,37,Hombre,"Cantina 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_48
+1534,43269,38,Hombre,"Santo Domingo 66, 29601",29601,Málaga,Costa del Sol,
+1535,43272,54,Hombre,"Antonio Gala 20, 41008",41008,Sevilla,Sevilla,1_41_91_8_12
+1536,43275,77,Hombre,"Av Dr Fedriani 9, 41009",41009,Sevilla,,1_41_91_2_13
+1537,43276,33,Mujer,"Gomila 11, 41019",41019,Sevilla,Sevilla,1_41_91_9_54
+1538,43281,65,Mujer,"Matallana 16, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_3
+1539,43284,43,Mujer,"Principe de Asturias 8, 41950",41950,Sevilla,Sevilla,1_41_29_1_11
+1540,43285,26,Hombre,"De Guadalete 3, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_4
+1541,43286,25,Hombre,"Alameda de Hercules 89, 41003",41003,Sevilla,Sevilla,1_41_91_1_17
+1542,43290,52,Mujer,"Rafael alberti d Bj 1, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_9
+1543,43291,33,Mujer,"Alegria 8, 41860",41860,Sevilla,Sevilla Norte,1_41_77_2_2
+1544,43292,40,Mujer,"Volga 4, 41210",41210,Sevilla,,
+1545,43293,55,Mujer,"San diego C 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_27
+1546,43297,84,Mujer,"Virgen de los Reyes 8, 41410",41410,Sevilla,,1_41_24_4_3
+1547,43298,26,Mujer,"Imaginero luis alvarez Duarte 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_26
+1548,43299,14,Mujer,"Edificio mediodia B 7, 41940",41940,Sevilla,Aljarafe,1_41_93_1_13
+1549,43300,27,Mujer,"Antonio Mairena 1, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+1550,43302,57,Hombre,"Isaias Alvarez 13, 41804",41804,Sevilla,,1_41_67_2_1
+1551,43306,54,Mujer,"Arroyo 34, 41970",41970,Sevilla,Aljarafe,1_41_11_3_1
+1552,43307,29,Mujer,"Real de la jara (el) 62, 41008",41008,Sevilla,Sevilla,
+1553,43308,15,Mujer,"Campana (la) Bl-1 1, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_5
+1554,43313,34,Hombre,"Mariano Benlliure 38, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_3
+1555,43314,19,Mujer,"Galerio 26, 41089",41089,Sevilla,A.G.S. Sur de Sevilla,1_41_38_5_8
+1556,43315,64,Mujer,"Santa Lucia 22, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_3
+1557,43316,45,Mujer,"Cristo de la Expiracion 1, 41001",41001,Sevilla,Sevilla,1_41_91_6_30
+1558,43323,76,Hombre,"Julian Grimau 34, 41310",41310,Sevilla,,1_41_18_1_7
+1559,43324,36,Mujer,"Argentario 7, 41008",41008,Sevilla,Sevilla,1_41_91_8_31
+1560,43325,17,Mujer,"Fragua 57, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+1561,43327,34,Mujer,"De la Purisima 14, 41980",41980,Sevilla,Sevilla Norte,
+1562,43328,37,Hombre,"Zurbaran 21, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_3
+1563,43330,38,Mujer,"Av dr fedriani c 4º 32, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1564,43344,31,Mujer,"Nescania 7, 41006",41006,Sevilla,Sevilla,1_41_91_4_45
+1565,43345,32,Mujer,"Plaza de Otelo 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_17
+1566,43346,42,Hombre,"Romero 11, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+1567,43347,72,Mujer,"Goles 23, 41002",41002,Sevilla,Sevilla,1_41_91_1_9
+1568,43349,17,Mujer,"Real Utrera 58, 41700",41700,Sevilla,A.G.S. Sur de Sevilla,1_41_38_1_2
+1569,43350,38,Hombre,"Gonzalo nuñez Sepulveda 9, 41008",41008,Sevilla,Sevilla,1_41_91_2_9
+1570,43351,40,Mujer,"Halcon 11, 41019",41019,Sevilla,Sevilla,1_41_91_7_23
+1571,43352,37,Hombre,"Playa de Matalascañas 5, 41003",41003,Sevilla,,1_41_91_2_15
+1572,43353,26,Mujer,"Felipe Ii 21, 41013",41013,Sevilla,Sevilla,1_41_91_5_3
+1573,43354,33,Mujer,"Verano b 3º 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_2
+1574,43358,51,Mujer,"Miguel gutierrez Cruz 56, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_2
+1575,43359,40,Hombre,"Estrella Albireo 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+1576,43363,23,Hombre,"Alberto Lista 26, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_8
+1577,43367,38,Mujer,"Alberto Durero 1, 41018",41018,Sevilla,Sevilla,1_41_91_3_7
+1578,43369,65,Mujer,"Santiago 41, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_6
+1579,43374,60,Hombre,"Trajano 20, 41002",41002,Sevilla,Sevilla,1_41_91_1_7
+1580,43376,48,Hombre,"La Iglesia 6, 41860",41860,Sevilla,Sevilla Norte,1_41_17_1_1
+1581,43384,21,Hombre,"Las Postas 15, 23660",23660,Jaén,Jaén Sur,
+1582,43385,48,Mujer,"Almirante leon Herrero 25, 11100",11100,Cádiz,Bahía de Cádiz-La Janda,
+1583,43389,65,Mujer,"Simpecado 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1584,43390,18,Mujer,"Cortijo de las casillas d 3º 2, 41015",41015,Sevilla,Sevilla,
+1585,43391,40,Mujer,"Perez Galdos 11, 21730",21730,Huelva,Condado-Campiña,
+1586,43397,42,Mujer,"Cruz alta Nave 1, 41230",41230,Sevilla,Sevilla Norte,
+1587,43399,56,Mujer,"Virgen de las Angustias 31, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+1588,43400,32,Hombre,"Av Dr Fedriani 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+1589,43401,38,Mujer,"De mairena D 3, 41927",41927,Sevilla,Aljarafe,1_41_59_1_12
+1590,43402,54,Mujer,"Parque de Doñana 16, 41015",41015,Sevilla,Sevilla,1_41_91_7_11
+1591,43412,44,Mujer,"Olivar 20, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_1
+1592,43413,51,Mujer,"El vacie C/a 11, 41015",41015,Sevilla,Sevilla,
+1593,43414,52,Mujer,"Poeta fernando de los Rios 6, 41009",41009,Sevilla,Sevilla,1_41_4_2_4
+1594,43415,62,Mujer,"Santa Eulalia 9, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_3
+1595,43416,63,Mujer,"Chaparro A 1, 41019",41019,Sevilla,Sevilla,1_41_91_9_37
+1596,43417,87,Mujer,"Tendillas (de las) 1, 41019",41019,Sevilla,Sevilla,1_41_91_9_58
+1597,43423,82,Mujer,"Av Dr Fedriani 20, 41009",41009,Sevilla,Sevilla,1_41_91_2_10
+1598,43424,64,Mujer,"Federico garcia Lorca 53, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_2
+1599,43427,43,Hombre,"Nicasio Gallego 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_26
+1600,43428,57,Hombre,"Eduardo Dato 3, 41450",41450,Sevilla,Sevilla Norte,1_41_33_2_1
+1601,43433,31,Hombre,"Barzola (de La) 26, 41008",41008,Sevilla,Sevilla,1_41_91_2_18
+1602,43434,69,Mujer,"Manzana 12, 41009",41009,Sevilla,Sevilla,1_41_91_2_60
+1603,43435,33,Mujer,"Conde de Halcon 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_21
+1604,43436,35,Mujer,"Rayo de Luna 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+1605,43437,35,Hombre,"San juan de la Salle 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_56
+1606,43438,22,Hombre,"Fandango 4, 41410",41410,Sevilla,Sevilla Norte,1_41_45_2_2
+1607,43440,41,Mujer,"Federico garcia Lorca 26, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+1608,43448,28,Mujer,"Jose Bermejo 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+1609,43451,40,Hombre,"Cristo de la Resurreccion 11, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+1610,43453,46,Mujer,"Cisneo Alto 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_57
+1611,43455,56,Mujer,"Rafael Alberti 5, 41008",41008,Sevilla,Sevilla,1_41_91_8_13
+1612,43456,58,Hombre,"San Diego 47, 41008",41008,Sevilla,Sevilla,1_41_91_7_7
+1613,43457,36,Hombre,"Sanchez pizjuan (de) 25, 41009",41009,Sevilla,Sevilla,1_41_91_2_39
+1614,43459,20,Mujer,"Cristobal Colon 97, 21002",21002,Huelva,Huelva-Costa,
+1615,43460,27,Hombre,"Doctor antonio herrera Carmona 5, 41009",41009,Sevilla,,1_41_91_2_54
+1616,43461,62,Mujer,"Maestro tejera 5, 41017",41017,Sevilla,Sevilla,1_41_91_9_22
+1617,43462,25,Hombre,"Impresor juan de los Reyes 2, 41400",41400,Sevilla,Sevilla Este,1_41_39_2_5
+1618,43463,19,Hombre,"Gelo 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1619,43464,38,Mujer,"Medina y Galnares 97, 41015",41015,Sevilla,Sevilla,1_41_91_7_17
+1620,43465,48,Mujer,"Grabadores 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_39
+1621,43466,19,Mujer,"Doctor Fleming 37, 41400",41400,Sevilla,Sevilla Este,1_41_102_3_3
+1622,43467,43,Mujer,"Palmilla (la) 10, 41009",41009,Sevilla,Sevilla,1_41_91_2_13
+1623,43468,19,Mujer,"Carmen Diaz 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+1624,43477,31,Mujer,"Ronda de Capuchinos 2, 41003",41003,Sevilla,Sevilla,1_41_91_1_8
+1625,43479,19,Mujer,"Soladores 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_39
+1626,43480,82,Mujer,"Levante 17, 41210",41210,Sevilla,Sevilla Norte,
+1627,12959,34,Hombre,"De la Constitucion 60, 41309",41309,Sevilla,Sevilla Norte,
+1628,43489,38,Mujer,"Belen 3, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_3
+1629,43495,32,Mujer,"Reina de los Apostoles 1, 41013",41013,Sevilla,Sevilla,1_41_91_5_35
+1630,43496,25,Hombre,"Rio Genil 8, 41200",41200,Sevilla,Sevilla Norte,
+1631,43503,26,Mujer,"Mercurio 33, 41980",41980,Sevilla,Sevilla Norte,1_41_7_1_4
+1632,43505,14,Hombre,"La estacada A 4, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+1633,43506,77,Mujer,"San diego C 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_27
+1634,43511,32,Mujer,"Ciencias (de Las) 9, 41020",41020,Sevilla,Sevilla,1_41_91_9_46
+1635,43512,45,Mujer,"Pasaje de la Concepcion 8, 41980",41980,Sevilla,Sevilla Norte,
+1636,43513,38,Mujer,"Dehesa 42, 41860",41860,Sevilla,Sevilla Norte,1_41_72_1_3
+1637,43514,23,Mujer,"Miguel de Cervantes 14, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+1638,43515,57,Mujer,"Mar egeo D 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_41
+1639,43516,19,Hombre,"Alcalde pepe Iglesias 14, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_15
+1640,43521,16,Mujer,"Cristo de la Resurreccion 11, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+1641,43524,35,Mujer,"Maestro Rodrigo 10, 41330",41330,Sevilla,Sevilla Norte,1_41_92_2_3
+1642,43525,85,Mujer,"De pio Xii 1, 41008",41008,Sevilla,Sevilla,1_41_92_2_2
+1643,43527,32,Mujer,"Av Dr Fedriani 39, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+1644,43528,60,Mujer,"Carmen burgos b 1º 1, 41410",41410,Sevilla,Sevilla Norte,1_41_24_4_1
+1645,43529,37,Mujer,"Estrella Altair 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+1646,43533,18,Hombre,"Andalucia edificio andalucia Plaza 5, 11380",11380,Cádiz,A. G. S. Campo de Gibraltar,
+1647,43535,17,Hombre,"Bernarda de Alba 27, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+1648,43536,26,Mujer,"Samarkanda 10, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+1649,43537,42,Hombre,"Carretera Nueva 16, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+1650,4131,20,Mujer,"Maria Auxiliadora 83, 41710",41710,Sevilla,A.G.S. Sur de Sevilla,1_41_95_1_1
+1651,43538,15,Mujer,"Alberto jimenez Becerril 10, 41009",41009,Sevilla,Sevilla,1_41_28_1_1
+1652,43539,74,Hombre,"Corredera 10, 41600",41600,Sevilla,A.G.S. Sur de Sevilla,1_41_11_1_3
+1653,43540,49,Hombre,"Santiago (de) , num 6-7 Pta. 15, 41410",41410,Sevilla,Sevilla Norte,1_41_65_2_5
+1654,43547,44,Mujer,"Av Dr Fedriani 26, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1655,43557,55,Mujer,"Altamira (de) 23, 41020",41020,Sevilla,Sevilla,1_41_91_9_34
+1656,43558,21,Hombre,"Granada 22, 41780",41780,Sevilla,A.G.S. Sur de Sevilla,
+1657,43559,40,Hombre,"Miguel de Cervantes 25, 41860",41860,Sevilla,Sevilla Norte,1_41_92_1_3
+1658,43560,22,Hombre,"La Fragua 90, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+1659,43561,32,Mujer,"Pinzones 36, 41008",41008,Sevilla,Sevilla,1_41_91_8_9
+1660,43562,40,Mujer,"Doctor leal Castaños 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1661,43566,59,Mujer,"Ciruelo 23, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_3
+1662,43567,19,Mujer,"Oriente 44, 41218",41218,Sevilla,Sevilla Norte,1_41_49_1_4
+1663,43568,35,Mujer,"Monardes 7, 41010",41010,Sevilla,Sevilla,1_41_91_1_42
+1664,43569,53,Hombre,"Pio Xii 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_37
+1665,43570,53,Hombre,"Jazmin 35, 41220",41220,Sevilla,Sevilla Norte,1_41_19_1_2
+1666,43571,44,Hombre,"Huelva 67, 41318",41318,Sevilla,Sevilla Norte,
+1667,43574,20,Hombre,"Constantina d bj 6, 41009",41009,Sevilla,Sevilla,1_41_4_4_20
+1668,43578,30,Hombre,"Jacaranda 17, 41015",41015,Sevilla,,1_41_91_7_13
+1669,43579,85,Mujer,"Hermanos alvarez Quintero 26, 41479",41479,Sevilla,Sevilla Norte,1_41_17_1_5
+1670,43589,82,Mujer,"Antonio lopez Romero 13, 41210",41210,Sevilla,,1_41_49_1_2
+1671,43590,44,Hombre,"Pablo ruiz Picasso 6, 41909",41909,Sevilla,Aljarafe,1_41_85_1_1
+1672,43591,64,Mujer,"De la Cruz 23, 41440",41440,Sevilla,Sevilla Norte,
+1673,43592,31,Mujer,"Santa maria de los Reyes 8, 41008",41008,Sevilla,Sevilla,1_41_91_2_67
+1674,43595,75,Mujer,"Parque de Grazalema 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_10
+1675,43596,43,Mujer,"Tejedoras 6, 41015",41015,Sevilla,Sevilla,1_41_91_7_35
+1676,43597,35,Hombre,"De Palomares 6, 41920",41920,Sevilla,Aljarafe,1_41_34_1_5
+1677,43598,67,Mujer,"Estornino 20, 41006",41006,Sevilla,Sevilla,1_41_91_4_3
+1678,43599,21,Mujer,"Buque juan sebastian Elcano 2, 11407",11407,Cádiz,,
+1679,43600,21,Hombre,"Mar Negro 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_38
+1680,43601,69,Mujer,"Barrionuevo 17, 41250",41250,Sevilla,Sevilla Norte,
+1681,43605,74,Mujer,"Sierra del Castaño 1, 41013",41013,Sevilla,Sevilla,
+1682,43609,21,Mujer,"Virgen de Consolacion 3, 41510",41510,Sevilla,Sevilla Norte,1_41_38_3_9
+1683,43610,31,Hombre,"Alcala de Guadaira 35, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_17
+1684,43611,45,Mujer,"Zeus 2, 41014",41014,Sevilla,Sevilla,1_41_59_1_17
+1685,43613,47,Mujer,"Virgen del Valle 12, 41980",41980,Sevilla,Sevilla Norte,1_41_91_11_6
+1686,43616,33,Mujer,"Gelo 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_62
+1687,43617,23,Hombre,"Barzola (de La) 48, 41008",41008,Sevilla,Sevilla,1_41_91_2_18
+1688,43618,64,Mujer,"Constantina 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+1689,43637,70,Mujer,"Virgen de Gracia 16, 41008",41008,Sevilla,Sevilla,
+1690,43638,15,Hombre,"Beethoven 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_6
+1691,43639,29,Mujer,"Aeronautica (la) 14, 41020",41020,Sevilla,Sevilla,1_41_91_9_3
+1692,43640,60,Mujer,"San Diego 38, 41008",41008,Sevilla,Sevilla,1_41_91_7_6
+1693,43644,35,Mujer,"Santa maria de Ordas 14, 41008",41008,Sevilla,Sevilla,1_41_91_2_24
+1694,43645,72,Mujer,"Cruces 2, 41658",41658,Sevilla,Sevilla Este,
+1695,43649,24,Hombre,"Tarso 9, 41007",41007,Sevilla,Sevilla,1_41_91_8_21
+1696,43650,74,Mujer,"Galilea 5, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_3
+1697,43655,19,Mujer,"Doña maria Coronel 44, 41003",41003,Sevilla,Sevilla,1_41_91_1_43
+1698,43657,62,Mujer,"Campo de Futbol 5, 41350",41350,Sevilla,Sevilla Norte,1_41_3_1_2
+1699,43659,58,Mujer,"Azafran 10, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_1
+1700,43660,75,Mujer,"Granate 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+1701,43667,18,Hombre,"Lopez Vega 5, 41804",41804,Sevilla,Aljarafe,1_41_67_2_1
+1702,43669,47,Mujer,"Comunidad Aragonesa 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_41
+1703,43670,61,Mujer,"Conductores 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_38
+1704,43671,43,Mujer,"Jesus perez Pueyo 42, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+1705,43674,27,Hombre,"Niebla 11, 41010",41010,Sevilla,Sevilla,1_41_91_11_6
+1706,43676,47,Hombre,"Anis los Angeles 20, 41370",41370,Sevilla,Sevilla Norte,
+1707,43677,41,Mujer,"Luceros (los) 5, 41019",41019,Sevilla,Sevilla,1_41_91_9_56
+1708,43678,13,Hombre,"Lirio 26, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+1709,43681,88,Mujer,"Monesterio B2 1, 41008",41008,Sevilla,,1_41_91_8_32
+1710,43682,43,Mujer,"Pastora Fernandez 15, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+1711,43684,31,Hombre,"Emilio Lemos 21, 41020",41020,Sevilla,Sevilla,1_41_91_9_52
+1712,43687,48,Hombre,"Pio Xii 63, 41980",41980,Sevilla,Sevilla Norte,
+1713,43689,48,Hombre,"Hermanas de la Cruz 26, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+1714,43691,71,Mujer,"Agricultores 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_31
+1715,43693,33,Mujer,"Socrates 1, 41927",41927,Sevilla,Aljarafe,1_41_59_1_24
+1716,43694,55,Mujer,"Estrella Vega 14, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+1717,3876,46,Hombre,"Teide 32, 41008",41008,Sevilla,Sevilla,1_41_69_1_1
+1718,43704,26,Mujer,"Santisimo cristo de la Salud 16, 41018",41018,Sevilla,Sevilla,1_41_91_3_3
+1719,43705,38,Hombre,"Luna (la) 20, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_4
+1720,43706,27,Mujer,"Av Dr Fedriani 46, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+1721,43708,61,Mujer,"Leonardo de Figueroa 3, 41005",41005,Sevilla,Sevilla,1_41_91_3_23
+1722,43709,34,Mujer,"Flores Las 31, 41209",41209,Sevilla,Sevilla Norte,
+1723,43718,58,Mujer,"Tejedoras 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_35
+1724,43719,35,Hombre,"Reyes Catolicos 3, 41001",41001,Sevilla,Sevilla,1_41_91_1_27
+1725,43720,17,Mujer,"Carmen Diaz 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_58
+1726,43723,18,Hombre,"Estrella Vega 11, 41015",41015,Sevilla,Sevilla,1_41_91_7_49
+1727,43726,53,Hombre,"Mario vargas Llosas 32, 28806",28806,Madrid,,
+1728,43728,14,Mujer,"Esturion 80, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+1729,43729,61,Mujer,"Alberto jimenez Becerril 26, 41009",41009,Sevilla,Sevilla,1_41_28_1_1
+1730,43731,48,Mujer,"Jose begines Rueda 5, 41350",41350,Sevilla,Sevilla Norte,1_41_99_2_1
+1731,43732,35,Mujer,"Santa Lucia 19, 41003",41003,Sevilla,Sevilla,1_41_91_1_29
+1732,43738,48,Hombre,"Corral del Agua 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_31
+1733,43740,54,Hombre,"Carmen colome Carranza 11, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+1734,43741,46,Mujer,"Pureza 12, 41010",41010,Sevilla,Sevilla,1_41_91_6_7
+1735,43742,36,Mujer,"Pineda 20, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_5
+1736,43745,29,Mujer,"Obradoiro 10, 41020",41020,Sevilla,Sevilla,1_41_91_9_58
+1737,43746,33,Mujer,"Barzola (de La) 50, 41008",41008,Sevilla,Sevilla,1_41_91_2_18
+1738,43747,26,Hombre,"Jorge Guillen 30, 41565",41565,Sevilla,,
+1739,43749,20,Hombre,"Goles 64, 41002",41002,Sevilla,Sevilla,1_41_91_1_10
+1740,43750,52,Mujer,"Almenas (las) A 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_40
+1741,43755,35,Mujer,"Feria 157, 41002",41002,Sevilla,Sevilla,1_41_91_1_19
+1742,43756,73,Mujer,"Salmon 8, 41015",41015,Sevilla,Sevilla,1_41_91_7_18
+1743,43757,30,Hombre,"Segre 1, 41005",41005,Sevilla,,1_41_91_5_39
+1744,43762,24,Mujer,"Poeta fernando de los Rios 13, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_2_4
+1745,43764,35,Mujer,"San Jacinto 11, 41010",41010,Sevilla,Sevilla,1_41_91_6_8
+1746,43765,16,Mujer,"De las ciencias edif. Albeniz 13, 41020",41020,Sevilla,Sevilla,1_41_91_9_51
+1747,43766,16,Mujer,"Malvaloca 1, 41013",41013,Sevilla,Sevilla,1_41_91_5_12
+1748,43768,39,Mujer,"Bda san Diego 43, 41015",41015,Sevilla,Sevilla,1_41_91_7_6
+1749,43776,47,Mujer,"Ciudad Aljarafe 24, 41927",41927,Sevilla,Aljarafe,1_41_59_1_5
+1750,43777,45,Hombre,"Raimundo fuente Romo 4, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_3
+1751,43778,22,Mujer,"Cervantes 56, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_7
+1752,43779,38,Hombre,"Oficina 16, 14014",14014,Córdoba,Córdoba,
+1753,43780,27,Hombre,"De Mures 12, 23686",23686,Jaén,,
+1754,43781,21,Mujer,"Maria Luisa 52, 11393",11393,Cádiz,Bahía de Cádiz-La Janda,
+1755,43782,44,Hombre,"Pio Xii 1, 41008",41008,Sevilla,Sevilla,1_41_91_2_37
+1756,43789,29,Mujer,"Puerto de Lumbreras 13, 41006",41006,Sevilla,,1_41_91_4_49
+1757,43790,65,Mujer,"Paz (de La) 3, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_7
+1758,43794,41,Mujer,"Virgen de Cala 43, 21270",21270,Huelva,Sevilla Norte,
+1759,43796,23,Hombre,"Esturion 91, 41015",41015,Sevilla,Sevilla,1_41_91_7_20
+1760,43797,42,Mujer,"Guadalhorce 23, 11540",11540,Cádiz,Jerez-Costa Noroeste,
+1761,43807,39,Mujer,"Cerrillo 8, 41429",41429,Sevilla,Sevilla Norte,1_41_22_1_2
+1762,43808,27,Mujer,"Marzo 8, 41009",41009,Sevilla,,1_41_91_2_29
+1763,43809,21,Mujer,"Gonzalo nuñez de sepulveda Izd 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+1764,43810,46,Hombre,"Raimundo de la fuente Romo 16, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_3
+1765,43812,38,Mujer,"Orquidea 51, 41008",41008,Sevilla,Sevilla,1_41_91_2_36
+1766,43813,22,Mujer,"Calancha 6, 23740",23740,Jaén,Jaén Norte,
+1767,43814,41,Mujer,"Comunidad Asturiana 2, 41008",41008,Sevilla,Sevilla,1_41_91_2_41
+1768,43815,49,Mujer,"Hermanos pablo B 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_4
+1769,43818,22,Mujer,"Mama Margarita 5, 41008",41008,Sevilla,Sevilla,1_41_91_8_9
+1770,43819,34,Mujer,"Armiño 3, 41020",41020,Sevilla,Sevilla,1_41_91_7_23
+1771,43824,27,Hombre,"Bambu 4, 28036",28036,Madrid,,
+1772,43826,62,Mujer,"Hermosa Baja 43, 41450",41450,Sevilla,Sevilla Norte,1_41_33_2_1
+1773,43827,21,Hombre,"Fray junipero Serra 21, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_2_6
+1774,43828,14,Mujer,"Amante Laffon 2, 41008",41008,Sevilla,Sevilla,1_41_91_6_13
+1775,43831,62,Hombre,"Torreblanca 13, 41003",41003,Sevilla,Sevilla,1_41_91_1_25
+1776,43837,42,Mujer,"Cronista (el) 6, 41003",41003,Sevilla,Sevilla,1_41_91_1_23
+1777,43838,80,Mujer,"Sevilla 39, 21280",21280,Huelva,,
+1778,43839,14,Hombre,"Cueva de la Pileta 2, 41020",41020,Sevilla,Sevilla,1_41_91_9_35
+1779,43840,69,Mujer,"Parque del torcal de Antequera 7, 41015",41015,Sevilla,Sevilla,1_41_91_7_11
+1780,43841,65,Mujer,"Maracaibo 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_59
+1781,43843,36,Hombre,"Estacion (de La) 1, 11500",11500,Cádiz,Bahía de Cádiz-La Janda,
+1782,43847,18,Mujer,"Botavara 24, 11207",11207,Cádiz,A. G. S. Campo de Gibraltar,
+1783,43848,18,Mujer,"Cantillana 6, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_3
+1784,43849,26,Mujer,"San Bartolome 34, 21860",21860,Huelva,Condado-Campiña,
+1785,43850,52,Hombre,"Cervantes 1, 41220",41220,Sevilla,Sevilla Norte,
+1786,43855,43,Mujer,"Jardin de las Delicias 34, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+1787,43856,34,Hombre,"Parque Atlantico 6, 41008",41008,Sevilla,Sevilla,1_41_91_7_1
+1788,43861,35,Mujer,"Corea 55, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+1789,43862,44,Mujer,"Jorge Bonsor 2, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_1
+1790,43863,46,Hombre,"Doctor palomares Garcia 17, 41020",41020,Sevilla,Sevilla,1_41_91_9_29
+1791,43864,52,Mujer,"Ciudad de Chiva 23, 41019",41019,Sevilla,Sevilla,1_41_91_9_41
+1792,43865,27,Hombre,"Andalucia 9, 41928",41928,Sevilla,Aljarafe,1_41_96_1_1
+1793,43866,79,Mujer,"Ajimez 6, 41008",41008,Sevilla,Sevilla,1_41_91_7_4
+1794,43872,26,Mujer,"Cabo de Gata 3, 41009",41009,Sevilla,Sevilla,1_41_91_2_43
+1795,43874,28,Hombre,"Virgen de la Fuentecilla 25, 41220",41220,Sevilla,Sevilla Norte,
+1796,43875,48,Hombre,"Romanticismo 13, 41009",41009,Sevilla,Sevilla,1_41_91_2_51
+1797,43876,23,Mujer,"Doctor antonio Gonzalez 13, 41210",41210,Sevilla,Sevilla Norte,1_41_49_1_3
+1798,43878,19,Mujer,"Majal 3, 41230",41230,Sevilla,Sevilla Norte,1_41_27_1_1
+1799,43879,42,Hombre,"Picapedreros 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_45
+1800,43880,39,Hombre,"Estrella Procion 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_47
+1801,43881,35,Hombre,"Abeto Iz 1, 41740",41740,Sevilla,A.G.S. Sur de Sevilla,1_41_53_4_9
+1802,43886,64,Hombre,"Mar Caspio 5, 41009",41009,Sevilla,Sevilla,1_41_91_2_38
+1803,43887,78,Mujer,"Virgen del Pilar 41, 41210",41210,Sevilla,Sevilla Norte,1_41_75_1_8
+1804,43888,62,Mujer,"Av Dr Fedriani 41, 41009",41009,Sevilla,Sevilla,1_41_91_2_16
+1805,43889,15,Hombre,"La yllon calle G 5, 41980",41980,Sevilla,Sevilla Norte,
+1806,43890,24,Mujer,"Flores (las) 18, 41209",41209,Sevilla,Sevilla Norte,
+1807,43891,17,Hombre,"Fernanda Cuadrado 7, 41908",41908,Sevilla,,1_41_91_5_25
+1808,43892,33,Mujer,"San Pablo 20, 41400",41400,Sevilla,Sevilla Este,1_41_39_1_3
+1809,43896,41,Mujer,"Ponce de leon (de) 11, 41003",41003,Sevilla,,1_41_91_1_1
+1810,43898,35,Mujer,"Jose luis de Casso 7, 41005",41005,Sevilla,Sevilla,1_41_91_3_32
+1811,43902,23,Hombre,"Blas Infante 247, 41350",41350,Sevilla,Sevilla Norte,1_41_84_1_1
+1812,43905,37,Hombre,"Rafael Montesinos 32, 41720",41720,Sevilla,A.G.S. Sur de Sevilla,1_41_69_4_2
+1813,43906,20,Hombre,"Cantarranas 20, 41429",41429,Sevilla,Sevilla Norte,
+1814,43907,17,Hombre,"Hermano Pablo 2, 41009",41009,Sevilla,,1_41_91_2_47
+1815,43916,39,Mujer,"Joaquin Turina 15, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_4
+1816,43917,41,Mujer,"Vicente Aleixandre 6, 41200",41200,Sevilla,Sevilla Norte,1_41_65_2_4
+1817,43918,28,Hombre,"Lima 7, 41339",41339,Sevilla,Sevilla Norte,
+1818,43919,50,Hombre,"Virgen del Rocio 1, 29670",29670,Málaga,Costa del Sol,
+1819,43925,51,Mujer,"Republica de China 10, 41020",41020,Sevilla,Sevilla,1_41_91_9_53
+1820,43927,77,Mujer,"Ramon y Cajal 58, 41470",41470,Sevilla,Guadalquivir,1_41_74_1_2
+1821,43928,31,Mujer,"Estrella Altair 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_34
+1822,43929,48,Mujer,"Guadalete 5, 41002",41002,Sevilla,Sevilla,1_41_91_1_14
+1823,43930,32,Mujer,"San Vicente 48, 41002",41002,Sevilla,Sevilla,1_41_91_1_10
+1824,43931,74,Mujer,"Soledad 10, 41450",41450,Sevilla,Sevilla Norte,
+1825,43932,39,Mujer,"Cañada Baja 8, 41410",41410,Sevilla,Sevilla Norte,
+1826,43938,19,Hombre,"Benitez Parodi 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_33
+1827,43939,42,Hombre,"Puente Genil 17, 41006",41006,Sevilla,Sevilla,1_41_91_4_57
+1828,43941,34,Hombre,"Pino Montano 114, 41008",41008,Sevilla,Sevilla,1_41_91_2_40
+1829,43942,46,Mujer,"Los Carteros 83, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_9
+1830,43948,39,Mujer,"Ayamonte 4, 41016",41016,Sevilla,Sevilla,1_41_91_4_68
+1831,43949,62,Mujer,"Guadajoz 246, 41410",41410,Sevilla,Sevilla Norte,
+1832,43950,37,Mujer,"Giralda apartado de Correo 299, 41309",41309,Sevilla,Sevilla,1_41_91_1_44
+1833,43953,65,Mujer,"Luis Cernuda 6, 41008",41008,Sevilla,Sevilla,1_41_91_2_26
+1834,43954,41,Hombre,"Jazmin 20, 41860",41860,Sevilla,Sevilla Norte,1_41_92_2_3
+1835,43955,19,Mujer,"Birmania 9, 41020",41020,Sevilla,Aljarafe,1_41_91_9_53
+1836,43956,52,Hombre,"Navarra 82, 41015",41015,Sevilla,Sevilla,1_41_91_7_18
+1837,43957,45,Hombre,"Mar Egeo 2, 41008",41008,Sevilla,Sevilla,1_41_91_7_41
+1838,43961,72,Mujer,"Violeta 9, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+1839,43962,17,Mujer,"La Fragua 69, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_14
+1840,43964,49,Mujer,"Madres Carmelitas 12, 41710",41710,Sevilla,,1_41_95_2_2
+1841,43965,56,Mujer,"Cueva del Gato 4, 41020",41020,Sevilla,Sevilla,1_41_91_9_36
+1842,43968,57,Mujer,"Lope de Vega 22, 41003",41003,Sevilla,Sevilla,1_41_91_3_4
+1843,43969,72,Mujer,"Maestro carmelo Diaz 7, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_4
+1844,43974,62,Mujer,"Carretera de brenes Km 4, 41008",41008,Sevilla,Sevilla,1_41_91_7_22
+1845,43975,73,Mujer,"Tambre 1, 41005",41005,Sevilla,Sevilla,1_41_91_5_39
+1846,43976,34,Mujer,"Ciclamor 3, 41017",41017,Sevilla,Sevilla,1_41_91_9_20
+1847,43977,26,Mujer,"Playa de Valdelagrana 6, 41009",41009,Sevilla,,1_41_91_2_15
+1848,43981,60,Mujer,"Santisima Trinidad 3, 41008",41008,Sevilla,,1_41_91_2_61
+1849,43982,58,Mujer,"Jose Bermejo 14, 41009",41009,Sevilla,Sevilla,1_41_91_2_52
+1850,43983,55,Hombre,"Diego Puerta 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_55
+1851,43984,42,Hombre,"Emilia Barral 18, 41019",41019,Sevilla,Sevilla,1_41_91_9_15
+1852,43986,33,Mujer,"Pablo Igleasia 0, 33400",33400,Asturias,,
+1853,43987,27,Hombre,"Malaga 11, 41449",41449,Sevilla,Sevilla Norte,1_41_6_2_1
+1854,43989,19,Mujer,"Diego ortiz de Melgarejo 17, 41008",41008,Sevilla,Sevilla,1_41_91_8_14
+1855,43994,40,Mujer,"Rosales (los) 1, 41006",41006,Sevilla,Sevilla,1_41_91_4_18
+1856,43996,41,Hombre,"Hercules 2, 11510",11510,Cádiz,Bahía de Cádiz-La Janda,
+1857,44002,36,Hombre,"Dr. antonio herrera carmona B 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_54
+1858,44003,32,Mujer,"Andres martinez Leon 1, 41019",41019,Sevilla,Aljarafe,
+1859,44004,51,Mujer,"Republica de China 28, 41020",41020,Sevilla,Sevilla,1_41_91_9_59
+1860,44005,26,Hombre,"Gregorio Marañon 9, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_6
+1861,44009,35,Mujer,"18, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_1
+1862,44010,76,Mujer,"Sanchez Pizjuan 11, 41009",41009,Sevilla,Sevilla,1_41_91_2_17
+1863,44011,34,Mujer,"Feria 144, 41002",41002,Sevilla,Sevilla,1_41_75_1_6
+1864,44012,57,Mujer,"Ronda del Norte 36, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_3
+1865,44013,23,Hombre,"Republica de China 8, 41020",41020,Sevilla,Sevilla,1_41_91_9_59
+1866,44018,35,Mujer,"Rodrigo de Triana 30, 41300",41300,Sevilla,Sevilla Norte,1_41_91_6_8
+1867,44019,76,Mujer,"Corral de las Maravillas 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_30
+1868,44020,52,Hombre,"Vicente aleixandre F 2, 41450",41450,Sevilla,Sevilla Norte,1_41_33_1_1
+1869,44023,38,Hombre,"Villar (del) 6, 11370",11370,Cádiz,A. G. S. Campo de Gibraltar,
+1870,44024,36,Hombre,"Bordadora 2, 41008",41008,Sevilla,Sevilla,1_41_91_7_31
+1871,44026,75,Mujer,"San Quintin 3, 41003",41003,Sevilla,Sevilla,1_41_38_3_12
+1872,44027,43,Mujer,"Natividad morales Muñoz 44, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+1873,44035,33,Mujer,"Andalucia 6, 21006",21006,Huelva,Huelva-Costa,
+1874,44037,18,Mujer,"Dolores Quintanilla 43, 41410",41410,Sevilla,Sevilla Norte,1_41_24_2_1
+1875,44038,35,Mujer,"Sanchez Cotan 6, 41980",41980,Sevilla,Sevilla Norte,
+1876,44040,20,Hombre,"Playa de Matalascañas 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+1877,44041,71,Mujer,"Ciudad de Gandia 6, 41019",41019,Sevilla,Sevilla,1_41_91_9_38
+1878,44046,30,Hombre,"Manila 2, 41020",41020,Sevilla,Sevilla,1_41_91_9_59
+1879,44047,68,Mujer,"Corral del Agua 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_12
+1880,44048,23,Hombre,"Pacheco y nuñez del Prado 32, 41002",41002,Sevilla,Sevilla,1_41_91_1_19
+1881,360,55,Hombre,"Estambul 1, 41007",41007,Sevilla,Sevilla,1_41_91_8_39
+1882,44049,40,Mujer,"India 5, 41020",41020,Sevilla,Sevilla,1_41_91_9_44
+1883,44050,26,Hombre,"Nardo 18, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_4
+1884,44051,40,Mujer,"Playa de Matalascañas 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_15
+1885,44052,56,Hombre,"Pedro santos Gomez 3, 41010",41010,Sevilla,Sevilla,1_41_91_6_17
+1886,44053,27,Mujer,"Urbano Orad 15, 41020",41020,Sevilla,Aljarafe,1_41_91_9_33
+1887,44054,40,Hombre,"San Sebastian 8, 41566",41566,Sevilla,Sevilla Este,1_41_93_1_1
+1888,44055,47,Hombre,"Constantina 4, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+1889,44056,15,Mujer,"Jesus perez Pueyo 20, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+1890,44057,15,Hombre,"Nucleo santa Justa 9, 41008",41008,Sevilla,Sevilla,1_41_91_8_27
+1891,44067,43,Mujer,"Valdelarco 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_23
+1892,44068,25,Hombre,"San Fernando 19, 41004",41004,Sevilla,Sevilla,1_41_91_1_37
+1893,44069,57,Mujer,"Helecho 4, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_3
+1894,44071,14,Hombre,"Tocina 37, 41309",41309,Sevilla,Sevilla Norte,
+1895,44072,24,Mujer,"Cisneo alto a 2º 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_57
+1896,44075,53,Mujer,"Margarita 17, 41410",41410,Sevilla,Sevilla Norte,1_41_24_5_5
+1897,44078,15,Mujer,"Pez Espada 20, 41015",41015,Sevilla,Sevilla,1_41_91_7_18
+1898,44082,38,Hombre,"Comunidad balear dr 1º 5, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+1899,44084,47,Mujer,"Jazmin 18, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+1900,44085,53,Mujer,"Caño Ronco 175, 41900",41900,Sevilla,Aljarafe,1_41_21_4_1
+1901,44086,17,Hombre,"Bustos Tavera 7, 41003",41003,Sevilla,Sevilla,1_41_91_1_4
+1902,44089,47,Mujer,"Casa del sueño La 11, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_10
+1903,44090,22,Mujer,"Virgen de Fuentecilla 6, 41220",41220,Sevilla,,
+1904,44094,22,Hombre,"Relator 77, 41003",41003,Sevilla,Sevilla,1_41_91_1_24
+1905,44095,46,Hombre,"Madrid 13, 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_2
+1906,44099,19,Mujer,"Camino de los Toros-manzana 1, 41015",41015,Sevilla,Sevilla,1_41_91_7_30
+1907,44100,47,Mujer,"San Bartolome 2, 41980",41980,Sevilla,Sevilla Norte,1_41_7_2_3
+1908,44102,40,Mujer,"Corral de los Olmos 5, 41015",41015,Sevilla,Sevilla,1_41_91_7_11
+1909,44103,26,Mujer,"De la cruz Roja 17, 41880",41880,Sevilla,Sevilla,
+1910,44104,43,Hombre,"Eduardo dato (de) 23, 41018",41018,Sevilla,Sevilla,1_41_91_3_41
+1911,44106,50,Mujer,"San vicente c , 41440",41440,Sevilla,Sevilla Norte,1_41_55_2_3
+1912,44107,18,Mujer,"Comunidad Andaluza 8, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+1913,44110,21,Hombre,"Marina Española 12, 50012",50012,Zaragoza,,
+1914,44111,29,Mujer,"Rafael alberti 23, 41310",41310,Sevilla,Sevilla Norte,1_41_17_1_7
+1915,44112,47,Mujer,"Puerto del Escudo 6, 41006",41006,Sevilla,Sevilla,1_41_91_4_48
+1916,44113,36,Hombre,"Montejaque 4, 41015",41015,Sevilla,Sevilla,1_41_91_7_14
+1917,44114,64,Mujer,"Montilla 31, 41440",41440,Sevilla,Sevilla Norte,1_41_55_1_6
+1918,44124,18,Mujer,"Marina (la) 1, 11100",11100,Cádiz,Bahía de Cádiz-La Janda,
+1919,44125,75,Mujer,"Agricultores 2, 41015",41015,Sevilla,Sevilla,1_41_91_7_31
+1920,44126,39,Mujer,"San Lucas 16, 41350",41350,Sevilla,Sevilla Norte,1_41_20_1_3
+1921,44133,28,Mujer,"Fuentezuela 9, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_2
+1922,44136,87,Mujer,"Cean Bermudez 3, 41005",41005,Sevilla,Sevilla,1_41_91_3_15
+1923,44137,35,Hombre,"Doctor Fleming 6, 41318",41318,Sevilla,Sevilla Norte,1_41_101_1_2
+1924,44139,45,Hombre,"Asociacion de Vecinos 25, 41008",41008,Sevilla,Sevilla,1_41_91_7_4
+1925,33102,56,Mujer,"Hiniesta 23, 41003",41003,Sevilla,Sevilla,1_41_91_1_33
+1926,44140,29,Mujer,"Arroyo 111, 41008",41008,Sevilla,Sevilla,1_41_91_8_10
+1927,44141,41,Mujer,"Gitanillo de Triana 7, 41008",41008,Sevilla,Sevilla,1_41_91_8_50
+1928,44142,33,Mujer,"Blanca paloma b 2º 4, 41009",41009,Sevilla,Sevilla,1_41_91_2_11
+1929,44144,43,Mujer,"Pedro de Mendoza 4, 41010",41010,Sevilla,Sevilla,1_41_91_6_39
+1930,44147,27,Hombre,"Cristobal de Monroy 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+1931,44148,40,Mujer,"Federica Monsetny 2, 41309",41309,Sevilla,Sevilla Norte,
+1932,44149,83,Mujer,"Villegas 67, 41008",41008,Sevilla,Sevilla,1_41_91_2_31
+1933,44152,60,Mujer,"Fray isidoro de Sevilla 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_3
+1934,13105,48,Hombre,"Velazquez 17, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_4
+1935,44153,43,Mujer,"Virgenes 9, 41004",41004,Sevilla,Sevilla,
+1936,44157,76,Mujer,"Rafael Laffon 6, 41008",41008,Sevilla,Sevilla,1_41_91_8_32
+1937,44160,43,Mujer,"Sevilla (de) 9, 41100",41100,Sevilla,Aljarafe,1_41_85_1_1
+1938,44165,13,Mujer,"Doctor nieto Barrera 1, 41020",41020,Sevilla,,1_41_91_9_60
+1939,44166,69,Mujer,"Barzola (de La) 66, 41008",41008,Sevilla,Sevilla,1_41_91_2_18
+1940,44169,30,Hombre,"Obradoiro (del) 11, 41019",41019,Sevilla,Sevilla,1_41_91_9_58
+1941,44170,22,Hombre,"Pino Carrasco 8, 41209",41209,Sevilla,Sevilla Norte,
+1942,44171,62,Mujer,"Fray tomas de Berlanga 7, 41010",41010,Sevilla,Sevilla,1_41_91_6_24
+1943,44172,49,Mujer,"Estrella Rigel 3, 41015",41015,Sevilla,Sevilla,1_41_91_7_47
+1944,44173,28,Mujer,"Turia 7, 41019",41019,Sevilla,Sevilla,1_41_91_9_37
+1945,44177,38,Mujer,"Nogal 22, 41309",41309,Sevilla,Sevilla Norte,1_41_59_1_11
+1946,44183,32,Hombre,"Barrionuevo 14, 41250",41250,Sevilla,Sevilla Norte,1_41_24_4_1
+1947,44185,57,Mujer,"Alcalde manuel del Valle 61, 41008",41008,Sevilla,Sevilla,1_41_91_2_49
+1948,44186,43,Hombre,"Doctor lupiañez d 2º 7, 41009",41009,Sevilla,Sevilla,1_41_91_2_9
+1949,44187,54,Hombre,"Jose del castillo Diaz 5, 41008",41008,Sevilla,Sevilla,1_41_91_8_10
+1950,44190,71,Mujer,"Baltasar Gracian 4, 41007",41007,Sevilla,Sevilla,1_41_38_4_18
+1951,44191,36,Mujer,"Blanca Paloma 8, 41009",41009,Sevilla,Sevilla,1_41_91_2_11
+1952,44193,88,Mujer,"Camino de Cantillana 7, 41230",41230,Sevilla,Sevilla Norte,
+1953,44194,41,Hombre,"Cortes de Cadiz 1, 41309",41309,Sevilla,Sevilla Norte,1_41_81_1_2
+1954,44195,73,Mujer,"Cadiz 3, 41200",41200,Sevilla,Sevilla Norte,1_41_5_2_5
+1955,44198,82,Mujer,"Estrellas 4, 41927",41927,Sevilla,,1_41_59_1_20
+1956,44199,15,Hombre,"Esperanza de la Trinidad 12, 41008",41008,Sevilla,,1_41_4_3_6
+1957,44201,14,Mujer,"Blas Infante 37, 41350",41350,Sevilla,Sevilla Norte,1_41_99_2_2
+1958,44209,48,Mujer,"Gallos 7, 41003",41003,Sevilla,Sevilla,1_41_91_1_1
+1959,44210,29,Mujer,"Albaida 3, 41008",41008,Sevilla,Sevilla,1_41_91_2_5
+1960,44212,85,Hombre,"Miguel de Unamuno 14, 41020",41020,Sevilla,Sevilla,
+1961,44214,36,Hombre,"Ronda Bonanza 38, 41727",41727,Sevilla,A.G.S. Sur de Sevilla,1_41_69_4_6
+1962,44216,28,Mujer,"Antonio Gades 56, 41310",41310,Sevilla,Sevilla Norte,1_41_18_1_7
+1963,44217,37,Mujer,"Pasaje Real 4, 41210",41210,Sevilla,Sevilla Norte,
+1964,44218,43,Mujer,"Doctor Errazquin 21, 41320",41320,Sevilla,Sevilla Norte,1_41_23_1_2
+1965,44219,36,Hombre,"Almodovar 25, 23002",23002,Jaén,Jaén,
+1966,44223,60,Mujer,"Lirio 16, 41320",41320,Sevilla,Sevilla Norte,1_41_23_2_3
+1967,44224,38,Hombre,"Manzanilla 8, 41900",41900,Sevilla,Aljarafe,1_41_21_2_2
+1968,44227,63,Mujer,"Leon Xiii 13, 41009",41009,Sevilla,,1_41_91_2_53
+1969,44229,36,Mujer,"El Muelle 2, 41340",41340,Sevilla,Sevilla Norte,1_41_92_1_4
+1970,44230,40,Mujer,"Espinillos 22, 41450",41450,Sevilla,Sevilla Norte,1_41_33_2_1
+1971,44233,81,Mujer,"Carmen colome Carranza 1, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_16
+1972,44234,25,Hombre,"Virgen del Consuelo 16, 41449",41449,Sevilla,Sevilla Norte,1_41_6_1_1
+1973,44235,88,Mujer,"Plaza carlos Arniches 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_42
+1974,44240,32,Mujer,"Pino Montano 10, 41008",41008,Sevilla,Sevilla,1_41_91_2_40
+1975,44241,25,Mujer,"Ramon y Cajal 33, 21630",21630,Huelva,Condado-Campiña,
+1976,44242,26,Mujer,"Fernando arias de Saavedra 16, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_3_5
+1977,44243,74,Hombre,"La Bola 9, 41209",41209,Sevilla,Sevilla Norte,
+1978,44244,51,Mujer,"Carretera de Carmona 51, 41008",41008,Sevilla,Sevilla,1_41_91_8_11
+1979,44246,41,Mujer,"Maracaibo 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_59
+1980,44247,29,Hombre,"Cuarzo b bj 2, 41009",41009,Sevilla,Sevilla,1_41_91_2_14
+1981,44255,44,Mujer,"Atanasio Barron 17, 41003",41003,Sevilla,Sevilla,1_41_91_3_37
+1982,44266,24,Hombre,"Venecia 12, 41008",41008,Sevilla,Sevilla,1_41_91_8_29
+1983,44268,63,Mujer,"Macarena tres huertas D 1, 41009",41009,Sevilla,Sevilla,1_41_91_2_20
+1984,44270,31,Hombre,"Nuño de Cañas 2, 11405",11405,Cádiz,Jerez-Costa Noroeste,
+1985,44274,19,Mujer,"Ciclismo 17, 41020",41020,Sevilla,Sevilla,1_41_91_9_3
+1986,44275,73,Hombre,"Enladrillada 65, 41003",41003,Sevilla,Sevilla,1_41_91_1_29
+1987,44276,24,Hombre,"Salon de Provenza 14, 9400",9400,Burgos,,
+1988,44278,72,Mujer,"Jose Laguillo 27, 41003",41003,Sevilla,Sevilla,1_41_91_8_7
+1989,44279,23,Hombre,"Manzana 12, 41009",41009,Sevilla,Sevilla,1_41_91_2_60
+1990,44284,42,Mujer,"Huerta Marina 10, 41520",41520,Sevilla,Sevilla Norte,1_41_102_1_2
+1991,44285,65,Mujer,"No Consta 0, 41003",41003,Sevilla,,
+1992,44286,51,Hombre,"Camino de los Toros 9, 41015",41015,Sevilla,Sevilla,1_41_91_7_30
+1993,44287,35,Mujer,"Playa de Chipiona 6, 41009",41009,Sevilla,Sevilla,1_41_91_2_12
+1994,44289,50,Mujer,"Romulo 8, 41089",41089,Sevilla,Sevilla,1_41_38_5_3
+1995,44290,14,Hombre,"Mar Adriatico 4, 41500",41500,Sevilla,A.G.S. Sur de Sevilla,1_41_4_4_16
+1996,44295,46,Hombre,"Adriano 3, 41410",41410,Sevilla,Sevilla Norte,1_41_91_1_35
+1997,44299,54,Mujer,"Alberto Lista 12, 41300",41300,Sevilla,Sevilla Norte,1_41_81_2_8
+1998,36098,60,Mujer,"Los Toros 12, 21260",21260,Huelva,Sevilla Norte,

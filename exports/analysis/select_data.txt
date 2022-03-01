@@ -1,0 +1,28 @@
+Para el analisis de poblacion tenermos:
+'pob1', Hombres
+'pob2', Mujeres
+'pob3', Menores de 16
+'pob4', Entre 16 y 64
+'pob5', Mayores de 64
+'pob6', Españoles
+'pob7', Extranjeros
+'pob8', Densidad de poblacion
+'edu1', Sin estudios
+'edu2', Estudios medios
+'edu3' Estudios completos
+En base a a la correlacion se eligen los atributos:
+pob1, pob3, pob5, pob7, pob8, edu1, edu3
+
+Para el analisis de condicion de vida tenemos:
+'apa1', %Primeras propiedades
+'apa2', %Segundas propiedades
+'apa3', Propiedades vacias
+'apa4', Densidad de propiedades
+'hom1', casas de 1 a 2 personas
+'hom2', casas de mas de 3 personas
+'hom3', Densidad de hogares
+'lif1', ingresos por persona
+'lif2', desempleo
+'lif3' mortalidad
+En base a a la correlacion se eligen los atributos:
+apa2, apa3, hom1, hom3, lif1, lif3

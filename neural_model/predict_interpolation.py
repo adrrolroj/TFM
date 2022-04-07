@@ -3,7 +3,7 @@ import time
 import db_calls as db
 import matplotlib.pyplot as plt
 
-from neural_model.net_model import netModel
+from neural_model.net_model import netModel, netModel_I
 import torch
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
@@ -23,8 +23,8 @@ date = '2015-07-07 00:00:00.000000'
 date_time_obj = datetime.datetime.strptime(date, '%Y-%m-%d %H:%M:%S.%f')
 INPUT_SIZE = 10
 
-model = netModel(input_size=INPUT_SIZE)
-model.load_state_dict(torch.load(f'neural_model/models/{atribute}_model.pth'))
+model = netModel_I(input_size=INPUT_SIZE)
+model.load_state_dict(torch.load(f'neural_model/models/{atribute}_model_inter.pth'))
 model.eval()
 
 points = db.get_center_density_censal(str(date_time_obj))
@@ -41,7 +41,7 @@ for index, point in points.iterrows():
 
 cusec_points = np.array(cusec_points)
 print('Saving in censal...')
-df_grid = pd.DataFrame({'cusec': cusec_points, 'values': grid_points[:, 2]})
+df_grid = pd.DataFrame({'cusec': cusec_points, atribute: grid_points[:, 2]})
 db.update_table(df_grid, 'temp_grid', 'GeoHealth', geom=False)
 df = db.join_grid_with_censal(atribute)
 

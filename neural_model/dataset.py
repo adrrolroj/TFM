@@ -20,7 +20,10 @@ class ContaminationDataset(Dataset):
             df = db.get_pollution_xy_time_density_value(atribute)
         else:
             df = db.get_pollution_xy_time_density_value(atribute, station_names)
+
         df_max_min = db.get_min_max_censal()
+
+        df['altitude'] = df['altitude'].astype('float', copy=False)
 
         # Primera entrada coordenada X
         scaler = MinMaxScaler()
@@ -59,6 +62,10 @@ class ContaminationDataset(Dataset):
         scaler.fit([[df_max_min['max_rain'][0]], [0]])
         self.rain = scaler.transform(df['rain'].values.reshape(-1, 1))
 
+        # Decima entrada altitud
+        scaler.fit([[df_max_min['max_altitude'][0]], [0]])
+        self.altitude = scaler.transform(df['altitude'].values.reshape(-1, 1))
+
         # Salida de la contaminacion del gas de entrada
         self.value = df[atribute.lower()]
         del df
@@ -70,7 +77,7 @@ class ContaminationDataset(Dataset):
     def __getitem__(self, idx):
         X = np.array(self.X[idx])
         Y = np.array(self.Y[idx])
-        month = np.array(self.day[idx])
+        day = np.array(self.day[idx])
         year = np.array(self.year[idx])
         dens_n = np.array(self.density_neigh[idx])
         dens = np.array(self.density[idx])
@@ -80,7 +87,9 @@ class ContaminationDataset(Dataset):
         wind[np.isnan(wind)] = 0.0
         rain = np.array(self.rain[idx])
         rain[np.isnan(rain)] = 0.0
-        return X, Y, month, year, dens_n, dens, temp, wind, rain, out  # El ultimo elemento siempre debe ser la salida de la red
+        altitude = np.array(self.altitude[idx])
+        altitude[np.isnan(altitude)] = 0.0
+        return X, Y, day, year, dens_n, dens, temp, wind, rain, altitude, out  # El ultimo elemento siempre debe ser la salida de la red
 
 
 def get_train_test_data(atribute, percent_test, seed):

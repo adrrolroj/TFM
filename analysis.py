@@ -92,8 +92,8 @@ def pie_graph(category, number, name):
 
 
 def compare_clustering(name1, name2, k, segmentation, show=True):
-    cluster_1 = db.get_table(f'SELECT * FROM {name1}', 'Analysis')[['geometry', segmentation]]
-    cluster_2 = db.get_table(f'SELECT * FROM {name2}', 'Analysis')[['geometry', segmentation]]
+    cluster_1 = db.get_table(f'SELECT * FROM {name1}', 'GeoHealth')[['geometry', segmentation]]
+    cluster_2 = db.get_table(f'SELECT * FROM {name2}', 'GeoHealth')[['geometry', segmentation]]
     comparative = db.compare_cluster_from_analysis(name1, name2, segmentation).groupby(['first'])
     combinations = list(permutations(range(k), k))
     values = []

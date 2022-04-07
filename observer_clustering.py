@@ -5,9 +5,9 @@ import matplotlib.image as mpimg
 from analysis import visualize_cluster_with_images
 
 # Opciones kmeans, spectral, aglomerative
-method = 'spectral'
+method = 'aglomerative'
 
-df = db.get_table(f'SELECT * FROM {method}_analysis', 'Analysis')
+df = db.get_table(f'SELECT * FROM ana_{method}_analysis', 'GeoHealth')
 pie_po = mpimg.imread(f'exports/clustering/{method}_poblation_pie_graph.png')
 profiling_po = mpimg.imread(f'exports/clustering/{method}_poblation_profiling_centers.png')
 pie_li = mpimg.imread(f'exports/clustering/{method}_life_condition_pie_graph.png')
@@ -33,6 +33,6 @@ axs2[0, 1].imshow(pie_li, aspect='equal')
 axs2[1, 1].imshow(profiling_li, aspect='auto')
 
 
-visualize_cluster_with_images(f'{method}_analysis')
+visualize_cluster_with_images(f'ana_{method}_analysis')
 plt.show()
 

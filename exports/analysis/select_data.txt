@@ -11,7 +11,7 @@ Para el analisis de poblacion tenermos:
 'edu2', Estudios medios
 'edu3' Estudios completos
 En base a a la correlacion se eligen los atributos:
-pob1, pob3, pob5, pob7, pob8, edu1, edu3
+pob2, pob3, pob5, pob7, pob8, edu1, edu2, edu3
 
 Para el analisis de condicion de vida tenemos:
 'apa1', %Primeras propiedades
@@ -25,4 +25,4 @@ Para el analisis de condicion de vida tenemos:
 'lif2', desempleo
 'lif3' mortalidad
 En base a a la correlacion se eligen los atributos:
-apa2, apa3, hom1, hom3, lif1, lif3
+apa1, apa2, apa3, hom1, hom3, lif1, lif2, lif3
